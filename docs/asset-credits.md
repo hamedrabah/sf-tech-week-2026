@@ -22,3 +22,5 @@ Alternate assets use the original light wordmarks for Fireworks, Auth0, and Nexx
 MATCH HOUSE uses ordinary text because no suitable logo was verified. Who Will Own the Future? uses the event title and an editorial topic label; no institutional host is implied.
 
 Reviewed September 23, 2026.
+
+The [social preview](assets/social-preview.png) is original artwork using the guide's colors and bridge motif. Its editable [SVG source](assets/social-preview.svg) is included. Render it at its native 1200 × 630 size with `rsvg-convert docs/assets/social-preview.svg -o docs/assets/social-preview.png` after changes; normal guide builds do not require a graphics renderer.

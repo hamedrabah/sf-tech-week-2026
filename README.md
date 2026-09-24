@@ -5,6 +5,8 @@
 
 A considered edit of SF Tech Week. Start with ten selected rooms, then explore **36 focused collections** across the full **1,713-event** calendar. October 5–11, 2026. San Francisco and the Bay Area. All times Pacific.
 
+If this guide helps you plan your week, [star the repository](https://github.com/hamedrabah/sf-tech-week-2026) so you can find it again.
+
 ## The shortlist
 
 Ten picks for founders, builders, investors, and operators. Each links directly to the organizer's application. All ten require approval; the investor breakfast is invite-only. Selection is editorial, and admission remains with the host.

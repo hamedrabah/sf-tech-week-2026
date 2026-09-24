@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">The SF Edit. San Francisco Tech Week 2026.</title>
+  <desc id="desc">October 5–11, 2026. A curated event guide, subscribable calendars, and open event data.</desc>
+  <rect width="1200" height="630" fill="#172a29"/>
+  <g stroke="#36504b" fill="none">
+    <path d="M900 0V630M1032 0V630M1170 0V630M820 140H1200M820 415H1200"/>
+  </g>
+  <g stroke="#ba945c" stroke-width="2" fill="none" opacity=".65">
+    <path d="M830 390H1200M830 402H1200M927 192V436M939 192V436M1093 192V436M1105 192V436M917 217H949M1083 217H1115"/>
+    <path d="M818 334Q882 300 933 204Q1016 432 1099 204Q1160 315 1220 337"/>
+    <path d="M850 318V390M882 287V390M914 242V390M964 273V390M992 307V390M1020 316V390M1048 299V390M1076 255V390M1128 254V390M1160 299V390M1190 321V390" opacity=".6"/>
+  </g>
+  <text x="64" y="81" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="5" fill="#ba945c">THE SF EDIT</text>
+  <text x="60" y="199" font-family="Georgia, 'Times New Roman', serif" font-size="82" fill="#f5f1e8">San Francisco.</text>
+  <text x="60" y="288" font-family="Georgia, 'Times New Roman', serif" font-size="70" font-style="italic" fill="#f5f1e8">A week, well chosen.</text>
+  <text x="65" y="351" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="2" fill="#d5dbd2">TECH WEEK 2026 / OCTOBER 05–11</text>
+  <text x="65" y="418" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#adbab0">The shortlist. The full week. Your calendar.</text>
+  <path d="M64 476H1136" stroke="#4c6058"/>
+  <text x="65" y="527" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1.5" fill="#ba945c">CURATED EVENTS · SUBSCRIBABLE CALENDARS · OPEN DATA</text>
+  <text x="65" y="576" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#f5f1e8">github.com/hamedrabah/sf-tech-week-2026</text>
+</svg>

@@ -35,6 +35,8 @@ def build_presentation(root, events, picks, collections, meta, counts, day, pick
 
 A considered edit of SF Tech Week. Start with ten selected rooms, then explore **{len(collections)} focused collections** across the full **{len(events):,}-event** calendar. October 5–11, 2026. San Francisco and the Bay Area. All times Pacific.
 
+If this guide helps you plan your week, [star the repository]({REPO}) so you can find it again.
+
 ## The shortlist
 
 Ten picks for founders, builders, investors, and operators. Each links directly to the organizer's application. All ten require approval; the investor breakfast is invite-only. Selection is editorial, and admission remains with the host.
@@ -107,6 +109,13 @@ Original prose, layouts, and code use the [MIT license](LICENSE). Third-party ma
 
 
 def build_calendar_page(root, feeds, count, collection_count, meta):
+    title = 'SF Tech Week 2026 Events & Calendars | The SF Edit'
+    description = (f'Plan SF Tech Week, October 5–11, 2026: {count:,} events, '
+                   f'{collection_count} focused collections, and a top-10 shortlist. '
+                   'Subscribe to calendars or export .ics files.')
+    image = f'{SITE}/assets/social-preview.png'
+    image_alt = ('The SF Edit: San Francisco, a week well chosen. Tech Week 2026, '
+                 'October 5–11. Curated events, subscribable calendars, and open data.')
     feed_cards = []
     for f in feeds:
         url=f'{SITE}/calendars/{f["path"]}'
@@ -117,11 +126,33 @@ def build_calendar_page(root, feeds, count, collection_count, meta):
 <div class="actions"><a class="subscribe" href="{webcal}">Subscribe ↗</a><a href="calendars/{f['path']}" download>Export .ics</a><button data-copy="{url}" aria-label="Copy subscription URL for {escape(f['label'],quote=True)}">Copy URL</button></div>
 </article>''')
     html=f'''<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Subscribe to the SF Tech Week 2026 shortlist, focused event collections, or daily calendars."><title>The SF Edit · Calendar desk</title>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{escape(title)}</title>
+<meta name="description" content="{escape(description, quote=True)}">
+<link rel="canonical" href="{SITE}/">
+<meta name="theme-color" content="#172a29">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="The SF Edit">
+<meta property="og:title" content="{escape(title, quote=True)}">
+<meta property="og:description" content="{escape(description, quote=True)}">
+<meta property="og:url" content="{SITE}/">
+<meta property="og:image" content="{image}">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{escape(image_alt, quote=True)}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{escape(title, quote=True)}">
+<meta name="twitter:description" content="{escape(description, quote=True)}">
+<meta name="twitter:image" content="{image}">
+<meta name="twitter:image:alt" content="{escape(image_alt, quote=True)}">
 <style>
 :root{{--ink:#172a29;--paper:#f5f1e8;--gold:#b29260;--muted:#5d6e64}}*{{box-sizing:border-box}}html{{scroll-behavior:smooth}}body{{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}}a{{color:inherit;text-decoration-thickness:1px;text-underline-offset:4px}}button,input{{font:inherit}}header{{background:var(--ink);color:var(--paper);padding:34px max(6vw,24px) 62px}}nav{{display:flex;justify-content:space-between;align-items:center;gap:20px;margin-bottom:60px}}.brand{{font-size:13px;letter-spacing:4px;color:#d0b283;text-decoration:none}}nav a:last-child{{font-size:13px;color:#c7d0c7}}.kicker{{font-size:12px;letter-spacing:2px;color:#d0b283;text-transform:uppercase}}h1{{font:clamp(44px,7vw,86px)/1.04 Georgia,serif;letter-spacing:-2px;margin:20px 0 24px;font-weight:normal}}header p{{max-width:630px;color:#b9c8bb;font-size:18px}}.stats{{display:flex;gap:50px;margin-top:38px;padding-top:28px;border-top:1px solid #41534b;max-width:800px}}.stats b{{font:32px Georgia,serif;display:block}}.stats small{{font-size:11px;letter-spacing:1.8px;color:#c7b08d}}main{{max-width:1280px;margin:auto;padding:46px 24px}}.guide{{display:grid;grid-template-columns:1fr 1fr;gap:32px;border-bottom:1px solid #d4d1c7;padding-bottom:30px}}h2{{font:34px/1.2 Georgia,serif;margin:0 0 16px}}.guide p{{color:var(--muted);max-width:570px;font-size:14px}}.guide ol{{padding-left:22px;margin:0;font-size:14px}}.toolbar{{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin:36px 0 28px}}.toolbar button{{border:1px solid #b5bfb3;background:transparent;border-radius:999px;padding:8px 17px;cursor:pointer;font-size:13px}}.toolbar button[aria-pressed=true]{{background:var(--ink);color:var(--paper);border-color:var(--ink)}}input{{flex:1;min-width:190px;background:transparent;border:0;border-bottom:1px solid #abb7aa;padding:10px;font-size:14px}}.grid{{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}}.feed{{padding:27px;background:#fffdf8;border:1px solid #dcded3;display:flex;flex-direction:column;scroll-margin-top:20px;min-height:230px}}.feed:first-child{{background:#e9e1d0;border-color:#b7a077}}.eyebrow{{display:flex;justify-content:space-between;gap:10px;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:#7a704f}}.eyebrow span{{letter-spacing:.3px;white-space:nowrap}}h3{{font:27px/1.12 Georgia,serif;margin:18px 0 10px}}.feed p{{font-size:13px;color:var(--muted);line-height:1.5;margin:0 0 22px}}.actions{{margin-top:auto;display:flex;gap:14px;align-items:center;flex-wrap:wrap;font-size:12px}}.subscribe{{font-weight:700}}.actions button{{padding:0;border:0;background:none;color:#52685a;font-size:12px;text-decoration:underline;text-underline-offset:4px;cursor:pointer}}.feed[hidden]{{display:none}}.note{{font-size:13px;color:var(--muted);margin:28px 0}}footer{{border-top:1px solid #d4d1c7;padding:25px 0 35px;color:var(--muted);font-size:12px}}footer a{{margin-right:20px}}#status{{min-height:24px;font-size:13px}}@media(max-width:950px){{.grid{{grid-template-columns:repeat(2,minmax(0,1fr))}}}}@media(max-width:600px){{.grid,.guide{{grid-template-columns:1fr}}nav{{margin-bottom:45px}}.stats{{gap:26px}}.stats b{{font-size:27px}}.stats small{{font-size:9px}}h1{{letter-spacing:-1px}}main{{padding:32px 20px}}.feed{{min-height:210px}}}}
+.nav-links{{display:flex;align-items:center;justify-content:flex-end;flex-wrap:wrap;gap:12px 22px}}.nav-links a{{font-size:13px;color:#c7d0c7}}.nav-links .star-link{{border:1px solid #718071;border-radius:999px;padding:8px 15px;color:var(--paper);text-decoration:none;white-space:nowrap}}.star-link:hover{{border-color:#d0b283;background:#263c32}}a:focus-visible,button:focus-visible,input:focus-visible{{outline:2px solid var(--gold);outline-offset:5px}}@media(max-width:600px){{nav{{align-items:flex-start;gap:14px}}.brand{{letter-spacing:2px;padding-top:9px;white-space:nowrap}}.nav-links{{gap:9px 14px}}.nav-links a{{font-size:12px}}.nav-links .star-link{{padding:7px 12px}}}}
 </style></head><body>
-<header><nav><a class="brand" href="{REPO}">THE SF EDIT</a><a href="{REPO}">Explore the guide ↗</a></nav><div class="kicker">San Francisco · October 05–11, 2026</div><h1>Your week.<br><i>On your calendar.</i></h1><p>Ten selected rooms. A collection that fits your interests. Or a single day in the city. Choose what belongs on your calendar.</p><div class="stats"><div><b>10</b><small>THE SHORTLIST</small></div><div><b>{collection_count}</b><small>COLLECTIONS</small></div><div><b>{count:,}</b><small>EVENTS</small></div></div></header>
+<header><nav><a class="brand" href="{REPO}">THE SF EDIT</a><div class="nav-links"><a href="{REPO}">Explore the guide ↗</a><a class="star-link" href="{REPO}" aria-label="Star the SF Tech Week guide on GitHub"><span aria-hidden="true">☆</span> Star on GitHub</a></div></nav><div class="kicker">SF Tech Week · San Francisco · October 05–11, 2026</div><h1>Your week.<br><i>On your calendar.</i></h1><p>Ten selected rooms. A collection that fits your interests. Or a single day in the city. Choose what belongs on your calendar.</p><div class="stats"><div><b>10</b><small>THE SHORTLIST</small></div><div><b>{collection_count}</b><small>COLLECTIONS</small></div><div><b>{count:,}</b><small>EVENTS</small></div></div></header>
 <main><section class="guide"><div><h2>The calendar desk</h2><p>Subscribe to receive future revisions to this guide. Export for a one-time import. Keep a dedicated calendar so these discovery listings stay separate from confirmed plans.</p></div><div><ol><li><b>Apple Calendar:</b> choose Subscribe, or File → New Calendar Subscription and paste the URL.</li><li><b>Google Calendar:</b> Copy URL, then Other calendars → + → From URL on desktop.</li><li><b>Outlook:</b> Copy URL, then Add calendar → Subscribe from web.</li></ol><p><a href="{REPO}/blob/main/docs/calendar.md">Full setup instructions and limitations ↗</a></p></div></section>
 <div class="toolbar" aria-label="Filter calendars"><button data-filter="all" aria-pressed="true">All feeds</button><button data-filter="The edit" aria-pressed="false">The shortlist</button><button data-filter="Collection" aria-pressed="false" id="collections">Collections</button><button data-filter="Day" aria-pressed="false" id="days">By day</button><input type="search" id="search" aria-label="Search calendar feeds" placeholder="Find your interest…"></div><div id="status" role="status" aria-live="polite"></div><section class="grid" aria-label="Calendar feeds">{''.join(feed_cards)}</section>
 <p class="note">All times are shown in your calendar's local time zone. The event source is Pacific time. Listings are not tickets: apply separately and confirm admission and location with the organizer. Unknown end times are left unset. This is a dated guide; subscriptions refresh when the repository changes, not directly from organizers.</p>
