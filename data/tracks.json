@@ -1,0 +1,45 @@
+[
+  {
+    "name": "AI Agents",
+    "url": "https://www.tech-week.com/calendar/sf/tracks/ai-agents"
+  },
+  {
+    "name": "AI Infrastructure & Compute",
+    "url": "https://www.tech-week.com/calendar/sf/tracks/ai-infrastructure-compute"
+  },
+  {
+    "name": "Consumer & Creative AI",
+    "url": "https://www.tech-week.com/calendar/sf/tracks/consumer-creative-ai"
+  },
+  {
+    "name": "Deep Tech",
+    "url": "https://www.tech-week.com/calendar/sf/tracks/deep-tech",
+    "note": "Official landing page combines San Francisco and Los Angeles events; check city and date. The SF-only track is https://www.tech-week.com/calendar/sf/tracks/deep-tech."
+  },
+  {
+    "name": "Developer Tools",
+    "url": "https://www.tech-week.com/calendar/sf/tracks/developer-tools"
+  },
+  {
+    "name": "Enterprise AI",
+    "url": "https://www.tech-week.com/calendar/sf/tracks/enterprise-ai"
+  },
+  {
+    "name": "Fintech",
+    "url": "https://www.tech-week.com/calendar/sf/tracks/fintech"
+  },
+  {
+    "name": "Fundraising & Investing",
+    "url": "https://www.tech-week.com/calendar/sf/tracks/fundraising-investing"
+  },
+  {
+    "name": "Hackathons and Demos",
+    "url": "https://www.tech-week.com/calendar/sf/tracks/hack-week-hackathons-and-technical-events",
+    "related_url": "https://www.tech-week.com/hack-week",
+    "note": "The Hack Week landing page combines SF and LA and also lists an SF event on October 12; filter by city and date."
+  },
+  {
+    "name": "Global Founders",
+    "url": "https://www.tech-week.com/calendar/sf/tracks/global-founders"
+  }
+]

@@ -1,0 +1,336 @@
+[
+  {
+    "name": "From Term Sheet To Cap Table - Workshop for Early Stage Founders",
+    "host": "Qapita",
+    "date": "2026-10-05",
+    "start": "10:00",
+    "neighborhood": "Downtown",
+    "themes": [
+      "Fundraising"
+    ],
+    "why": "A practical option for early founders who want to understand the mechanics around a financing round.",
+    "source_url": "https://www.tech-week.com/calendar/sf",
+    "registration_url": null,
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/from-term-sheet-to-cap-table-workshop-for-early-stage-founders-eb4f7aea-e110-4150-9dd3-018b96e4ee80",
+    "official_event_id": "eb4f7aea-e110-4150-9dd3-018b96e4ee80"
+  },
+  {
+    "name": "Future of Creativity, Experiences & Play",
+    "host": "Gold House Ventures",
+    "date": "2026-10-05",
+    "start": "14:30",
+    "neighborhood": "Downtown",
+    "themes": [
+      "Consumer",
+      "Creative AI"
+    ],
+    "why": "Adds consumer products and creative experiences to a week heavily weighted toward enterprise AI.",
+    "source_url": "https://www.tech-week.com/calendar/sf/tracks/consumer-creative-ai",
+    "registration_url": null,
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/future-of-creativity-experiences-and-play-7f94624b-3af5-4a44-907d-5dc814f0e68f",
+    "official_event_id": "7f94624b-3af5-4a44-907d-5dc814f0e68f"
+  },
+  {
+    "name": "Building the Future of Preventive Health",
+    "host": "Fenwick & West",
+    "date": "2026-10-05",
+    "start": "16:00",
+    "end": "18:00",
+    "neighborhood": "FiDi",
+    "themes": [
+      "Health"
+    ],
+    "why": "Useful for founders and investors interested in data, AI, and consumer access to preventive health.",
+    "source_url": "https://www.tech-week.com/deep-tech",
+    "registration_url": "https://partiful.com/e/AwSqINGcVmfVJOTdFSYF",
+    "registration_verified": true,
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/building-the-future-of-preventive-health-b508bc99-7126-4702-92b6-b9580717fbc2",
+    "official_event_id": "b508bc99-7126-4702-92b6-b9580717fbc2"
+  },
+  {
+    "name": "Airwallex Agentic Banking Hackathon Kickoff",
+    "host": "Airwallex",
+    "date": "2026-10-05",
+    "start": "16:30",
+    "neighborhood": "Downtown",
+    "themes": [
+      "Fintech",
+      "AI Agents",
+      "Hackathons"
+    ],
+    "why": "A focused entry point for builders interested in financial workflows and agentic banking.",
+    "source_url": "https://www.tech-week.com/calendar/sf/tracks/fintech",
+    "registration_url": null,
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/airwallex-agentic-banking-hackathon-kickoff-444952bf-6888-4798-a4a4-18e9c1c8cd90",
+    "official_event_id": "444952bf-6888-4798-a4a4-18e9c1c8cd90"
+  },
+  {
+    "name": "Reverse Pitch Night: Cleantech & Sustainability Investors",
+    "host": "Innovation Norway, Women in Cleantech & Sustainability",
+    "date": "2026-10-05",
+    "start": "17:30",
+    "neighborhood": "FiDi",
+    "themes": [
+      "Climate",
+      "Fundraising",
+      "Global Founders"
+    ],
+    "why": "Brings climate investing and international networks into the guide through an investor-led pitch format.",
+    "source_url": "https://www.tech-week.com/deep-tech",
+    "registration_url": null,
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/reverse-pitch-night-cleantech-and-sustainability-investors-d50db0ce-3431-4fbb-a31a-be272a0f5d12",
+    "official_event_id": "d50db0ce-3431-4fbb-a31a-be272a0f5d12"
+  },
+  {
+    "name": "Agents & APIs Meetup by Baseten, Postman, Rootly AI & Supabase",
+    "host": "Rootly AI, Postman",
+    "date": "2026-10-05",
+    "start": "17:30",
+    "neighborhood": "FiDi",
+    "themes": [
+      "Developer Tools",
+      "AI Agents"
+    ],
+    "why": "A useful meetup for builders working across agent applications, APIs, inference, and databases.",
+    "source_url": "https://www.tech-week.com/calendar/sf/tracks/ai-agents",
+    "registration_url": null,
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/agents-and-apis-meetup-by-baseten-postman-rootly-ai-and-supabase-bc61891f-9d97-4dfc-87d4-5480e586ced6",
+    "official_event_id": "bc61891f-9d97-4dfc-87d4-5480e586ced6"
+  },
+  {
+    "name": "Advancing Collaborative AI Drug Discovery",
+    "host": "a16z, Lilly",
+    "date": "2026-10-06",
+    "start": "08:30",
+    "end": "11:30",
+    "neighborhood": "Mission Bay",
+    "themes": [
+      "Biotech",
+      "AI"
+    ],
+    "why": "Connects datasets, biological models, and experimentation to the process of discovering medicines.",
+    "source_url": "https://www.tech-week.com/calendar/sf/events/advancing-collaborative-ai-drug-discovery-9cd59794-b4fc-429a-9932-81efc8e76566",
+    "registration_url": null,
+    "verification_note": "Canonical official page indexed in current search, corroborated on official Hack Week and Deep Tech listings.",
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/advancing-collaborative-ai-drug-discovery-9cd59794-b4fc-429a-9932-81efc8e76566",
+    "official_event_id": "9cd59794-b4fc-429a-9932-81efc8e76566"
+  },
+  {
+    "name": "Australia House - Australia's Deep Tech Edge",
+    "host": "Australian American Chamber of Commerce",
+    "date": "2026-10-06",
+    "start": "09:00",
+    "neighborhood": "Embarcadero",
+    "themes": [
+      "Global Founders",
+      "Deep Tech"
+    ],
+    "why": "A country-focused starting point for people exploring international deep-tech connections.",
+    "source_url": "https://www.tech-week.com/calendar/sf/tracks/global-founders",
+    "registration_url": null,
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/australia-house-australia-s-deep-tech-edge-498dba8b-4554-4f04-b716-15f58656980e",
+    "official_event_id": "498dba8b-4554-4f04-b716-15f58656980e"
+  },
+  {
+    "name": "US Market Entry: Unlocked w/ Deel, J.P. Morgan & Orrick",
+    "host": "Deel, J.P. Morgan, Orrick",
+    "date": "2026-10-06",
+    "start": "14:00",
+    "neighborhood": "SOMA",
+    "themes": [
+      "Global Founders"
+    ],
+    "why": "Relevant to international founders planning the operational side of entering the US market.",
+    "source_url": "https://www.tech-week.com/calendar/sf/tracks/global-founders",
+    "registration_url": null,
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/us-market-entry-unlocked-w-deel-j-p-morgan-and-orrick-e2041e31-8de3-4943-b73f-e2b9dc705daf",
+    "official_event_id": "e2041e31-8de3-4943-b73f-e2b9dc705daf"
+  },
+  {
+    "name": "Consumer tech day: pitch show & growth talk",
+    "host": "trmnl4, Flyer One Ventures, PvX Partners",
+    "date": "2026-10-06",
+    "start": "15:00",
+    "neighborhood": "Downtown",
+    "themes": [
+      "Consumer",
+      "Growth",
+      "Fundraising"
+    ],
+    "why": "Pairs consumer company discovery with a growth discussion, useful for consumer-focused founders and investors.",
+    "source_url": "https://www.tech-week.com/calendar/sf/tracks/consumer-creative-ai",
+    "registration_url": null,
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/consumer-tech-day-pitch-show-and-growth-talk-99cd1f1c-0298-44ae-b0db-0619fff52955",
+    "official_event_id": "99cd1f1c-0298-44ae-b0db-0619fff52955"
+  },
+  {
+    "name": "Agentic Commerce Meet Up",
+    "host": "Visa",
+    "date": "2026-10-06",
+    "start": "16:00",
+    "neighborhood": "Mission Bay",
+    "themes": [
+      "Fintech",
+      "AI Agents"
+    ],
+    "why": "A focused option for people following how agents change payments and commerce.",
+    "source_url": "https://www.tech-week.com/calendar/sf/tracks/fintech",
+    "registration_url": "https://partiful.com/e/AvQ6V2uhBuwbU6Ubq9v8",
+    "registration_verified": false,
+    "verification_note": "Destination returned by official RSVP redirect, but registration page could not be read by research tool.",
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/agentic-commerce-meet-up-2d2c865d-6be7-4efe-a86f-e1b5baf463c7",
+    "official_event_id": "2d2c865d-6be7-4efe-a86f-e1b5baf463c7"
+  },
+  {
+    "name": "AI Agents Builder Night with PostHog, Convex, Elastic, & Rootly AI",
+    "host": "Rootly AI, Convex",
+    "date": "2026-10-06",
+    "start": "17:30",
+    "neighborhood": "Potrero Hill",
+    "themes": [
+      "Developer Tools",
+      "AI Agents"
+    ],
+    "why": "A builder-oriented gathering spanning application infrastructure and agent development.",
+    "source_url": "https://www.tech-week.com/calendar/sf/tracks/ai-agents",
+    "registration_url": null,
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/ai-agents-builder-night-with-posthog-convex-elastic-and-rootly-ai-c124e06a-8f9c-4593-ac1e-832a2513d3e3",
+    "official_event_id": "c124e06a-8f9c-4593-ac1e-832a2513d3e3"
+  },
+  {
+    "name": "M12 X NVIDIA X ETALYTICS: The AI Power Crunch: Energy, Compute and the Race to Scale AI",
+    "host": "etalytics",
+    "date": "2026-10-06",
+    "start": "18:00",
+    "neighborhood": "SOMA",
+    "themes": [
+      "Energy",
+      "AI Infrastructure"
+    ],
+    "why": "Broadens the infrastructure discussion from model software to the energy needed to run it.",
+    "source_url": "https://www.tech-week.com/calendar/sf/tracks/ai-infrastructure-compute",
+    "registration_url": null,
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/m12-x-nvidia-x-etalytics-the-ai-power-crunch-energy-compute-and-the-race-to-scal-c6a22a3e-e21c-4826-89a0-4ce32dd0f018",
+    "official_event_id": "c6a22a3e-e21c-4826-89a0-4ce32dd0f018"
+  },
+  {
+    "name": "The Future of Health Summit",
+    "host": "ŌURA, Able Partners, J.P. Morgan",
+    "date": "2026-10-07",
+    "start": "08:30",
+    "neighborhood": "FiDi",
+    "themes": [
+      "Health",
+      "Consumer"
+    ],
+    "why": "A consumer-health complement to the more research-focused biotech sessions.",
+    "source_url": "https://www.tech-week.com/calendar/sf/events/the-future-of-health-summit-8dbde207-dcaf-495c-ab10-53944b372e5e",
+    "registration_url": null,
+    "verification_note": "Canonical official page indexed in current search, corroborated on official Deep Tech listing.",
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/the-future-of-health-summit-8dbde207-dcaf-495c-ab10-53944b372e5e",
+    "official_event_id": "8dbde207-dcaf-495c-ab10-53944b372e5e"
+  },
+  {
+    "name": "Build Agentic AI with AWS - #Startups @AWS",
+    "host": "AWS",
+    "date": "2026-10-07",
+    "start": "10:00",
+    "neighborhood": "Downtown",
+    "themes": [
+      "Developer Tools",
+      "AI Agents"
+    ],
+    "why": "A practical starting point for founders building agent applications on AWS.",
+    "source_url": "https://www.tech-week.com/calendar/sf/tracks/ai-agents",
+    "registration_url": null,
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/build-agentic-ai-with-aws-startups-aws-0d2e6948-6470-4f44-9e47-0a24a9f6623a",
+    "official_event_id": "0d2e6948-6470-4f44-9e47-0a24a9f6623a"
+  },
+  {
+    "name": "AMD x RedHat AI-Infra Workshop: High performance inference, at scale",
+    "host": "Leverage, RedHat",
+    "date": "2026-10-08",
+    "start": "10:00",
+    "neighborhood": "Mission",
+    "themes": [
+      "AI Infrastructure",
+      "Developer Tools"
+    ],
+    "why": "A technical workshop for teams whose questions are about serving models efficiently at scale.",
+    "source_url": "https://www.tech-week.com/calendar/sf/tracks/ai-infrastructure-compute",
+    "registration_url": null,
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/amd-x-redhat-ai-infra-workshop-high-performance-inference-at-scale-a064f11a-abc8-4017-ba52-897ee468ed53",
+    "official_event_id": "a064f11a-abc8-4017-ba52-897ee468ed53"
+  },
+  {
+    "name": "SkyPilot AI Infra Meetup with H Company",
+    "host": "SkyPilot, H Company",
+    "date": "2026-10-08",
+    "start": "17:30",
+    "neighborhood": "SOMA",
+    "themes": [
+      "AI Infrastructure"
+    ],
+    "why": "A focused meetup to compare infrastructure concerns with other teams building AI systems.",
+    "source_url": "https://www.tech-week.com/calendar/sf/tracks/ai-infrastructure-compute",
+    "registration_url": null,
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/skypilot-ai-infra-meetup-with-h-company-ffce7e5c-49a8-417f-bfdc-7a7ad06da8fd",
+    "official_event_id": "ffce7e5c-49a8-417f-bfdc-7a7ad06da8fd"
+  },
+  {
+    "name": "Boba & Build Night: Infra, ML, and App Dev in the Observability Age",
+    "host": "Datadog",
+    "date": "2026-10-08",
+    "start": "18:00",
+    "neighborhood": "Downtown",
+    "themes": [
+      "Developer Tools",
+      "Observability"
+    ],
+    "why": "A broad technical option spanning infrastructure, machine learning, and application development.",
+    "source_url": "https://www.tech-week.com/calendar/sf/tracks/ai-infrastructure-compute",
+    "registration_url": null,
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/boba-and-build-night-infra-ml-and-app-dev-in-the-observability-age-78cee80d-0533-44c1-a7d8-2202f36e29f0",
+    "official_event_id": "78cee80d-0533-44c1-a7d8-2202f36e29f0"
+  },
+  {
+    "name": "SpeedHacks: The Official speedrun Hackathon",
+    "host": "speedrun + speedrun Alpha",
+    "date": "2026-10-11",
+    "start": "09:00",
+    "end": "21:00",
+    "neighborhood": "Jackson Square",
+    "themes": [
+      "Weekend",
+      "Hackathons"
+    ],
+    "why": "A full-day closing build session with challenge tracks and demos; useful for people who want to leave with a project.",
+    "source_url": "https://www.tech-week.com/hack-week",
+    "registration_url": "https://partiful.com/e/tthQk11QYKKZJRKvLGBQ",
+    "registration_verified": true,
+    "practical_note": "Organizer asks participants to bring a laptop. Teams can form at the event. Admission still requires following the registration flow.",
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/speedhacks-the-official-speedrun-hackathon-30c239a4-638a-4bd6-8d51-e15259668f51",
+    "official_event_id": "30c239a4-638a-4bd6-8d51-e15259668f51"
+  },
+  {
+    "name": "Brain optimization summit 2026",
+    "host": "NeuroAge Therapeutics",
+    "date": "2026-10-11",
+    "start": "09:30",
+    "end": "17:30",
+    "neighborhood": "Dogpatch",
+    "themes": [
+      "Weekend",
+      "Neurotech",
+      "Health"
+    ],
+    "why": "A weekend option focused on neurotechnology, diagnostics, wearables, and brain-related therapeutics.",
+    "source_url": "https://longevitygl.org/brain-optimization-summit-2026/",
+    "registration_url": "https://partiful.com/e/PILcXc8bpt6AwQJxMrUZ",
+    "registration_verified": true,
+    "official_listing_url": "https://www.tech-week.com/deep-tech",
+    "practical_note": "Ticket flow is shown; check current ticket terms on the organizer page.",
+    "canonical_url": "https://www.tech-week.com/calendar/sf/events/brain-optimization-summit-2026-bfb6fa98-dde1-43d6-af54-fae311789244",
+    "official_event_id": "bfb6fa98-dde1-43d6-af54-fae311789244"
+  }
+]

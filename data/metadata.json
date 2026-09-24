@@ -1,0 +1,23 @@
+{
+  "edition": "SF Tech Week 2026",
+  "start_date": "2026-10-05",
+  "end_date": "2026-10-11",
+  "timezone": "America/Los_Angeles",
+  "checked_at": "2026-09-24T03:24:10.256338Z",
+  "checked_at_display": "September 23, 2026 (Pacific)",
+  "captured_events": 1713,
+  "official_calendar_total": 1716,
+  "outside_week_excluded": 3,
+  "coverage_summary": "All 1,713 listings starting during the official week were captured from the public calendar; its 1,716 total also includes three later events.",
+  "source_url": "https://www.tech-week.com/calendar/sf",
+  "method": "Public rendered calendar table, with every day loaded to the end; unique canonical official detail URLs. Closed events included. Host and RSVP redirect fields omitted.",
+  "day_counts": {
+    "2026-10-05": 203,
+    "2026-10-06": 395,
+    "2026-10-07": 438,
+    "2026-10-08": 398,
+    "2026-10-09": 161,
+    "2026-10-10": 85,
+    "2026-10-11": 33
+  }
+}

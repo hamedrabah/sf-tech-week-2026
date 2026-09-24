@@ -1,0 +1,24 @@
+name: Add or correct an event
+description: Suggest a public event or fix a factual detail.
+title: "[Event] "
+body:
+  - type: input
+    id: event
+    attributes:
+      label: Event title
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Public source URL
+      description: Link to the organizer or official calendar. Remove referral and invitation tokens.
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: Addition or correction
+      description: Include the date, time zone, and the public evidence for the change. Do not include personal contact details, attendee data, or private addresses.
+    validations:
+      required: true

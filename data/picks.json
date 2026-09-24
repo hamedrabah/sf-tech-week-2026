@@ -1,0 +1,411 @@
+[
+  {
+    "id": "claude-founder-house",
+    "title": "Claude Founder House",
+    "seed_rank": 1,
+    "url": "https://partiful.com/e/XaBTYkfWChPrquuI6uPH",
+    "start": "2026-10-06T08:00:00-07:00",
+    "end": "2026-10-08T20:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "city": "San Francisco",
+    "venue": null,
+    "organizers": [
+      "Anthropic"
+    ],
+    "tags": [
+      "AI",
+      "Founders",
+      "Workshops",
+      "Coworking"
+    ],
+    "admission": "Application / approval",
+    "cost": "Not published",
+    "reason_to_attend": "Work alongside the Anthropic team and combine technical office hours with founder programming.",
+    "notes": "Listed date range starts at 8:00 AM Tuesday; the description says daily cafe doors open at 11:00 AM and close at 5:00 PM, with a Thursday salon through 8:00 PM. Confirm the session you plan to attend.",
+    "verification": {
+      "checked_at": "2026-09-23",
+      "source_url": "https://partiful.com/e/XaBTYkfWChPrquuI6uPH",
+      "method": "Unauthenticated public event page and its embedded event data",
+      "verified_fields": [
+        "title",
+        "start",
+        "end",
+        "timezone",
+        "admission"
+      ],
+      "limits": [
+        "Price was not explicitly published; this is not a claim that admission is free.",
+        "Listing and application availability do not guarantee acceptance or remaining capacity.",
+        "No public venue name confirmed; confirm location through the organizer."
+      ]
+    }
+  },
+  {
+    "id": "official-tech-week-kickoff",
+    "title": "Fireworks × a16z Official Tech Week Kickoff",
+    "seed_rank": 2,
+    "url": "https://partiful.com/e/Fp4oMyFGQC6HzotKXc8T",
+    "start": "2026-10-05T18:00:00-07:00",
+    "end": "2026-10-05T22:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "city": "San Francisco",
+    "venue": null,
+    "organizers": [
+      "Fireworks",
+      "a16z",
+      "Vercel",
+      "ElevenLabs",
+      "Stripe"
+    ],
+    "tags": [
+      "AI",
+      "Networking"
+    ],
+    "admission": "Application / approval",
+    "cost": "Not published",
+    "reason_to_attend": "Start the week with networking across AI infrastructure, developer tools, and startup operations.",
+    "notes": "The description says the exact location is shared after RSVP.",
+    "verification": {
+      "checked_at": "2026-09-23",
+      "source_url": "https://partiful.com/e/Fp4oMyFGQC6HzotKXc8T",
+      "method": "Unauthenticated public event page and its embedded event data",
+      "verified_fields": [
+        "title",
+        "start",
+        "end",
+        "timezone",
+        "admission"
+      ],
+      "limits": [
+        "Price was not explicitly published; this is not a claim that admission is free.",
+        "Listing and application availability do not guarantee acceptance or remaining capacity.",
+        "No public venue name confirmed; confirm location through the organizer."
+      ]
+    }
+  },
+  {
+    "id": "capturing-value-intelligence",
+    "title": "Capturing the Value of Intelligence",
+    "seed_rank": 3,
+    "url": "https://partiful.com/e/9VljRP0TkkEpT8B3jcVF",
+    "start": "2026-10-06T16:00:00-07:00",
+    "end": "2026-10-06T18:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "city": "San Francisco",
+    "venue": "a16z Office",
+    "organizers": [
+      "HSBC Innovation Banking",
+      "a16z"
+    ],
+    "tags": [
+      "AI",
+      "Infrastructure",
+      "Investing"
+    ],
+    "admission": "Application / approval",
+    "cost": "Not published",
+    "reason_to_attend": "Hear investors and operators discuss the infrastructure and scaling requirements behind AI businesses.",
+    "notes": null,
+    "verification": {
+      "checked_at": "2026-09-23",
+      "source_url": "https://partiful.com/e/9VljRP0TkkEpT8B3jcVF",
+      "method": "Unauthenticated public event page and its embedded event data",
+      "verified_fields": [
+        "title",
+        "start",
+        "end",
+        "timezone",
+        "admission",
+        "venue"
+      ],
+      "limits": [
+        "Price was not explicitly published; this is not a claim that admission is free.",
+        "Listing and application availability do not guarantee acceptance or remaining capacity.",
+        "Public venue name only; street address omitted."
+      ]
+    }
+  },
+  {
+    "id": "speedrun-ai-faire",
+    "title": "a16z speedrun AI Faire",
+    "seed_rank": 4,
+    "url": "https://partiful.com/e/WrF0Hv7cZLnp5fHzjYAC",
+    "start": "2026-10-09T10:30:00-07:00",
+    "end": "2026-10-09T17:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "city": "San Francisco",
+    "venue": null,
+    "organizers": [
+      "a16z speedrun"
+    ],
+    "tags": [
+      "AI",
+      "Demos",
+      "Enterprise"
+    ],
+    "admission": "Application / approval",
+    "cost": "Not published",
+    "reason_to_attend": "Compare B2B AI tools through live product demos and direct conversations with startup teams.",
+    "notes": "Applications have staggered entry slots. The organizer says to wait for acceptance before making plans to attend.",
+    "verification": {
+      "checked_at": "2026-09-23",
+      "source_url": "https://partiful.com/e/WrF0Hv7cZLnp5fHzjYAC",
+      "method": "Unauthenticated public event page and its embedded event data",
+      "verified_fields": [
+        "title",
+        "start",
+        "end",
+        "timezone",
+        "admission"
+      ],
+      "limits": [
+        "Price was not explicitly published; this is not a claim that admission is free.",
+        "Listing and application availability do not guarantee acceptance or remaining capacity.",
+        "No public venue name confirmed; confirm location through the organizer."
+      ]
+    }
+  },
+  {
+    "id": "deep-tech-investor-breakfast",
+    "title": "Deep Tech Investor Breakfast",
+    "seed_rank": 5,
+    "url": "https://partiful.com/e/l2OOsMB3MHZJ9b8lzhmq",
+    "start": "2026-10-07T09:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "city": "San Francisco",
+    "venue": null,
+    "organizers": [
+      "Renegade Partners",
+      "a16z speedrun"
+    ],
+    "tags": [
+      "Deep tech",
+      "Investing",
+      "Networking"
+    ],
+    "admission": "Application / approval",
+    "cost": "Not published",
+    "reason_to_attend": "An investor-focused breakfast for exchanging views on deep-tech diligence and deal flow.",
+    "notes": "Invite-only; intended for VCs, angel investors, LPs, and family offices. The description says this is not a pitch event. No end time is published.",
+    "verification": {
+      "checked_at": "2026-09-23",
+      "source_url": "https://partiful.com/e/l2OOsMB3MHZJ9b8lzhmq",
+      "method": "Unauthenticated public event page and its embedded event data",
+      "verified_fields": [
+        "title",
+        "start",
+        "end",
+        "timezone",
+        "admission"
+      ],
+      "limits": [
+        "Price was not explicitly published; this is not a claim that admission is free.",
+        "Listing and application availability do not guarantee acceptance or remaining capacity.",
+        "No public venue name confirmed; confirm location through the organizer."
+      ]
+    }
+  },
+  {
+    "id": "match-house",
+    "title": "MATCH HOUSE San Francisco",
+    "seed_rank": 6,
+    "url": "https://partiful.com/e/xK3d559vfUGIIipkw8yp",
+    "start": "2026-10-07T12:00:00-07:00",
+    "end": "2026-10-07T17:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "city": "San Francisco",
+    "venue": null,
+    "organizers": [
+      "MATCH HOUSE"
+    ],
+    "tags": [
+      "Networking",
+      "Founders",
+      "Investing",
+      "Healthtech"
+    ],
+    "admission": "Application / approval",
+    "cost": "Not published",
+    "reason_to_attend": "Use scheduled one-to-one matching to meet relevant founders, investors, and operators.",
+    "notes": "The public listing uses an application flow; attendance requires approval.",
+    "verification": {
+      "checked_at": "2026-09-23",
+      "source_url": "https://partiful.com/e/xK3d559vfUGIIipkw8yp",
+      "method": "Unauthenticated public event page and its embedded event data",
+      "verified_fields": [
+        "title",
+        "start",
+        "end",
+        "timezone",
+        "admission"
+      ],
+      "limits": [
+        "Price was not explicitly published; this is not a claim that admission is free.",
+        "Listing and application availability do not guarantee acceptance or remaining capacity.",
+        "No public venue name confirmed; confirm location through the organizer."
+      ]
+    }
+  },
+  {
+    "id": "camp-ai-production-ready-agents",
+    "title": "Camp AI: Production-Ready Agents",
+    "seed_rank": 7,
+    "url": "https://partiful.com/e/wgzQaLCyAPobkZnJpzOP",
+    "start": "2026-10-06T17:30:00-07:00",
+    "end": "2026-10-06T20:30:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "city": "San Francisco",
+    "venue": "Ferry Building",
+    "organizers": [
+      "Auth0"
+    ],
+    "tags": [
+      "AI",
+      "Agents",
+      "Infrastructure"
+    ],
+    "admission": "Application / approval",
+    "cost": "Not published",
+    "reason_to_attend": "Explore the security, automation, and deployment work needed to put AI agents into production.",
+    "notes": null,
+    "verification": {
+      "checked_at": "2026-09-23",
+      "source_url": "https://partiful.com/e/wgzQaLCyAPobkZnJpzOP",
+      "method": "Unauthenticated public event page and its embedded event data",
+      "verified_fields": [
+        "title",
+        "start",
+        "end",
+        "timezone",
+        "admission",
+        "venue"
+      ],
+      "limits": [
+        "Price was not explicitly published; this is not a claim that admission is free.",
+        "Listing and application availability do not guarantee acceptance or remaining capacity.",
+        "Public venue name only; street address omitted."
+      ]
+    }
+  },
+  {
+    "id": "google-engineering-10x",
+    "title": "Google for Startups: Engineering 10x with Google DeepMind",
+    "seed_rank": 8,
+    "url": "https://partiful.com/e/GS2y8UzXQRzCZEw0M1ya",
+    "start": "2026-10-06T09:30:00-07:00",
+    "end": "2026-10-06T12:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "city": "San Francisco",
+    "venue": null,
+    "organizers": [
+      "Google for Startups",
+      "Google DeepMind"
+    ],
+    "tags": [
+      "AI",
+      "Founders",
+      "Demos"
+    ],
+    "admission": "Application / approval",
+    "cost": "Not published",
+    "reason_to_attend": "Pair frontier-model discussions with demos and engineering support for startup builders.",
+    "notes": "Header starts at 9:30 AM; the description mentions programming from 9:00 AM. Confirm the accepted arrival time with the organizer.",
+    "verification": {
+      "checked_at": "2026-09-23",
+      "source_url": "https://partiful.com/e/GS2y8UzXQRzCZEw0M1ya",
+      "method": "Unauthenticated public event page and its embedded event data",
+      "verified_fields": [
+        "title",
+        "start",
+        "end",
+        "timezone",
+        "admission"
+      ],
+      "limits": [
+        "Price was not explicitly published; this is not a claim that admission is free.",
+        "Listing and application availability do not guarantee acceptance or remaining capacity.",
+        "No public venue name confirmed; confirm location through the organizer."
+      ]
+    }
+  },
+  {
+    "id": "nexxaworld",
+    "title": "NexxaWorld",
+    "seed_rank": 9,
+    "url": "https://partiful.com/e/uJMR8t2zTYWJiNyS7VLp",
+    "start": "2026-10-07T17:00:00-07:00",
+    "end": null,
+    "timezone": "America/Los_Angeles",
+    "city": "San Francisco",
+    "venue": null,
+    "organizers": [
+      "Nexxa.ai",
+      "a16z"
+    ],
+    "tags": [
+      "AI",
+      "Industrial tech",
+      "Networking"
+    ],
+    "admission": "Application / approval",
+    "cost": "Not published",
+    "reason_to_attend": "Meet teams applying AI to industrial operations and hear enterprise perspectives on adoption.",
+    "notes": "No end time is published.",
+    "verification": {
+      "checked_at": "2026-09-23",
+      "source_url": "https://partiful.com/e/uJMR8t2zTYWJiNyS7VLp",
+      "method": "Unauthenticated public event page and its embedded event data",
+      "verified_fields": [
+        "title",
+        "start",
+        "end",
+        "timezone",
+        "admission"
+      ],
+      "limits": [
+        "Price was not explicitly published; this is not a claim that admission is free.",
+        "Listing and application availability do not guarantee acceptance or remaining capacity.",
+        "No public venue name confirmed; confirm location through the organizer."
+      ]
+    }
+  },
+  {
+    "id": "who-will-own-future",
+    "title": "Who Will Own the Future?",
+    "seed_rank": 10,
+    "url": "https://partiful.com/e/xoXjF4aybCw6UY4XxY80",
+    "start": "2026-10-08T18:00:00-07:00",
+    "end": "2026-10-08T22:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "city": "San Francisco",
+    "venue": null,
+    "organizers": [],
+    "tags": [
+      "Investing",
+      "Technology",
+      "Networking"
+    ],
+    "admission": "Application / approval",
+    "cost": "Not published",
+    "reason_to_attend": "An evening connecting technology and investment perspectives, followed by networking.",
+    "notes": null,
+    "verification": {
+      "checked_at": "2026-09-23",
+      "source_url": "https://partiful.com/e/xoXjF4aybCw6UY4XxY80",
+      "method": "Unauthenticated public event page and its embedded event data",
+      "verified_fields": [
+        "title",
+        "start",
+        "end",
+        "timezone",
+        "admission"
+      ],
+      "limits": [
+        "Price was not explicitly published; this is not a claim that admission is free.",
+        "Listing and application availability do not guarantee acceptance or remaining capacity.",
+        "No public venue name confirmed; confirm location through the organizer."
+      ]
+    }
+  }
+]
