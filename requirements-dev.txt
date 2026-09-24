@@ -1,0 +1,2 @@
+# Independent parser used only by the calendar tests.
+icalendar==7.3.0

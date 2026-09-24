@@ -36,9 +36,20 @@ where present, links the selection to its official event page. A direct
 `registration_verified` is `true`. A resolved link alone is not a check of the
 page's contents. Theme labels in these picks are editorial.
 
-`data/tracks.json` points to official curated tracks. Generated keyword indexes
-are separate from these tracks: their regular expressions are published in
-each index and in `scripts/build.py`.
+`data/tracks.json` points to official curated tracks. `data/collections.json`
+contains the guide's separate editorial collections, each with an ID, name,
+description, and explicit list of event IDs. Every catalog event appears in
+exactly one collection. The deterministic title rules and reviewed overrides
+are in `scripts/categorize.py`; categories are not padded to meet a quota.
+
+`data/brands.json` records the source and checksum for every logo used in the
+shortlist, with explicit text fallbacks where no suitable mark was verified.
+See [visual credits](asset-credits.md) for third-party rights and preparation.
+
+`docs/calendars/` contains RFC 5545 exports for the ten, the complete catalog,
+each collection, and each day. Stable event IDs are shared across feeds. See
+[calendar notes](calendar.md) for timing, subscription behavior, and unknown
+durations.
 
 CSV cells starting with spreadsheet formula characters are prefixed with a
 single quote for safer spreadsheet import. JSON retains the original text.

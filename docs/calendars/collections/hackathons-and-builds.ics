@@ -1,0 +1,708 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SF Tech Week Community Guide//2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SF Tech Week 2026 — Hackathons & hands-on builds
+X-WR-CALDESC:General hackathons\, buildathons and practical building sessio
+ ns without a more specific primary subject.
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:urn:uuid:85d82db4-ad3c-401e-8698-eafc43a8ea29
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261005T230000Z
+LOCATION:Palo Alto (general area\; confirm venue)
+SUMMARY:/build-with-AI Buildathon
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/build-with-ai-buildathon-85
+ d82db4-ad3c-401e-8698-eafc43a8ea29\n\nCalendar label at snapshot: Unspecif
+ ied. This label is not an admission guarantee.\n\nSource snapshot: 2026-09
+ -24T03:24:10.256338Z. This feed updates only when the repository is update
+ d.\n\nEnd time is unknown in this guide. No end or duration is supplied\; 
+ calendar apps may display this as a point event or apply their own visual 
+ default.\n\nGeneral area from official calendar: Palo Alto. Area labels ca
+ n differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/build-with-ai-buildathon-8
+ 5d82db4-ad3c-401e-8698-eafc43a8ea29
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5957c8e6-f9ce-4424-9f90-aa21ce8a8699
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T000000Z
+LOCATION:Jackson Square (general area\; confirm venue)
+SUMMARY:A Hack of All Trades
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/a-hack-of-all-trades-5957c8
+ e6-f9ce-4424-9f90-aa21ce8a8699\n\nCalendar label at snapshot: Unspecified.
+  This label is not an admission guarantee.\n\nSource snapshot: 2026-09-24T
+ 03:24:10.256338Z. This feed updates only when the repository is updated.\n
+ \nEnd time is unknown in this guide. No end or duration is supplied\; cale
+ ndar apps may display this as a point event or apply their own visual defa
+ ult.\n\nGeneral area from official calendar: Jackson Square. Area labels c
+ an differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/a-hack-of-all-trades-5957c
+ 8e6-f9ce-4424-9f90-aa21ce8a8699
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:85ba1851-ec51-40cf-904f-edfd4f9a66a8
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T000000Z
+LOCATION:Embarcadero (general area\; confirm venue)
+SUMMARY:Hack Alcatraz with Cloudflare and Kling AI
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/hack-alcatraz-with-cloudfla
+ re-and-kling-ai-85ba1851-ec51-40cf-904f-edfd4f9a66a8\n\nCalendar label at 
+ snapshot: Waitlist. This label is not an admission guarantee.\n\nSource sn
+ apshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the repos
+ itory is updated.\n\nEnd time is unknown in this guide. No end or duration
+  is supplied\; calendar apps may display this as a point event or apply th
+ eir own visual default.\n\nGeneral area from official calendar: Embarcader
+ o. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/hack-alcatraz-with-cloudfl
+ are-and-kling-ai-85ba1851-ec51-40cf-904f-edfd4f9a66a8
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:33acf3cd-ea43-42df-8d22-9f12e18131d9
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T150000Z
+LOCATION:Union Square (general area\; confirm venue)
+SUMMARY:Neural Concept WorkShop
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/neural-concept-workshop-33a
+ cf3cd-ea43-42df-8d22-9f12e18131d9\n\nCalendar label at snapshot: Unspecifi
+ ed. This label is not an admission guarantee.\n\nSource snapshot: 2026-09-
+ 24T03:24:10.256338Z. This feed updates only when the repository is updated
+ .\n\nEnd time is unknown in this guide. No end or duration is supplied\; c
+ alendar apps may display this as a point event or apply their own visual d
+ efault.\n\nGeneral area from official calendar: Union Square. Area labels 
+ can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/neural-concept-workshop-33
+ acf3cd-ea43-42df-8d22-9f12e18131d9
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:72f1b647-7110-41ce-8970-50a98f772936
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T170000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Bollywood Dance Workshop for Founders and Funders
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/bollywood-dance-workshop-fo
+ r-founders-and-funders-72f1b647-7110-41ce-8970-50a98f772936\n\nCalendar la
+ bel at snapshot: Unspecified. This label is not an admission guarantee.\n\
+ nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when
+  the repository is updated.\n\nEnd time is unknown in this guide. No end o
+ r duration is supplied\; calendar apps may display this as a point event o
+ r apply their own visual default.\n\nGeneral area from official calendar: 
+ SOMA. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/bollywood-dance-workshop-f
+ or-founders-and-funders-72f1b647-7110-41ce-8970-50a98f772936
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b4f0a705-eebd-48b3-9f05-e5b17680ac4a
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T190000Z
+LOCATION:Mission (general area\; confirm venue)
+SUMMARY:The AI Line Cook Challenge: Build Your Own Lunch with Nectao
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/the-ai-line-cook-challenge-
+ build-your-own-lunch-with-nectao-b4f0a705-eebd-48b3-9f05-e5b17680ac4a\n\nC
+ alendar label at snapshot: Unspecified. This label is not an admission gua
+ rantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates
+  only when the repository is updated.\n\nEnd time is unknown in this guide
+ . No end or duration is supplied\; calendar apps may display this as a poi
+ nt event or apply their own visual default.\n\nGeneral area from official 
+ calendar: Mission. Area labels can differ from organizer pages\; confirm t
+ he venue.
+URL:https://www.tech-week.com/calendar/sf/events/the-ai-line-cook-challenge
+ -build-your-own-lunch-with-nectao-b4f0a705-eebd-48b3-9f05-e5b17680ac4a
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:ea35ffac-10ca-48c9-93f5-1bd3eb8bae9b
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T233000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Hacking AI For Fun and Profit
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/hacking-ai-for-fun-and-prof
+ it-ea35ffac-10ca-48c9-93f5-1bd3eb8bae9b\n\nCalendar label at snapshot: Wai
+ tlist. This label is not an admission guarantee.\n\nSource snapshot: 2026-
+ 09-24T03:24:10.256338Z. This feed updates only when the repository is upda
+ ted.\n\nEnd time is unknown in this guide. No end or duration is supplied\
+ ; calendar apps may display this as a point event or apply their own visua
+ l default.\n\nGeneral area from official calendar: FiDi. Area labels can d
+ iffer from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/hacking-ai-for-fun-and-pro
+ fit-ea35ffac-10ca-48c9-93f5-1bd3eb8bae9b
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:82574741-ca46-4bb5-8187-0aff4dc31df2
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T000000Z
+LOCATION:Marina (general area\; confirm venue)
+SUMMARY:Marathon Mode Hackathon (No Compaction Allowed)
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/marathon-mode-hackathon-no-
+ compaction-allowed-82574741-ca46-4bb5-8187-0aff4dc31df2\n\nCalendar label 
+ at snapshot: Unspecified. This label is not an admission guarantee.\n\nSou
+ rce snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the
+  repository is updated.\n\nEnd time is unknown in this guide. No end or du
+ ration is supplied\; calendar apps may display this as a point event or ap
+ ply their own visual default.\n\nGeneral area from official calendar: Mari
+ na. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/marathon-mode-hackathon-no
+ -compaction-allowed-82574741-ca46-4bb5-8187-0aff4dc31df2
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:355e20c1-645b-4e5b-837d-fc470fbe1e4a
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T190000Z
+LOCATION:Alamo Square (general area\; confirm venue)
+SUMMARY:CTRL Escape Room Hackathon
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/ctrl-escape-room-hackathon-
+ 355e20c1-645b-4e5b-837d-fc470fbe1e4a\n\nCalendar label at snapshot: Unspec
+ ified. This label is not an admission guarantee.\n\nSource snapshot: 2026-
+ 09-24T03:24:10.256338Z. This feed updates only when the repository is upda
+ ted.\n\nEnd time is unknown in this guide. No end or duration is supplied\
+ ; calendar apps may display this as a point event or apply their own visua
+ l default.\n\nGeneral area from official calendar: Alamo Square. Area labe
+ ls can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/ctrl-escape-room-hackathon
+ -355e20c1-645b-4e5b-837d-fc470fbe1e4a
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:52d3d907-4c2f-4335-b2c1-51c908eaa32b
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T190000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:The Musa Labs Hackathon
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/the-musa-labs-hackathon-52d
+ 3d907-4c2f-4335-b2c1-51c908eaa32b\n\nCalendar label at snapshot: Unspecifi
+ ed. This label is not an admission guarantee.\n\nSource snapshot: 2026-09-
+ 24T03:24:10.256338Z. This feed updates only when the repository is updated
+ .\n\nEnd time is unknown in this guide. No end or duration is supplied\; c
+ alendar apps may display this as a point event or apply their own visual d
+ efault.\n\nGeneral area from official calendar: Downtown. Area labels can 
+ differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/the-musa-labs-hackathon-52
+ d3d907-4c2f-4335-b2c1-51c908eaa32b
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:0d83e244-e98c-4b78-9cde-d48a9a56d489
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T210000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Pax Silica Hackathon: The Nordic x Silicon Valley Innovation​
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/pax-silica-hackathon-the-no
+ rdic-x-silicon-valley-innovation-0d83e244-e98c-4b78-9cde-d48a9a56d489\n\nC
+ alendar label at snapshot: Unspecified. This label is not an admission gua
+ rantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates
+  only when the repository is updated.\n\nEnd time is unknown in this guide
+ . No end or duration is supplied\; calendar apps may display this as a poi
+ nt event or apply their own visual default.\n\nGeneral area from official 
+ calendar: FiDi. Area labels can differ from organizer pages\; confirm the 
+ venue.
+URL:https://www.tech-week.com/calendar/sf/events/pax-silica-hackathon-the-n
+ ordic-x-silicon-valley-innovation-0d83e244-e98c-4b78-9cde-d48a9a56d489
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:90ad4b40-ffe4-4bae-a6eb-f3fa1fb31ce5
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T000000Z
+LOCATION:Mountain View (general area\; confirm venue)
+SUMMARY:Morph-a-thon : Describe Your App\, Close Your Laptop
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/morph-a-thon-describe-your-
+ app-close-your-laptop-90ad4b40-ffe4-4bae-a6eb-f3fa1fb31ce5\n\nCalendar lab
+ el at snapshot: Unspecified. This label is not an admission guarantee.\n\n
+ Source snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when 
+ the repository is updated.\n\nEnd time is unknown in this guide. No end or
+  duration is supplied\; calendar apps may display this as a point event or
+  apply their own visual default.\n\nGeneral area from official calendar: M
+ ountain View. Area labels can differ from organizer pages\; confirm the ve
+ nue.
+URL:https://www.tech-week.com/calendar/sf/events/morph-a-thon-describe-your
+ -app-close-your-laptop-90ad4b40-ffe4-4bae-a6eb-f3fa1fb31ce5
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c6f39c53-2ba8-46a5-8ab3-5cfd804f9d3a
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T020000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Build Your Life Like a Startup
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/build-your-life-like-a-star
+ tup-c6f39c53-2ba8-46a5-8ab3-5cfd804f9d3a\n\nCalendar label at snapshot: Un
+ specified. This label is not an admission guarantee.\n\nSource snapshot: 2
+ 026-09-24T03:24:10.256338Z. This feed updates only when the repository is 
+ updated.\n\nEnd time is unknown in this guide. No end or duration is suppl
+ ied\; calendar apps may display this as a point event or apply their own v
+ isual default.\n\nGeneral area from official calendar: SOMA. Area labels c
+ an differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/build-your-life-like-a-sta
+ rtup-c6f39c53-2ba8-46a5-8ab3-5cfd804f9d3a
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:98e99f10-cc8c-4492-a5b6-f2608e998e9e
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T160000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Inception Studio AI Buildathon
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/inception-studio-ai-buildat
+ hon-98e99f10-cc8c-4492-a5b6-f2608e998e9e\n\nCalendar label at snapshot: Un
+ specified. This label is not an admission guarantee.\n\nSource snapshot: 2
+ 026-09-24T03:24:10.256338Z. This feed updates only when the repository is 
+ updated.\n\nEnd time is unknown in this guide. No end or duration is suppl
+ ied\; calendar apps may display this as a point event or apply their own v
+ isual default.\n\nGeneral area from official calendar: SOMA. Area labels c
+ an differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/inception-studio-ai-builda
+ thon-98e99f10-cc8c-4492-a5b6-f2608e998e9e
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5835a361-5fa2-4daa-8e61-14bc4482afa6
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T170000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Multiplayer AI Hackathon
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/multiplayer-ai-hackathon-58
+ 35a361-5fa2-4daa-8e61-14bc4482afa6\n\nCalendar label at snapshot: Unspecif
+ ied. This label is not an admission guarantee.\n\nSource snapshot: 2026-09
+ -24T03:24:10.256338Z. This feed updates only when the repository is update
+ d.\n\nEnd time is unknown in this guide. No end or duration is supplied\; 
+ calendar apps may display this as a point event or apply their own visual 
+ default.\n\nGeneral area from official calendar: SOMA. Area labels can dif
+ fer from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/multiplayer-ai-hackathon-5
+ 835a361-5fa2-4daa-8e61-14bc4482afa6
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c9f7ec58-e171-4c22-ad09-7f0e7e4055ce
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T170000Z
+LOCATION:Virtual (general area\; confirm venue)
+SUMMARY:Scale Client Delivery\, Not Headcount: The AI-Native Agency Worksho
+ p
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/scale-client-delivery-not-h
+ eadcount-the-ai-native-agency-workshop-c9f7ec58-e171-4c22-ad09-7f0e7e4055c
+ e\n\nCalendar label at snapshot: Unspecified. This label is not an admissi
+ on guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed u
+ pdates only when the repository is updated.\n\nEnd time is unknown in this
+  guide. No end or duration is supplied\; calendar apps may display this as
+  a point event or apply their own visual default.\n\nGeneral area from off
+ icial calendar: Virtual. Area labels can differ from organizer pages\; con
+ firm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/scale-client-delivery-not-
+ headcount-the-ai-native-agency-workshop-c9f7ec58-e171-4c22-ad09-7f0e7e4055
+ ce
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:1a16a0cc-3bb7-42e3-aacb-7e65f92bfcd3
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T180000Z
+LOCATION:Virtual (general area\; confirm venue)
+SUMMARY:​Lunch & Hack: The Latest SF Tech Trends
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/lunch-and-hack-the-latest-s
+ f-tech-trends-1a16a0cc-3bb7-42e3-aacb-7e65f92bfcd3\n\nCalendar label at sn
+ apshot: Unspecified. This label is not an admission guarantee.\n\nSource s
+ napshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the repo
+ sitory is updated.\n\nEnd time is unknown in this guide. No end or duratio
+ n is supplied\; calendar apps may display this as a point event or apply t
+ heir own visual default.\n\nGeneral area from official calendar: Virtual. 
+ Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/lunch-and-hack-the-latest-
+ sf-tech-trends-1a16a0cc-3bb7-42e3-aacb-7e65f92bfcd3
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:485cb9e0-207a-4623-a194-95f7b0cc074d
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T210000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Sip & Create - Build Your Own Game
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/sip-and-create-build-your-o
+ wn-game-485cb9e0-207a-4623-a194-95f7b0cc074d\n\nCalendar label at snapshot
+ : Unspecified. This label is not an admission guarantee.\n\nSource snapsho
+ t: 2026-09-24T03:24:10.256338Z. This feed updates only when the repository
+  is updated.\n\nEnd time is unknown in this guide. No end or duration is s
+ upplied\; calendar apps may display this as a point event or apply their o
+ wn visual default.\n\nGeneral area from official calendar: FiDi. Area labe
+ ls can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/sip-and-create-build-your-
+ own-game-485cb9e0-207a-4623-a194-95f7b0cc074d
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:6a9a5e90-4c6a-4936-82f4-3d724f3966c0
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T000000Z
+LOCATION:Hayes Valley (general area\; confirm venue)
+SUMMARY:Vibe Coach Hack Night
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/vibe-coach-hack-night-6a9a5
+ e90-4c6a-4936-82f4-3d724f3966c0\n\nCalendar label at snapshot: Unspecified
+ . This label is not an admission guarantee.\n\nSource snapshot: 2026-09-24
+ T03:24:10.256338Z. This feed updates only when the repository is updated.\
+ n\nEnd time is unknown in this guide. No end or duration is supplied\; cal
+ endar apps may display this as a point event or apply their own visual def
+ ault.\n\nGeneral area from official calendar: Hayes Valley. Area labels ca
+ n differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/vibe-coach-hack-night-6a9a
+ 5e90-4c6a-4936-82f4-3d724f3966c0
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b704e408-bd89-4732-93cb-6f62e2429c4e
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T000000Z
+LOCATION:Other (general area\; confirm venue)
+SUMMARY:Everesteer Hedge Fund Hackathon
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/everesteer-hedge-fund-hacka
+ thon-b704e408-bd89-4732-93cb-6f62e2429c4e\n\nCalendar label at snapshot: U
+ nspecified. This label is not an admission guarantee.\n\nSource snapshot: 
+ 2026-09-24T03:24:10.256338Z. This feed updates only when the repository is
+  updated.\n\nEnd time is unknown in this guide. No end or duration is supp
+ lied\; calendar apps may display this as a point event or apply their own 
+ visual default.\n\nGeneral area from official calendar: Other. Area labels
+  can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/everesteer-hedge-fund-hack
+ athon-b704e408-bd89-4732-93cb-6f62e2429c4e
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:e07a0286-cd45-4aba-b24c-9667141ca09e
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T180000Z
+LOCATION:Union Square (general area\; confirm venue)
+SUMMARY:MiHu AI Hackathon & VC Panel
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/mihu-ai-hackathon-and-vc-pa
+ nel-e07a0286-cd45-4aba-b24c-9667141ca09e\n\nCalendar label at snapshot: Fu
+ ll. This label is not an admission guarantee.\n\nSource snapshot: 2026-09-
+ 24T03:24:10.256338Z. This feed updates only when the repository is updated
+ .\n\nEnd time is unknown in this guide. No end or duration is supplied\; c
+ alendar apps may display this as a point event or apply their own visual d
+ efault.\n\nGeneral area from official calendar: Union Square. Area labels 
+ can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/mihu-ai-hackathon-and-vc-p
+ anel-e07a0286-cd45-4aba-b24c-9667141ca09e
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:6beef900-cbe4-44ce-837c-c03cc7386171
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T210000Z
+LOCATION:Ocean Beach (general area\; confirm venue)
+SUMMARY:Sunset Neighborhood Build-a-thon
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/sunset-neighborhood-build-a
+ -thon-6beef900-cbe4-44ce-837c-c03cc7386171\n\nCalendar label at snapshot: 
+ Unspecified. This label is not an admission guarantee.\n\nSource snapshot:
+  2026-09-24T03:24:10.256338Z. This feed updates only when the repository i
+ s updated.\n\nEnd time is unknown in this guide. No end or duration is sup
+ plied\; calendar apps may display this as a point event or apply their own
+  visual default.\n\nGeneral area from official calendar: Ocean Beach. Area
+  labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/sunset-neighborhood-build-
+ a-thon-6beef900-cbe4-44ce-837c-c03cc7386171
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:71114bbd-fa79-4788-9f64-4cbf64ac18ff
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T230000Z
+LOCATION:Stanford (general area\; confirm venue)
+SUMMARY:Future of Work Hackathon: Building from the Farm @Stanford Universi
+ ty
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/future-of-work-hackathon-bu
+ ilding-from-the-farm-stanford-university-71114bbd-fa79-4788-9f64-4cbf64ac1
+ 8ff\n\nCalendar label at snapshot: Unspecified. This label is not an admis
+ sion guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed
+  updates only when the repository is updated.\n\nEnd time is unknown in th
+ is guide. No end or duration is supplied\; calendar apps may display this 
+ as a point event or apply their own visual default.\n\nGeneral area from o
+ fficial calendar: Stanford. Area labels can differ from organizer pages\; 
+ confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/future-of-work-hackathon-b
+ uilding-from-the-farm-stanford-university-71114bbd-fa79-4788-9f64-4cbf64ac
+ 18ff
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:ea946aa4-3237-4345-841c-5a22d4424a7b
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261010T163000Z
+LOCATION:Mountain View (general area\; confirm venue)
+SUMMARY:AI Hackathon
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/ai-hackathon-ea946aa4-3237-
+ 4345-841c-5a22d4424a7b\n\nCalendar label at snapshot: Unspecified. This la
+ bel is not an admission guarantee.\n\nSource snapshot: 2026-09-24T03:24:10
+ .256338Z. This feed updates only when the repository is updated.\n\nEnd ti
+ me is unknown in this guide. No end or duration is supplied\; calendar app
+ s may display this as a point event or apply their own visual default.\n\n
+ General area from official calendar: Mountain View. Area labels can differ
+  from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/ai-hackathon-ea946aa4-3237
+ -4345-841c-5a22d4424a7b
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:ad78474b-b1ab-4411-a298-eb2ff9b8d6b1
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261010T180000Z
+LOCATION:Virtual (general area\; confirm venue)
+SUMMARY:Sip & Ship: The Un-Hackathon
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/sip-and-ship-the-un-hackath
+ on-ad78474b-b1ab-4411-a298-eb2ff9b8d6b1\n\nCalendar label at snapshot: Uns
+ pecified. This label is not an admission guarantee.\n\nSource snapshot: 20
+ 26-09-24T03:24:10.256338Z. This feed updates only when the repository is u
+ pdated.\n\nEnd time is unknown in this guide. No end or duration is suppli
+ ed\; calendar apps may display this as a point event or apply their own vi
+ sual default.\n\nGeneral area from official calendar: Virtual. Area labels
+  can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/sip-and-ship-the-un-hackat
+ hon-ad78474b-b1ab-4411-a298-eb2ff9b8d6b1
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:791a30bf-753e-4452-b3ba-3892e8975d47
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261011T010000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:AdaL Workshop
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/adal-workshop-791a30bf-753e
+ -4452-b3ba-3892e8975d47\n\nCalendar label at snapshot: Unspecified. This l
+ abel is not an admission guarantee.\n\nSource snapshot: 2026-09-24T03:24:1
+ 0.256338Z. This feed updates only when the repository is updated.\n\nEnd t
+ ime is unknown in this guide. No end or duration is supplied\; calendar ap
+ ps may display this as a point event or apply their own visual default.\n\
+ nGeneral area from official calendar: Downtown. Area labels can differ fro
+ m organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/adal-workshop-791a30bf-753
+ e-4452-b3ba-3892e8975d47
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:30c239a4-638a-4bd6-8d51-e15259668f51
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261011T160000Z
+LOCATION:Jackson Square (general area\; confirm venue)
+SUMMARY:SpeedHacks: The Official speedrun Hackathon
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/speedhacks-the-official-spe
+ edrun-hackathon-30c239a4-638a-4bd6-8d51-e15259668f51\n\nCalendar label at 
+ snapshot: Unspecified. This label is not an admission guarantee.\n\nSource
+  snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the re
+ pository is updated.\n\nEnd time is unknown in this guide. No end or durat
+ ion is supplied\; calendar apps may display this as a point event or apply
+  their own visual default.\n\nGeneral area from official calendar: Jackson
+  Square. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/speedhacks-the-official-sp
+ eedrun-hackathon-30c239a4-638a-4bd6-8d51-e15259668f51
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:ec78848e-a5f0-4a6e-a650-d4659571e7d6
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261011T160000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:AI-Native Startup Hackathon
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/ai-native-startup-hackathon
+ -ec78848e-a5f0-4a6e-a650-d4659571e7d6\n\nCalendar label at snapshot: Unspe
+ cified. This label is not an admission guarantee.\n\nSource snapshot: 2026
+ -09-24T03:24:10.256338Z. This feed updates only when the repository is upd
+ ated.\n\nEnd time is unknown in this guide. No end or duration is supplied
+ \; calendar apps may display this as a point event or apply their own visu
+ al default.\n\nGeneral area from official calendar: Downtown. Area labels 
+ can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/ai-native-startup-hackatho
+ n-ec78848e-a5f0-4a6e-a650-d4659571e7d6
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:eca8c380-bb81-4f5a-bc1a-5a2ea49f50e3
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261011T170000Z
+LOCATION:East Bay (general area\; confirm venue)
+SUMMARY:B@BHacks 2.0 ($10k in prizes)
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/b-bhacks-2-0-10k-in-prizes-
+ eca8c380-bb81-4f5a-bc1a-5a2ea49f50e3\n\nCalendar label at snapshot: Unspec
+ ified. This label is not an admission guarantee.\n\nSource snapshot: 2026-
+ 09-24T03:24:10.256338Z. This feed updates only when the repository is upda
+ ted.\n\nEnd time is unknown in this guide. No end or duration is supplied\
+ ; calendar apps may display this as a point event or apply their own visua
+ l default.\n\nGeneral area from official calendar: East Bay. Area labels c
+ an differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/b-bhacks-2-0-10k-in-prizes
+ -eca8c380-bb81-4f5a-bc1a-5a2ea49f50e3
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:9d45348f-7a48-481b-bfcf-9eb3653f6e62
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261011T200000Z
+LOCATION:East Bay (general area\; confirm venue)
+SUMMARY:UC Berkeley Innovation Intelligence Hackathon
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/uc-berkeley-innovation-inte
+ lligence-hackathon-9d45348f-7a48-481b-bfcf-9eb3653f6e62\n\nCalendar label 
+ at snapshot: Unspecified. This label is not an admission guarantee.\n\nSou
+ rce snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the
+  repository is updated.\n\nEnd time is unknown in this guide. No end or du
+ ration is supplied\; calendar apps may display this as a point event or ap
+ ply their own visual default.\n\nGeneral area from official calendar: East
+  Bay. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/uc-berkeley-innovation-int
+ elligence-hackathon-9d45348f-7a48-481b-bfcf-9eb3653f6e62
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="570" viewBox="0 0 1440 570" role="img" aria-labelledby="title desc">
+<title id="title">The SF Edit. San Francisco Tech Week 2026.</title>
+<desc id="desc">October 5–11. Ten selected events. 1,713 public listings. 36 focused collections.</desc>
+<rect width="1440" height="570" fill="#172a29"/>
+<path d="M928 0V570M960 0V570M1116 0V570M1334 0V570M884 132H1440M884 375H1440" stroke="#36504b" stroke-width="1"/>
+<g fill="none" stroke="#c8ab7d" stroke-width="2" opacity=".58">
+<path d="M870 366H1410M873 380H1410M996 126V408M1009 126V408M1272 126V408M1285 126V408M985 153H1020M1261 153H1296M985 198H1020M1261 198H1296"/>
+<path d="M862 303Q937 269 1002 145Q1137 405 1278 145Q1346 264 1420 303"/>
+<path d="M904 255.6V366" opacity=".55"/>
+<path d="M935 220.6V366" opacity=".55"/>
+<path d="M966 185.6V366" opacity=".55"/>
+<path d="M997 150.6V366" opacity=".55"/>
+<path d="M1028 187.7V366" opacity=".55"/>
+<path d="M1059 226.9V366" opacity=".55"/>
+<path d="M1090 253.6V366" opacity=".55"/>
+<path d="M1121 267.6V366" opacity=".55"/>
+<path d="M1152 269.1V366" opacity=".55"/>
+<path d="M1183 257.9V366" opacity=".55"/>
+<path d="M1214 234.1V366" opacity=".55"/>
+<path d="M1245 197.6V366" opacity=".55"/>
+<path d="M1276 148.6V366" opacity=".55"/>
+<path d="M1307 177.3V366" opacity=".55"/>
+<path d="M1338 211.8V366" opacity=".55"/>
+<path d="M1369 246.3V366" opacity=".55"/>
+</g>
+<text x="60" y="67" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#ba945c" letter-spacing="5">THE SF EDIT</text>
+<text x="60" y="160" font-family="Georgia, 'Times New Roman', serif" font-size="82" fill="#f5f1e8" >San Francisco.</text>
+<text x="60" y="251" font-family="Georgia, 'Times New Roman', serif" font-size="70" fill="#f5f1e8" font-style="italic">A week, well chosen.</text>
+<text x="63" y="318" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#d5dbd2" letter-spacing="2">TECH WEEK 2026  /  OCTOBER 05–11</text>
+<text x="63" y="371" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#adbab0" >A considered guide to the rooms worth your time.</text>
+<path d="M60 435H1380" stroke="#4c6058"/>
+<text x="62" y="495" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#f5f1e8" >10</text>
+<text x="62" y="531" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ba945c" letter-spacing="1.8">THE SHORTLIST</text>
+<text x="440" y="495" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#f5f1e8" >1,713</text>
+<text x="440" y="531" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ba945c" letter-spacing="1.8">PUBLIC LISTINGS</text>
+<text x="842" y="495" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#f5f1e8" >36</text>
+<text x="842" y="531" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ba945c" letter-spacing="1.8">FOCUSED COLLECTIONS</text>
+<text x="1218" y="495" font-family="Georgia, 'Times New Roman', serif" font-size="38" fill="#f5f1e8" >07</text>
+<text x="1218" y="531" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ba945c" letter-spacing="1.8">DAYS</text>
+</svg>

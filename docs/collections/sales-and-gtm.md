@@ -1,0 +1,65 @@
+# Sales, GTM & customer success
+
+[Guide](../../README.md) · [All collections](../collections.md) · [Subscribe / export](https://hamedrabah.github.io/sf-tech-week-2026/#sales-and-gtm) · [Download .ics](https://hamedrabah.github.io/sf-tech-week-2026/calendars/collections/sales-and-gtm.ics)
+
+Sales strategy, go-to-market execution, revenue teams, support and customer success.
+
+**55 events.** One editorial primary collection per event, based on public titles. Check the organizer for full details. All times Pacific.
+
+| Date | Start (PT) | Event / official details | Area | Calendar label |
+| --- | --- | --- | --- | --- |
+| Mon, Oct 5 | 1:00 PM | [AI as Infrastructure: Building AI Agents Your CX Actually Want w/ Deel, Snowflake & Sunshine Lake](https://www.tech-week.com/calendar/sf/events/ai-as-infrastructure-building-ai-agents-your-cx-actually-want-w-deel-snowflake-a-6f08bc04-c429-4415-9dd7-0479c3160aab) | SOMA | Unspecified |
+| Mon, Oct 5 | 2:00 PM | [AI Buyer Pitch Teardown @ Auth0](https://www.tech-week.com/calendar/sf/events/ai-buyer-pitch-teardown-auth0-f287651e-b96a-4845-94fa-f80a7932d122) | Downtown | Unspecified |
+| Mon, Oct 5 | 3:00 PM | [How to Make Trust Your GTM Advantage - Keynote by Court Lorenzini](https://www.tech-week.com/calendar/sf/events/how-to-make-trust-your-gtm-advantage-keynote-by-court-lorenzini-0eec0946-8d89-4f30-9980-5b6778c5b09c) | SOMA | Unspecified |
+| Mon, Oct 5 | 4:00 PM | [Architecting AI-Native GTM](https://www.tech-week.com/calendar/sf/events/architecting-ai-native-gtm-b302662c-3e93-4ccf-92c8-350c8db6c25e) | FiDi | Unspecified |
+| Mon, Oct 5 | 4:00 PM | [The $1M Deal: Inside Enterprise Sales w/ Deel, AWS & Sunshine Lake VC](https://www.tech-week.com/calendar/sf/events/the-1m-deal-inside-enterprise-sales-w-deel-aws-and-sunshine-lake-vc-6960d444-3d75-4cbd-a349-58b7094506d3) | SOMA | Unspecified |
+| Mon, Oct 5 | 5:00 PM | [GTM Panel: When and How to Expand Beyond Your Core Business](https://www.tech-week.com/calendar/sf/events/gtm-panel-when-and-how-to-expand-beyond-your-core-business-3155ddf9-6976-4277-9ef1-b0d5f1d5461f) | SOMA | Unspecified |
+| Mon, Oct 5 | 5:30 PM | [VIP Enterprise Sales Dinner](https://www.tech-week.com/calendar/sf/events/vip-enterprise-sales-dinner-136e2595-a176-4968-b943-00e0df2c9433) | Downtown | Unspecified |
+| Mon, Oct 5 | 6:00 PM | [How to bring your buyers under one roof](https://www.tech-week.com/calendar/sf/events/how-to-bring-your-buyers-under-one-roof-6ba21209-762e-42e8-abb2-606b6c676d40) | SOMA | Unspecified |
+| Mon, Oct 5 | 6:30 PM | [So, you want to sell your startup in the era of AI? - #SF TechWeek](https://www.tech-week.com/calendar/sf/events/so-you-want-to-sell-your-startup-in-the-era-of-ai-sf-techweek-92eeb253-893d-42ea-844c-62bc7a6fe5ca) | SOMA | Unspecified |
+| Mon, Oct 5 | 7:00 PM | [GTM Happy Hour](https://www.tech-week.com/calendar/sf/events/gtm-happy-hour-1c23a335-0897-444f-a6c2-98b6c7397695) | SOMA | Unspecified |
+| Tue, Oct 6 | 10:00 AM | [Humans + Agents: Building the Support Stack](https://www.tech-week.com/calendar/sf/events/humans-agents-building-the-support-stack-69d6cb26-a3b9-4c31-8270-28eb40e3ae98) | Downtown | Unspecified |
+| Tue, Oct 6 | 10:00 AM | [The Great SDR Debate: Hire or Replace?](https://www.tech-week.com/calendar/sf/events/the-great-sdr-debate-hire-or-replace-f1435541-678a-4cec-9f5a-3e5ab7c1fd15) | FiDi | Unspecified |
+| Tue, Oct 6 | 12:00 PM | [Beyond Founder-Led Sales](https://www.tech-week.com/calendar/sf/events/beyond-founder-led-sales-51ab7e94-282c-4a8b-abf2-ee122659720d) | Downtown | Unspecified |
+| Tue, Oct 6 | 1:00 PM | [GTM 101: Ask a Founder Anything](https://www.tech-week.com/calendar/sf/events/gtm-101-ask-a-founder-anything-abb9488a-df02-452d-9d59-cfaec205975e) | Virtual | Unspecified |
+| Tue, Oct 6 | 2:00 PM | [Go To Market Mixer](https://www.tech-week.com/calendar/sf/events/go-to-market-mixer-bf1663c4-c771-46de-b750-1ceec9063e50) | SOMA | Unspecified |
+| Tue, Oct 6 | 4:00 PM | [Your QBR, Reimagined: Fireside chat + build](https://www.tech-week.com/calendar/sf/events/your-qbr-reimagined-fireside-chat-build-9275ccdc-61af-434e-ae47-0573511890db) | Downtown | Unspecified |
+| Tue, Oct 6 | 5:00 PM | [The Evolution Of GTM In 2027](https://www.tech-week.com/calendar/sf/events/the-evolution-of-gtm-in-2027-c877e5ce-c791-4511-a7e3-48970ca08cde) | Alamo Square | Unspecified |
+| Tue, Oct 6 | 5:30 PM | [The Top Floor - An Evening for GTM Leaders](https://www.tech-week.com/calendar/sf/events/the-top-floor-an-evening-for-gtm-leaders-11826192-52e1-455c-9a7f-3869665f3086) | FiDi | Unspecified |
+| Tue, Oct 6 | 6:00 PM | [Build the Context Layer for Your GTM](https://www.tech-week.com/calendar/sf/events/build-the-context-layer-for-your-gtm-68c22a9b-6695-443c-a609-b8c4f9ad4cbe) | Downtown | Unspecified |
+| Tue, Oct 6 | 6:00 PM | [Founder-led sales night - Grok Bot x Stage2 Capital](https://www.tech-week.com/calendar/sf/events/founder-led-sales-night-grok-bot-x-stage2-capital-c17e7388-1dcc-4391-bdb6-e1b27030e2d0) | North Beach | Unspecified |
+| Tue, Oct 6 | 6:30 PM | [Running GTM with agents: An evening at the Exploratorium](https://www.tech-week.com/calendar/sf/events/running-gtm-with-agents-an-evening-at-the-exploratorium-93b086e1-4e32-432e-a8c3-1c55c5f169c1) | Other | Unspecified |
+| Tue, Oct 6 | 6:30 PM | [The Revenue Table - An intimate dinner for B2B founders, GTM leaders, and investors I](https://www.tech-week.com/calendar/sf/events/the-revenue-table-an-intimate-dinner-for-b2b-founders-gtm-leaders-and-investors-5c00d9ff-222f-49fd-a60b-ce589c95c2fc) | Embarcadero | Unspecified |
+| Tue, Oct 6 | 8:00 PM | [Human v. AI Cold Call](https://www.tech-week.com/calendar/sf/events/human-v-ai-cold-call-104d111f-4a09-44d3-bb00-c0c9de01b289) | SOMA | Unspecified |
+| Wed, Oct 7 | 7:00 AM | [GTM engineering for Founders & Execs](https://www.tech-week.com/calendar/sf/events/gtm-engineering-for-founders-and-execs-f7b48e2a-5519-41f5-9bcc-0ef1946d27be) | SOMA | Unspecified |
+| Wed, Oct 7 | 9:00 AM | [Pioneer: A summit for CX Leaders](https://www.tech-week.com/calendar/sf/events/pioneer-a-summit-for-cx-leaders-9d5e892d-ff22-410f-98fc-979bee3c1de5) | Lower Nob Hill | Unspecified |
+| Wed, Oct 7 | 9:00 AM | [Tech Time to Tee Time - A day on the green for B2B tech founders/CEOs, GTM leaders, & investors](https://www.tech-week.com/calendar/sf/events/tech-time-to-tee-time-a-day-on-the-green-for-b2b-tech-founders-ceos-gtm-leaders-60cc9915-b520-4e90-934f-6f1c4312b28b) | Other | Unspecified |
+| Wed, Oct 7 | 9:30 AM | [5 AI Risks Are Killing Your Deals. The fifth is why the first 4 keep coming back.](https://www.tech-week.com/calendar/sf/events/5-ai-risks-are-killing-your-deals-the-fifth-is-why-the-first-4-keep-coming-back-8117f4b4-438d-42c3-8aa2-c4c8464bc72d) | Virtual | Unspecified |
+| Wed, Oct 7 | 11:00 AM | [Apollo: Find Your Next 100 Customers](https://www.tech-week.com/calendar/sf/events/apollo-find-your-next-100-customers-87ae5c55-e021-4e3c-a6b2-efd3f3cb856e) | FiDi | Unspecified |
+| Wed, Oct 7 | 1:00 PM | [GTM 101: Bootstrapping a Tech Startup](https://www.tech-week.com/calendar/sf/events/gtm-101-bootstrapping-a-tech-startup-7e04a94b-6363-4634-864a-fff596ff099c) | Virtual | Unspecified |
+| Wed, Oct 7 | 1:30 PM | [GTM for Enterprise Growth w/ Equity Angels + Wells Fargo](https://www.tech-week.com/calendar/sf/events/gtm-for-enterprise-growth-w-equity-angels-wells-fargo-937282f7-f01b-4e54-af4c-4fbd369765bf) | Palo Alto | Unspecified |
+| Wed, Oct 7 | 2:00 PM | [Founder Debugging Room: Your First Customers](https://www.tech-week.com/calendar/sf/events/founder-debugging-room-your-first-customers-5ff98b0e-4d5d-4596-a92f-50dc38839501) | SOMA | Unspecified |
+| Wed, Oct 7 | 2:30 PM | [20,000 Emails. Two Replies. The 25-Minute Masterclass on Aiming Before You Automate](https://www.tech-week.com/calendar/sf/events/20-000-emails-two-replies-the-25-minute-masterclass-on-aiming-before-you-automat-94e17ac5-cd5a-49d5-af3b-8190f272888d) | Virtual | Unspecified |
+| Wed, Oct 7 | 2:30 PM | [SELL TO AMERICA: The Brutally Practical US GTM Playbook](https://www.tech-week.com/calendar/sf/events/sell-to-america-the-brutally-practical-us-gtm-playbook-3b776396-faec-4759-9b4e-32e3bed2d6d5) | Other | Unspecified |
+| Wed, Oct 7 | 3:00 PM | [GTM Engineering Leaders & Startups: Founder Demos + Leadership Talks](https://www.tech-week.com/calendar/sf/events/gtm-engineering-leaders-and-startups-founder-demos-leadership-talks-95fdefbf-4d4d-4989-b8a9-8cdcf4f1969d) | Union Square | Unspecified |
+| Wed, Oct 7 | 4:00 PM | [Adobe Presents: The GTM Inflection Point](https://www.tech-week.com/calendar/sf/events/adobe-presents-the-gtm-inflection-point-59477b42-52da-4aa4-ac2c-f29cebf0a909) | Design District | Unspecified |
+| Wed, Oct 7 | 4:00 PM | [GTM AI Paradox You Got Speed, But Lost the System](https://www.tech-week.com/calendar/sf/events/gtm-ai-paradox-you-got-speed-but-lost-the-system-59aaf67a-611f-44f6-bc5f-c39d24fc18f2) | Downtown | Unspecified |
+| Wed, Oct 7 | 5:00 PM | [Hitting your Demoday Revenue Goal](https://www.tech-week.com/calendar/sf/events/hitting-your-demoday-revenue-goal-6f2751b0-f950-48e7-a124-4dfaf9dc269f) | SOMA | Unspecified |
+| Wed, Oct 7 | 5:30 PM | [Enterprise Sales in the Age of AI : Founder Fireside Chat & Cocktails](https://www.tech-week.com/calendar/sf/events/enterprise-sales-in-the-age-of-ai-founder-fireside-chat-and-cocktails-7f4a89d0-16d9-432a-9642-71e7976128d8) | SOMA | Unspecified |
+| Wed, Oct 7 | 5:30 PM | [How GTM Teams are Deploying AI](https://www.tech-week.com/calendar/sf/events/how-gtm-teams-are-deploying-ai-56d9e118-7e7c-46f3-a338-cc7189301a0b) | FiDi | Unspecified |
+| Wed, Oct 7 | 6:00 PM | [GTM ON THE EDGE: A live session in SF](https://www.tech-week.com/calendar/sf/events/gtm-on-the-edge-a-live-session-in-sf-d096cf4c-1a18-48e6-a53f-c495f772d10a) | Embarcadero | Unspecified |
+| Wed, Oct 7 | 7:00 PM | [The GTM (pent)house party 🌆](https://www.tech-week.com/calendar/sf/events/the-gtm-pent-house-party-2972f559-d986-47a8-be00-7eda54aebcca) | East Bay | Unspecified |
+| Thu, Oct 8 | 10:00 AM | [B2B Bo$$es (GTM x Building Community Brunch For Top Execs)](https://www.tech-week.com/calendar/sf/events/b2b-bo-es-gtm-x-building-community-brunch-for-top-execs-4561c8d7-c92b-456f-a8a5-c3568f621186) | SOMA | Unspecified |
+| Thu, Oct 8 | 11:00 AM | [Fast AI Sales](https://www.tech-week.com/calendar/sf/events/fast-ai-sales-5eb547b9-616d-43e2-aecc-a11592c62293) | Palo Alto | Unspecified |
+| Thu, Oct 8 | 12:00 PM | [How to Collaborate with Big Tech Companies](https://www.tech-week.com/calendar/sf/events/how-to-collaborate-with-big-tech-companies-956db05f-5f93-413f-bd9f-499861a838a3) | FiDi | Unspecified |
+| Thu, Oct 8 | 12:30 PM | [Your Agents work, but your pitch doesn't - a live GTM Pitch](https://www.tech-week.com/calendar/sf/events/your-agents-work-but-your-pitch-doesn-t-a-live-gtm-pitch-447223a1-0dc5-4cb1-b7b2-33303505c120) | SOMA | Unspecified |
+| Thu, Oct 8 | 3:00 PM | [Winning GTM in the Age of AI](https://www.tech-week.com/calendar/sf/events/winning-gtm-in-the-age-of-ai-7bbb5a06-e6e5-45cf-bfc9-94f5d235ade0) | Mountain View | Unspecified |
+| Thu, Oct 8 | 5:30 PM | [Build & Deploy Customer-Facing Agents in Production](https://www.tech-week.com/calendar/sf/events/build-and-deploy-customer-facing-agents-in-production-33bf6790-2dc1-441f-a94a-d75d4445f235) | Downtown | Unspecified |
+| Thu, Oct 8 | 6:00 PM | [How to Hire Your First CX Engineer](https://www.tech-week.com/calendar/sf/events/how-to-hire-your-first-cx-engineer-aeea5082-d25d-4d4a-9749-9c05d9a756f6) | Mission | Unspecified |
+| Thu, Oct 8 | 7:00 PM | [The GTM (pent)house party 🌆](https://www.tech-week.com/calendar/sf/events/the-gtm-pent-house-party-95f63945-3a3f-4bf6-9cd2-3abf9dcd404f) | East Bay | Unspecified |
+| Thu, Oct 8 | 8:00 PM | [The GTM Afterparty](https://www.tech-week.com/calendar/sf/events/the-gtm-afterparty-98ed3045-8a15-418f-9b22-ba0119d27aac) | Other | Unspecified |
+| Fri, Oct 9 | 9:00 AM | [Ask a VP of Sales: Live GTM Office Hours for Early-Stage B2B Founders](https://www.tech-week.com/calendar/sf/events/ask-a-vp-of-sales-live-gtm-office-hours-for-early-stage-b2b-founders-9f5eb3eb-0663-4bfe-8881-946c2c96c014) | Virtual | Unspecified |
+| Fri, Oct 9 | 10:00 AM | [Founder Office Hours: Fundraising, GTM & AI](https://www.tech-week.com/calendar/sf/events/founder-office-hours-fundraising-gtm-and-ai-d6277aa5-2936-4ee9-b5a9-a69c8bf0929e) | Downtown | Unspecified |
+| Fri, Oct 9 | 7:00 PM | [GTM Hackathon](https://www.tech-week.com/calendar/sf/events/gtm-hackathon-2ef2af71-27fc-4893-ba2b-ad8f538921ed) | Mission Bay | Unspecified |
+| Fri, Oct 9 | 7:00 PM | [SF Techweek \[GTM\] after party 🌆](https://www.tech-week.com/calendar/sf/events/sf-techweek-gtm-after-party-7c1a52ff-ed9a-4d6a-8b7e-54b6249c9c08) | East Bay | Unspecified |
+| Sat, Oct 10 | 9:00 AM | [Ask a VP of Sales: Live GTM Office Hours for Early-Stage B2B Founders](https://www.tech-week.com/calendar/sf/events/ask-a-vp-of-sales-live-gtm-office-hours-for-early-stage-b2b-founders-96333460-14d7-407a-b278-e6988dce672d) | Virtual | Unspecified |

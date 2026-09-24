@@ -1,107 +1,113 @@
-# SF Tech Week 2026
+<p align="center"><img src="assets/cover.svg" width="100%" alt="The SF Edit — San Francisco Tech Week, October 5–11, 2026. Ten selected rooms, 1,713 public listings, 36 focused collections."></p>
 
-**October 5–11 · San Francisco & the Bay Area · All times Pacific**
+<p align="center"><b>THE SHORTLIST. THE CITY. YOUR WEEK.</b></p>
+<p align="center"><a href="#the-shortlist">The ten</a> · <a href="#find-your-room">Collections</a> · <a href="https://hamedrabah.github.io/sf-tech-week-2026/">Subscribe to a calendar</a> · <a href="docs/all-events.md">All events</a></p>
 
-A public, independent guide to **1,713 official-calendar listings**, with the original ten picks rechecked, twenty more picks across industries, day-by-day schedules, keyword indexes, and reusable CSV/JSON data.
+A considered edit of SF Tech Week. Start with ten selected rooms, then explore **36 focused collections** across the full **1,713-event** calendar. October 5–11, 2026. San Francisco and the Bay Area. All times Pacific.
 
-[Browse all events](docs/all-events.md) · [Download CSV](data/events.csv) · [JSON](data/events.json) · [Plan your week](docs/planning.md) · [Official live calendar](https://www.tech-week.com/calendar/sf)
+## The shortlist
 
-Snapshot: **September 23, 2026 (Pacific)**. All 1,713 listings starting during the official week were captured from the public calendar; its 1,716 total also includes three later events. Event details can change. Apply through the organizer; a listing or submitted application does not mean admission. This project is not affiliated with a16z or Tech Week.
+Ten picks for founders, builders, investors, and operators. Each links directly to the organizer's application. All ten require approval; the investor breakfast is invite-only. Selection is editorial, and admission remains with the host.
 
-## Browse by day
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://partiful.com/e/XaBTYkfWChPrquuI6uPH"><img src="assets/cards/01-claude-founder-house.svg" width="100%" alt="01. Claude Founder House · Tue 8:00 AM–Thu 8:00 PM PT · Application required"></a><br><a href="https://partiful.com/e/XaBTYkfWChPrquuI6uPH">Apply ↗</a> · <a href="docs/seed-picks.md#claude-founder-house">Details &amp; timing</a></td>
+<td width="50%" valign="top"><a href="https://partiful.com/e/Fp4oMyFGQC6HzotKXc8T"><img src="assets/cards/02-official-tech-week-kickoff.svg" width="100%" alt="02. Fireworks × a16z Official Tech Week Kickoff · Mon 6:00 PM–10:00 PM PT · Application required"></a><br><a href="https://partiful.com/e/Fp4oMyFGQC6HzotKXc8T">Apply ↗</a> · <a href="docs/seed-picks.md#official-tech-week-kickoff">Details &amp; timing</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://partiful.com/e/9VljRP0TkkEpT8B3jcVF"><img src="assets/cards/03-capturing-value-intelligence.svg" width="100%" alt="03. Capturing the Value of Intelligence · Tue 4:00 PM–6:00 PM PT · Application required"></a><br><a href="https://partiful.com/e/9VljRP0TkkEpT8B3jcVF">Apply ↗</a> · <a href="docs/seed-picks.md#capturing-value-intelligence">Details &amp; timing</a></td>
+<td width="50%" valign="top"><a href="https://partiful.com/e/WrF0Hv7cZLnp5fHzjYAC"><img src="assets/cards/04-speedrun-ai-faire.svg" width="100%" alt="04. a16z speedrun AI Faire · Fri 10:30 AM–5:00 PM PT · Application required"></a><br><a href="https://partiful.com/e/WrF0Hv7cZLnp5fHzjYAC">Apply ↗</a> · <a href="docs/seed-picks.md#speedrun-ai-faire">Details &amp; timing</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://partiful.com/e/l2OOsMB3MHZJ9b8lzhmq"><img src="assets/cards/05-deep-tech-investor-breakfast.svg" width="100%" alt="05. Deep Tech Investor Breakfast · Wed 9:00 AM (end TBA) PT · Application required"></a><br><a href="https://partiful.com/e/l2OOsMB3MHZJ9b8lzhmq">Apply ↗</a> · <a href="docs/seed-picks.md#deep-tech-investor-breakfast">Details &amp; timing</a></td>
+<td width="50%" valign="top"><a href="https://partiful.com/e/xK3d559vfUGIIipkw8yp"><img src="assets/cards/06-match-house.svg" width="100%" alt="06. MATCH HOUSE San Francisco · Wed 12:00 PM–5:00 PM PT · Application required"></a><br><a href="https://partiful.com/e/xK3d559vfUGIIipkw8yp">Apply ↗</a> · <a href="docs/seed-picks.md#match-house">Details &amp; timing</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://partiful.com/e/wgzQaLCyAPobkZnJpzOP"><img src="assets/cards/07-camp-ai-production-ready-agents.svg" width="100%" alt="07. Camp AI: Production-Ready Agents · Tue 5:30 PM–8:30 PM PT · Application required"></a><br><a href="https://partiful.com/e/wgzQaLCyAPobkZnJpzOP">Apply ↗</a> · <a href="docs/seed-picks.md#camp-ai-production-ready-agents">Details &amp; timing</a></td>
+<td width="50%" valign="top"><a href="https://partiful.com/e/GS2y8UzXQRzCZEw0M1ya"><img src="assets/cards/08-google-engineering-10x.svg" width="100%" alt="08. Google for Startups: Engineering 10x with Google DeepMind · Tue 9:30 AM–12:00 PM PT · Application required"></a><br><a href="https://partiful.com/e/GS2y8UzXQRzCZEw0M1ya">Apply ↗</a> · <a href="docs/seed-picks.md#google-engineering-10x">Details &amp; timing</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://partiful.com/e/uJMR8t2zTYWJiNyS7VLp"><img src="assets/cards/09-nexxaworld.svg" width="100%" alt="09. NexxaWorld · Wed 5:00 PM (end TBA) PT · Application required"></a><br><a href="https://partiful.com/e/uJMR8t2zTYWJiNyS7VLp">Apply ↗</a> · <a href="docs/seed-picks.md#nexxaworld">Details &amp; timing</a></td>
+<td width="50%" valign="top"><a href="https://partiful.com/e/xoXjF4aybCw6UY4XxY80"><img src="assets/cards/10-who-will-own-future.svg" width="100%" alt="10. Who Will Own the Future? · Thu 6:00 PM–10:00 PM PT · Application required"></a><br><a href="https://partiful.com/e/xoXjF4aybCw6UY4XxY80">Apply ↗</a> · <a href="docs/seed-picks.md#who-will-own-future">Details &amp; timing</a></td>
+</tr>
+</table>
 
-| Day | Listings starting that day |
-| --- | ---: |
-| [Mon, Oct 5](docs/days/2026-10-05.md) | 203 |
-| [Tue, Oct 6](docs/days/2026-10-06.md) | 395 |
-| [Wed, Oct 7](docs/days/2026-10-07.md) | 438 |
-| [Thu, Oct 8](docs/days/2026-10-08.md) | 398 |
-| [Fri, Oct 9](docs/days/2026-10-09.md) | 161 |
-| [Sat, Oct 10](docs/days/2026-10-10.md) | 85 |
-| [Sun, Oct 11](docs/days/2026-10-11.md) | 33 |
+<p align="center"><a href="https://hamedrabah.github.io/sf-tech-week-2026/#top-10"><b>Subscribe to the shortlist →</b></a> · <a href="https://hamedrabah.github.io/sf-tech-week-2026/calendars/top-10.ics">Download the ten (.ics)</a> · <a href="docs/seed-picks.md">Read the selection notes</a></p>
 
-Multi-day listings appear on their starting day. The week includes events outside San Francisco; check the area before planning travel.
+<sub>*Claude's daily café description begins at 11 AM despite its 8 AM event header; Google's description mentions 9 AM despite its 9:30 AM header. Confirm arrival with the host. The breakfast and NexxaWorld publish no end time. Prices are unconfirmed.</sub>
 
-## Start with these ten
+## Find your room
 
-The original shortlist, in its original order, with public registration pages rechecked. **All ten currently use application/approval; prices are unconfirmed.** These are options, not one itinerary.
+Smaller collections, each with its own list and calendar. Every event has one primary home; collections currently hold **16–113 events**. Placement follows the public title's topic, audience, or format and is editorial, not an organizer classification.
 
-| Pick | Event / apply | Schedule (PT) | Why consider it |
-| --- | --- | --- | --- |
-| 1 | [Claude Founder House](https://partiful.com/e/XaBTYkfWChPrquuI6uPH) | Tue 8:00 AM–Thu 8:00 PM | Work alongside the Anthropic team and combine technical office hours with founder programming. |
-| 2 | [Fireworks × a16z Official Tech Week Kickoff](https://partiful.com/e/Fp4oMyFGQC6HzotKXc8T) | Mon 6:00 PM–10:00 PM | Start the week with networking across AI infrastructure, developer tools, and startup operations. |
-| 3 | [Capturing the Value of Intelligence](https://partiful.com/e/9VljRP0TkkEpT8B3jcVF) | Tue 4:00 PM–6:00 PM | Hear investors and operators discuss the infrastructure and scaling requirements behind AI businesses. |
-| 4 | [a16z speedrun AI Faire](https://partiful.com/e/WrF0Hv7cZLnp5fHzjYAC) | Fri 10:30 AM–5:00 PM | Compare B2B AI tools through live product demos and direct conversations with startup teams. |
-| 5 | [Deep Tech Investor Breakfast](https://partiful.com/e/l2OOsMB3MHZJ9b8lzhmq) | Wed 9:00 AM (end TBA) | An investor-focused breakfast for exchanging views on deep-tech diligence and deal flow. |
-| 6 | [MATCH HOUSE San Francisco](https://partiful.com/e/xK3d559vfUGIIipkw8yp) | Wed 12:00 PM–5:00 PM | Use scheduled one-to-one matching to meet relevant founders, investors, and operators. |
-| 7 | [Camp AI: Production-Ready Agents](https://partiful.com/e/wgzQaLCyAPobkZnJpzOP) | Tue 5:30 PM–8:30 PM | Explore the security, automation, and deployment work needed to put AI agents into production. |
-| 8 | [Google for Startups: Engineering 10x with Google DeepMind](https://partiful.com/e/GS2y8UzXQRzCZEw0M1ya) | Tue 9:30 AM–12:00 PM | Pair frontier-model discussions with demos and engineering support for startup builders. |
-| 9 | [NexxaWorld](https://partiful.com/e/uJMR8t2zTYWJiNyS7VLp) | Wed 5:00 PM (end TBA) | Meet teams applying AI to industrial operations and hear enterprise perspectives on adoption. |
-| 10 | [Who Will Own the Future?](https://partiful.com/e/xoXjF4aybCw6UY4XxY80) | Thu 6:00 PM–10:00 PM | An evening connecting technology and investment perspectives, followed by networking. |
+| Collection | Events | Collection | Events |
+| --- | ---: | --- | ---: |
+| [Agents & automation](docs/collections/agents-and-automation.md) | 54 | [Real estate & the built world](docs/collections/real-estate-and-built-world.md) | 17 |
+| [Models & evaluation](docs/collections/models-and-evaluation.md) | 27 | [Sales, GTM & customer success](docs/collections/sales-and-gtm.md) | 55 |
+| [Compute & cloud](docs/collections/compute-and-cloud.md) | 34 | [Marketing, brand & growth](docs/collections/marketing-and-growth.md) | 60 |
+| [Data, memory & search](docs/collections/data-memory-and-search.md) | 21 | [Fundraising, pitches & exits](docs/collections/fundraising-and-pitches.md) | 54 |
+| [Voice & conversational AI](docs/collections/voice-and-conversation.md) | 22 | [Investors, funds & capital](docs/collections/investors-and-capital.md) | 36 |
+| [Coding & developer tools](docs/collections/coding-and-devtools.md) | 33 | [Global founders & cross-border growth](docs/collections/global-founders.md) | 78 |
+| [Security, trust & governance](docs/collections/security-and-governance.md) | 29 | [Women & underrepresented communities](docs/collections/inclusive-communities.md) | 39 |
+| [Enterprise AI & workflows](docs/collections/enterprise-ai.md) | 27 | [Careers, teams & leadership](docs/collections/careers-and-leadership.md) | 67 |
+| [Product, design & UX](docs/collections/product-and-design.md) | 37 | [Founder practice & cofounders](docs/collections/founder-practice.md) | 30 |
+| [Creative AI, media & storytelling](docs/collections/creative-media.md) | 49 | [Hackathons & hands-on builds](docs/collections/hackathons-and-builds.md) | 30 |
+| [Consumer, commerce & experiences](docs/collections/consumer-and-commerce.md) | 45 | [Demos, launches & showcases](docs/collections/demos-and-showcases.md) | 37 |
+| [Health, biotech & medicine](docs/collections/health-and-biotech.md) | 70 | [Coffee, breakfasts & daytime socials](docs/collections/coffee-and-daytime-socials.md) | 62 |
+| [Wellbeing, longevity & reset](docs/collections/wellbeing-and-longevity.md) | 64 | [Dinners & small-table conversations](docs/collections/dinners-and-small-tables.md) | 42 |
+| [Robotics, hardware & physical AI](docs/collections/robotics-and-hardware.md) | 95 | [Mixers & happy hours](docs/collections/mixers-and-happy-hours.md) | 113 |
+| [Climate, energy & frontier science](docs/collections/climate-and-frontier-tech.md) | 30 | [Parties, games & culture](docs/collections/parties-and-play.md) | 77 |
+| [Fintech, payments & crypto](docs/collections/fintech-and-payments.md) | 39 | [Sports, walks & outdoors](docs/collections/sports-and-outdoors.md) | 77 |
+| [Finance, legal & business operations](docs/collections/finance-legal-and-operations.md) | 42 | [AI perspectives & big questions](docs/collections/ai-perspectives.md) | 40 |
+| [Education, civic tech & impact](docs/collections/education-and-public-good.md) | 16 | [Open houses, clubs & discovery](docs/collections/open-discovery.md) | 65 |
 
-**Timing caveats:** Claude Founder House's header starts at 8:00 AM, while its daily cafe description starts at 11:00 AM. Google's Engineering 10x header says 9:30 AM, while its description mentions 9:00 AM. Confirm your session or accepted arrival time. The investor breakfast and NexxaWorld publish no end time.
+[Browse collection descriptions](docs/collections.md) · [Explore twenty more picks](docs/more-picks.md) · [Official curated tracks](docs/tracks.md)
 
-[Read all ten's admission and timing notes](docs/seed-picks.md).
+## Put it on your calendar
 
-## Explore beyond the shortlist
+**[Open the calendar desk →](https://hamedrabah.github.io/sf-tech-week-2026/)**
 
-[Twenty more picks](docs/more-picks.md) cover health and biotech, energy and climate, fintech, consumer products, global founders, developer tools, and Sunday hackathons. [Planning notes](docs/planning.md) help choose a useful mix without overbooking.
+Choose the ten, a collection, a single day, or the full week. Subscribe for future revisions to this guide, or download an `.ics` file for a one-time import into Apple Calendar, Google Calendar, Outlook, and other calendar apps.
 
-### Official curated tracks
+| Feed | Subscribe / copy URL | Export |
+| --- | --- | --- |
+| The shortlist · 10 events | [Calendar desk](https://hamedrabah.github.io/sf-tech-week-2026/#top-10) | [Download .ics](https://hamedrabah.github.io/sf-tech-week-2026/calendars/top-10.ics) |
+| Your interests · 36 collections | [Choose a collection](https://hamedrabah.github.io/sf-tech-week-2026/#collections) | Each collection has an export |
+| A single day | [Choose a day](https://hamedrabah.github.io/sf-tech-week-2026/#days) | Each day has an export |
+| The full week · 1,713 events | [Calendar desk](https://hamedrabah.github.io/sf-tech-week-2026/#all-events) | [Download .ics](https://hamedrabah.github.io/sf-tech-week-2026/calendars/all-events.ics) |
 
-- [AI Agents](https://www.tech-week.com/calendar/sf/tracks/ai-agents)
-- [AI Infrastructure & Compute](https://www.tech-week.com/calendar/sf/tracks/ai-infrastructure-compute)
-- [Consumer & Creative AI](https://www.tech-week.com/calendar/sf/tracks/consumer-creative-ai)
-- [Deep Tech](https://www.tech-week.com/calendar/sf/tracks/deep-tech)
-- [Developer Tools](https://www.tech-week.com/calendar/sf/tracks/developer-tools)
-- [Enterprise AI](https://www.tech-week.com/calendar/sf/tracks/enterprise-ai)
-- [Fintech](https://www.tech-week.com/calendar/sf/tracks/fintech)
-- [Fundraising & Investing](https://www.tech-week.com/calendar/sf/tracks/fundraising-investing)
-- [Hackathons and Demos](https://www.tech-week.com/calendar/sf/tracks/hack-week-hackathons-and-technical-events)
-- [Global Founders](https://www.tech-week.com/calendar/sf/tracks/global-founders)
+Feeds are a planning aid, not tickets or attendance confirmations. Most catalog entries only publish a start time; their calendar entries do not invent a duration. Subscribers receive revisions when this repository is updated, on their app's refresh schedule. [Calendar setup and limitations](docs/calendar.md).
 
-The standalone Deep Tech and Hack Week pages can mix SF and LA events or spill beyond the week. The snapshot here is limited to listings starting October 5–11 on the SF calendar.
+## Follow the week
 
-### Keyword indexes
+| Day | Events | Export |
+| --- | ---: | --- |
+| [Mon, Oct 5](docs/days/2026-10-05.md) | 203 | [Calendar](https://hamedrabah.github.io/sf-tech-week-2026/calendars/days/2026-10-05.ics) |
+| [Tue, Oct 6](docs/days/2026-10-06.md) | 395 | [Calendar](https://hamedrabah.github.io/sf-tech-week-2026/calendars/days/2026-10-06.ics) |
+| [Wed, Oct 7](docs/days/2026-10-07.md) | 438 | [Calendar](https://hamedrabah.github.io/sf-tech-week-2026/calendars/days/2026-10-07.ics) |
+| [Thu, Oct 8](docs/days/2026-10-08.md) | 398 | [Calendar](https://hamedrabah.github.io/sf-tech-week-2026/calendars/days/2026-10-08.ics) |
+| [Fri, Oct 9](docs/days/2026-10-09.md) | 161 | [Calendar](https://hamedrabah.github.io/sf-tech-week-2026/calendars/days/2026-10-09.ics) |
+| [Sat, Oct 10](docs/days/2026-10-10.md) | 85 | [Calendar](https://hamedrabah.github.io/sf-tech-week-2026/calendars/days/2026-10-10.ics) |
+| [Sun, Oct 11](docs/days/2026-10-11.md) | 33 | [Calendar](https://hamedrabah.github.io/sf-tech-week-2026/calendars/days/2026-10-11.ics) |
 
-These are transparent searches of public event titles, not official classifications. They overlap and can miss relevant events.
+Multi-day listings appear on their starting day. Check the actual location before pairing events; the calendar extends beyond San Francisco. [Plan your week](docs/planning.md).
 
-| Index | Title matches |
-| --- | ---: |
-| [AI and agents](docs/topics/ai-and-agents.md) | 525 |
-| [Developer tools and infrastructure](docs/topics/developer-tools.md) | 84 |
-| [Fundraising and investing](docs/topics/fundraising.md) | 219 |
-| [Health and biotech](docs/topics/health-and-biotech.md) | 83 |
-| [Climate and energy](docs/topics/climate-and-energy.md) | 17 |
-| [Fintech and commerce](docs/topics/fintech.md) | 48 |
-| [Consumer and creative](docs/topics/consumer-and-creative.md) | 81 |
-| [Deep tech and robotics](docs/topics/deep-tech.md) | 73 |
-| [GTM and growth](docs/topics/gtm-and-growth.md) | 97 |
-| [Global founders](docs/topics/global-founders.md) | 51 |
-| [Hackathons and demos](docs/topics/hackathons-and-demos.md) | 149 |
-| [Social and networking](docs/topics/social-and-networking.md) | 366 |
+<details>
+<summary><b>Data, sources, and contribution notes</b></summary>
 
-## Search locally
+Snapshot: **September 23, 2026 (Pacific)**. All 1,713 listings starting during the official week were captured from the public calendar; its 1,716 total also includes three later events. Individual organizer pages were checked for the ten and the explicitly labeled additional picks. Open the [official calendar](https://www.tech-week.com/calendar/sf) for new listings.
 
-No dependencies beyond Python 3.10+.
+[CSV](data/events.csv) · [JSON](data/events.json) · [Source notes](docs/methodology.md) · [Data schema](docs/data-schema.md) · [Contribute](CONTRIBUTING.md) · [Visual credits](docs/asset-credits.md)
+
+Public event facts only. No personal contacts, attendee records, private addresses, RSVP confirmations, source HTML, or account data. Publicly billed names can remain in event titles. Organization marks identify the selected events; they do not imply endorsement. This is an independent guide, unaffiliated with a16z or Tech Week.
 
 ```sh
+python3 scripts/search.py --collection agents-and-automation
 python3 scripts/search.py --date 2026-10-07 --query agents
-python3 scripts/search.py --query climate --json
-python3 scripts/search.py --query "happy hour" --area SOMA
-```
-
-## Data, privacy, and updates
-
-The full catalog preserves public event titles, start dates/times, general areas, calendar labels, and canonical official detail links. It omits attendee data, personal contact details, private locations, host profiles, account information, and tracking/redirect tokens. Public event titles can name publicly billed speakers; there are no separate people or contact records.
-
-The supplied HTML, browser exports, and raw source pages are not included. Unknown times and prices stay unknown. The full catalog was checked against the official calendar; only the ten starting picks and the explicitly labeled additional organizer pages had individual registration-page checks.
-
-[Source and coverage notes](docs/methodology.md) · [Data schema](docs/data-schema.md) · [Contribute a correction](CONTRIBUTING.md)
-
-```sh
-python3 scripts/validate.py
 python3 scripts/build.py
+python3 scripts/validate.py
 ```
 
-This is a dated snapshot. CI validates the data and generated guide; it does not refresh listings or check live ticket availability. Original prose and code use the [MIT license](LICENSE); event names and source materials belong to their respective owners.
+Original prose, layouts, and code use the [MIT license](LICENSE). Third-party marks and source materials retain their owners' rights. CI validates the guide and calendars; it does not check ticket availability or automatically refresh the official calendar.
+
+</details>

@@ -1,0 +1,4 @@
+*.ics -text -diff -whitespace linguist-generated=true
+assets/logos/*.svg whitespace=cr-at-eol
+assets/cards/*.svg linguist-generated=true
+assets/cover.svg linguist-generated=true

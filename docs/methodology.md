@@ -76,14 +76,20 @@ travel. Exact addresses are intentionally absent.
 
 The original ten's order is preserved, not extended into a ranking of all
 events. Reasons to attend and planning suggestions are original editorial
-judgments. Official curated tracks are linked directly. The repository's
-keyword indexes are separate title searches with their patterns published;
-they are neither exhaustive topic tagging nor endorsements.
+judgments. Official curated tracks are linked directly. The guide's 36 finer
+collections assign each event one primary home according to its public title's
+topic, audience, or format. Deterministic rules and reviewed title overrides
+are published in `scripts/categorize.py`. The result is a more balanced browsing
+index, without adding unrelated entries to fill quotas. Categories are editorial
+inferences, not official tags or quality rankings. Broad or opaque titles remain
+in a general discovery collection.
 
-No source descriptions, images, guest lists, personal contact details, host
+No source descriptions, event photographs, guest lists, personal contact details, host
 profiles, RSVP confirmations, local file paths, or browser exports are
 published. Public event titles may include publicly billed speakers. Source
-event names and trademarks remain their owners' property. The MIT license
+event names and trademarks remain their owners' property. Verified organization
+logos are used for editorial identification with [source credits](asset-credits.md).
+The cover and event-card layouts are original vector artwork. The MIT license
 covers the repository's original prose and code, not third-party source
 material. Every catalog record links back to its public source.
 

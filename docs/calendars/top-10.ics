@@ -1,0 +1,280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SF Tech Week Community Guide//2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SF Tech Week 2026 — original ten
+X-WR-CALDESC:The original ten picks\, with independently checked organizer 
+ schedules and caveats.
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:urn:uuid:affc8860-5de6-482b-97ed-7667718ab905
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T010000Z
+DTEND:20261006T050000Z
+LOCATION:Mission Bay (general area\; confirm venue)
+SUMMARY:Fireworks x a16z: Official Tech Week Kickoff w/ Vercel\, ElevenLabs
+ \, & Stripe
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/fireworks-x-a16z-official-t
+ ech-week-kickoff-w-vercel-elevenlabs-and-stripe-affc8860-5de6-482b-97ed-76
+ 67718ab905\n\nCalendar label at snapshot: Unspecified. This label is not a
+ n admission guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. Th
+ is feed updates only when the repository is updated.\n\nGeneral area from 
+ official calendar: Mission Bay. Area labels can differ from organizer page
+ s\; confirm the venue.\n\nApplication page: https://partiful.com/e/Fp4oMyF
+ GQC6HzotKXc8T\n\nStart the week with networking across AI infrastructure\,
+  developer tools\, and startup operations.\n\nAdmission: Application / app
+ roval. Price: Not published.\n\nThe description says the exact location is
+  shared after RSVP.
+URL:https://www.tech-week.com/calendar/sf/events/fireworks-x-a16z-official-
+ tech-week-kickoff-w-vercel-elevenlabs-and-stripe-affc8860-5de6-482b-97ed-7
+ 667718ab905
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5b9edb5a-cbc2-437a-9610-b17c2c26bbd5
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T150000Z
+DTEND:20261009T030000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Claude Founder House
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/claude-founder-house-5b9edb
+ 5a-cbc2-437a-9610-b17c2c26bbd5\n\nCalendar label at snapshot: Unspecified.
+  This label is not an admission guarantee.\n\nSource snapshot: 2026-09-24T
+ 03:24:10.256338Z. This feed updates only when the repository is updated.\n
+ \nMulti-day listing window\; this does not mean continuous programming. Ch
+ eck the session agenda.\n\nGeneral area from official calendar: SOMA. Area
+  labels can differ from organizer pages\; confirm the venue.\n\nApplicatio
+ n page: https://partiful.com/e/XaBTYkfWChPrquuI6uPH\n\nWork alongside the 
+ Anthropic team and combine technical office hours with founder programming
+ .\n\nAdmission: Application / approval. Price: Not published.\n\nListed da
+ te range starts at 8:00 AM Tuesday\; the description says daily cafe doors
+  open at 11:00 AM and close at 5:00 PM\, with a Thursday salon through 8:0
+ 0 PM. Confirm the session you plan to attend.
+URL:https://www.tech-week.com/calendar/sf/events/claude-founder-house-5b9ed
+ b5a-cbc2-437a-9610-b17c2c26bbd5
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b8ad61d1-0cb8-4d07-bf6b-8aacafcb8c60
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T163000Z
+DTEND:20261006T190000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Google for Startups: Engineering 10x with Dr. Astro Teller and Goog
+ le DeepMind
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/google-for-startups-enginee
+ ring-10x-with-dr-astro-teller-and-google-deepmind-b8ad61d1-0cb8-4d07-bf6b-
+ 8aacafcb8c60\n\nCalendar label at snapshot: Unspecified. This label is not
+  an admission guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. 
+ This feed updates only when the repository is updated.\n\nGeneral area fro
+ m official calendar: SOMA. Area labels can differ from organizer pages\; c
+ onfirm the venue.\n\nApplication page: https://partiful.com/e/GS2y8UzXQRzC
+ ZEw0M1ya\n\nPair frontier-model discussions with demos and engineering sup
+ port for startup builders.\n\nAdmission: Application / approval. Price: No
+ t published.\n\nHeader starts at 9:30 AM\; the description mentions progra
+ mming from 9:00 AM. Confirm the accepted arrival time with the organizer.
+URL:https://www.tech-week.com/calendar/sf/events/google-for-startups-engine
+ ering-10x-with-dr-astro-teller-and-google-deepmind-b8ad61d1-0cb8-4d07-bf6b
+ -8aacafcb8c60
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a73bb032-f79e-45aa-9340-dc6d6a8c30b6
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T230000Z
+DTEND:20261007T010000Z
+LOCATION:Telegraph Hill (general area\; confirm venue)
+SUMMARY:Capturing the Value of Intelligence - #SFTech Week
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/capturing-the-value-of-inte
+ lligence-sftech-week-a73bb032-f79e-45aa-9340-dc6d6a8c30b6\n\nCalendar labe
+ l at snapshot: Unspecified. This label is not an admission guarantee.\n\nS
+ ource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when t
+ he repository is updated.\n\nGeneral area from official calendar: Telegrap
+ h Hill. Area labels can differ from organizer pages\; confirm the venue.\n
+ \nApplication page: https://partiful.com/e/9VljRP0TkkEpT8B3jcVF\n\nHear in
+ vestors and operators discuss the infrastructure and scaling requirements 
+ behind AI businesses.\n\nAdmission: Application / approval. Price: Not pub
+ lished.
+URL:https://www.tech-week.com/calendar/sf/events/capturing-the-value-of-int
+ elligence-sftech-week-a73bb032-f79e-45aa-9340-dc6d6a8c30b6
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:fa378e29-57e0-4583-aa85-56f4e4015894
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T003000Z
+DTEND:20261007T033000Z
+LOCATION:Embarcadero (general area\; confirm venue)
+SUMMARY:Camp AI: Production-Ready Agents
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/camp-ai-production-ready-ag
+ ents-fa378e29-57e0-4583-aa85-56f4e4015894\n\nCalendar label at snapshot: U
+ nspecified. This label is not an admission guarantee.\n\nSource snapshot: 
+ 2026-09-24T03:24:10.256338Z. This feed updates only when the repository is
+  updated.\n\nGeneral area from official calendar: Embarcadero. Area labels
+  can differ from organizer pages\; confirm the venue.\n\nApplication page:
+  https://partiful.com/e/wgzQaLCyAPobkZnJpzOP\n\nExplore the security\, aut
+ omation\, and deployment work needed to put AI agents into production.\n\n
+ Admission: Application / approval. Price: Not published.
+URL:https://www.tech-week.com/calendar/sf/events/camp-ai-production-ready-a
+ gents-fa378e29-57e0-4583-aa85-56f4e4015894
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:450fd0b7-12d3-420c-92dc-0634b984ac92
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T160000Z
+LOCATION:Jackson Square (general area\; confirm venue)
+SUMMARY:Deep Tech Investor Breakfast
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/deep-tech-investor-breakfas
+ t-450fd0b7-12d3-420c-92dc-0634b984ac92\n\nCalendar label at snapshot: Unsp
+ ecified. This label is not an admission guarantee.\n\nSource snapshot: 202
+ 6-09-24T03:24:10.256338Z. This feed updates only when the repository is up
+ dated.\n\nEnd time is unknown in this guide. No end or duration is supplie
+ d\; calendar apps may display this as a point event or apply their own vis
+ ual default.\n\nGeneral area from official calendar: Jackson Square. Area 
+ labels can differ from organizer pages\; confirm the venue.\n\nApplication
+  page: https://partiful.com/e/l2OOsMB3MHZJ9b8lzhmq\n\nAn investor-focused 
+ breakfast for exchanging views on deep-tech diligence and deal flow.\n\nAd
+ mission: Application / approval. Price: Not published.\n\nInvite-only\; in
+ tended for VCs\, angel investors\, LPs\, and family offices. The descripti
+ on says this is not a pitch event. No end time is published.
+URL:https://www.tech-week.com/calendar/sf/events/deep-tech-investor-breakfa
+ st-450fd0b7-12d3-420c-92dc-0634b984ac92
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:3b9cb867-dfaa-4642-9af3-ea75412d40a0
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T190000Z
+DTEND:20261008T000000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:🤝 MATCH HOUSE San Francisco
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/match-house-san-francisco-3
+ b9cb867-dfaa-4642-9af3-ea75412d40a0\n\nCalendar label at snapshot: Unspeci
+ fied. This label is not an admission guarantee.\n\nSource snapshot: 2026-0
+ 9-24T03:24:10.256338Z. This feed updates only when the repository is updat
+ ed.\n\nGeneral area from official calendar: Downtown. Area labels can diff
+ er from organizer pages\; confirm the venue.\n\nApplication page: https://
+ partiful.com/e/xK3d559vfUGIIipkw8yp\n\nUse scheduled one-to-one matching t
+ o meet relevant founders\, investors\, and operators.\n\nAdmission: Applic
+ ation / approval. Price: Not published.\n\nThe public listing uses an appl
+ ication flow\; attendance requires approval.
+URL:https://www.tech-week.com/calendar/sf/events/match-house-san-francisco-
+ 3b9cb867-dfaa-4642-9af3-ea75412d40a0
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:9c04f81c-210d-4e7a-bba1-1637f862e8e3
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T000000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:NexxaWorld - presented by Nexxa.ai & a16z
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/nexxaworld-presented-by-nex
+ xa-ai-and-a16z-9c04f81c-210d-4e7a-bba1-1637f862e8e3\n\nCalendar label at s
+ napshot: Unspecified. This label is not an admission guarantee.\n\nSource 
+ snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the rep
+ ository is updated.\n\nEnd time is unknown in this guide. No end or durati
+ on is supplied\; calendar apps may display this as a point event or apply 
+ their own visual default.\n\nGeneral area from official calendar: SOMA. Ar
+ ea labels can differ from organizer pages\; confirm the venue.\n\nApplicat
+ ion page: https://partiful.com/e/uJMR8t2zTYWJiNyS7VLp\n\nMeet teams applyi
+ ng AI to industrial operations and hear enterprise perspectives on adoptio
+ n.\n\nAdmission: Application / approval. Price: Not published.\n\nNo end t
+ ime is published.
+URL:https://www.tech-week.com/calendar/sf/events/nexxaworld-presented-by-ne
+ xxa-ai-and-a16z-9c04f81c-210d-4e7a-bba1-1637f862e8e3
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:7df29c71-1e55-44ef-8828-a9dfc26aa119
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T010000Z
+DTEND:20261009T050000Z
+LOCATION:Marina (general area\; confirm venue)
+SUMMARY:Who Will Own the Future?
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/who-will-own-the-future-7df
+ 29c71-1e55-44ef-8828-a9dfc26aa119\n\nCalendar label at snapshot: Unspecifi
+ ed. This label is not an admission guarantee.\n\nSource snapshot: 2026-09-
+ 24T03:24:10.256338Z. This feed updates only when the repository is updated
+ .\n\nGeneral area from official calendar: Marina. Area labels can differ f
+ rom organizer pages\; confirm the venue.\n\nApplication page: https://part
+ iful.com/e/xoXjF4aybCw6UY4XxY80\n\nAn evening connecting technology and in
+ vestment perspectives\, followed by networking.\n\nAdmission: Application 
+ / approval. Price: Not published.
+URL:https://www.tech-week.com/calendar/sf/events/who-will-own-the-future-7d
+ f29c71-1e55-44ef-8828-a9dfc26aa119
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:70750ac4-237e-42a9-9b03-f9589abdae34
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T173000Z
+DTEND:20261010T000000Z
+LOCATION:Jackson Square (general area\; confirm venue)
+SUMMARY:a16z speedrun AI Faire
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/a16z-speedrun-ai-faire-7075
+ 0ac4-237e-42a9-9b03-f9589abdae34\n\nCalendar label at snapshot: Unspecifie
+ d. This label is not an admission guarantee.\n\nSource snapshot: 2026-09-2
+ 4T03:24:10.256338Z. This feed updates only when the repository is updated.
+ \n\nGeneral area from official calendar: Jackson Square. Area labels can d
+ iffer from organizer pages\; confirm the venue.\n\nApplication page: https
+ ://partiful.com/e/WrF0Hv7cZLnp5fHzjYAC\n\nCompare B2B AI tools through liv
+ e product demos and direct conversations with startup teams.\n\nAdmission:
+  Application / approval. Price: Not published.\n\nApplications have stagge
+ red entry slots. The organizer says to wait for acceptance before making p
+ lans to attend.
+URL:https://www.tech-week.com/calendar/sf/events/a16z-speedrun-ai-faire-707
+ 50ac4-237e-42a9-9b03-f9589abdae34
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,815 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SF Tech Week Community Guide//2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SF Tech Week 2026 — Compute & cloud
+X-WR-CALDESC:Inference\, GPUs\, data centers\, cloud platforms and AI infra
+ structure economics.
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:urn:uuid:f61177e0-279c-41e5-9105-0743257fadfd
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T010000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:The Data Center Summit @
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/the-data-center-summit-f611
+ 77e0-279c-41e5-9105-0743257fadfd\n\nCalendar label at snapshot: Unspecifie
+ d. This label is not an admission guarantee.\n\nSource snapshot: 2026-09-2
+ 4T03:24:10.256338Z. This feed updates only when the repository is updated.
+ \n\nEnd time is unknown in this guide. No end or duration is supplied\; ca
+ lendar apps may display this as a point event or apply their own visual de
+ fault.\n\nGeneral area from official calendar: FiDi. Area labels can diffe
+ r from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/the-data-center-summit-f61
+ 177e0-279c-41e5-9105-0743257fadfd
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:fd1bea4d-5647-4b86-ae73-af68ec90795d
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T010000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Infrastructure for the Agentic future
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/infrastructure-for-the-agen
+ tic-future-fd1bea4d-5647-4b86-ae73-af68ec90795d\n\nCalendar label at snaps
+ hot: Unspecified. This label is not an admission guarantee.\n\nSource snap
+ shot: 2026-09-24T03:24:10.256338Z. This feed updates only when the reposit
+ ory is updated.\n\nEnd time is unknown in this guide. No end or duration i
+ s supplied\; calendar apps may display this as a point event or apply thei
+ r own visual default.\n\nGeneral area from official calendar: SOMA. Area l
+ abels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/infrastructure-for-the-age
+ ntic-future-fd1bea4d-5647-4b86-ae73-af68ec90795d
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:6288fb3c-1d2e-4c72-b8db-d9847f76dfa4
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T180000Z
+LOCATION:Dogpatch (general area\; confirm venue)
+SUMMARY:AI Infra: Fundraising at the Foundation
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/ai-infra-fundraising-at-the
+ -foundation-6288fb3c-1d2e-4c72-b8db-d9847f76dfa4\n\nCalendar label at snap
+ shot: Unspecified. This label is not an admission guarantee.\n\nSource sna
+ pshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the reposi
+ tory is updated.\n\nEnd time is unknown in this guide. No end or duration 
+ is supplied\; calendar apps may display this as a point event or apply the
+ ir own visual default.\n\nGeneral area from official calendar: Dogpatch. A
+ rea labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/ai-infra-fundraising-at-th
+ e-foundation-6288fb3c-1d2e-4c72-b8db-d9847f76dfa4
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:12faac27-9c41-4eae-a8e9-ac6ffcea6f53
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T190000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:DevTools Drink Up 💻🍕🍩🍸🥃 // Depot x Inference
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/devtools-drink-up-depot-x-i
+ nference-12faac27-9c41-4eae-a8e9-ac6ffcea6f53\n\nCalendar label at snapsho
+ t: Unspecified. This label is not an admission guarantee.\n\nSource snapsh
+ ot: 2026-09-24T03:24:10.256338Z. This feed updates only when the repositor
+ y is updated.\n\nEnd time is unknown in this guide. No end or duration is 
+ supplied\; calendar apps may display this as a point event or apply their 
+ own visual default.\n\nGeneral area from official calendar: FiDi. Area lab
+ els can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/devtools-drink-up-depot-x-
+ inference-12faac27-9c41-4eae-a8e9-ac6ffcea6f53
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d234e0de-a248-45dd-bd8d-339354f8ac92
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T190000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Future Solutions for Datacenters
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/future-solutions-for-datace
+ nters-d234e0de-a248-45dd-bd8d-339354f8ac92\n\nCalendar label at snapshot: 
+ Unspecified. This label is not an admission guarantee.\n\nSource snapshot:
+  2026-09-24T03:24:10.256338Z. This feed updates only when the repository i
+ s updated.\n\nEnd time is unknown in this guide. No end or duration is sup
+ plied\; calendar apps may display this as a point event or apply their own
+  visual default.\n\nGeneral area from official calendar: FiDi. Area labels
+  can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/future-solutions-for-datac
+ enters-d234e0de-a248-45dd-bd8d-339354f8ac92
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c97b40e6-b3dd-46d2-9ab5-45b11f657639
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T220000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:The Future of Inference | General Compute x Fenwick
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/the-future-of-inference-gen
+ eral-compute-x-fenwick-c97b40e6-b3dd-46d2-9ab5-45b11f657639\n\nCalendar la
+ bel at snapshot: Unspecified. This label is not an admission guarantee.\n\
+ nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when
+  the repository is updated.\n\nEnd time is unknown in this guide. No end o
+ r duration is supplied\; calendar apps may display this as a point event o
+ r apply their own visual default.\n\nGeneral area from official calendar: 
+ FiDi. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/the-future-of-inference-ge
+ neral-compute-x-fenwick-c97b40e6-b3dd-46d2-9ab5-45b11f657639
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:28f4b1e1-ade8-4b22-8d45-260e83fece77
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T230000Z
+LOCATION:Palo Alto (general area\; confirm venue)
+SUMMARY:Post-Training & Agent Infra - #SF TechWeek
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/post-training-and-agent-inf
+ ra-sf-techweek-28f4b1e1-ade8-4b22-8d45-260e83fece77\n\nCalendar label at s
+ napshot: Unspecified. This label is not an admission guarantee.\n\nSource 
+ snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the rep
+ ository is updated.\n\nEnd time is unknown in this guide. No end or durati
+ on is supplied\; calendar apps may display this as a point event or apply 
+ their own visual default.\n\nGeneral area from official calendar: Palo Alt
+ o. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/post-training-and-agent-in
+ fra-sf-techweek-28f4b1e1-ade8-4b22-8d45-260e83fece77
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:931a9198-ed5b-4a8b-bb6a-533f57e6b804
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T003000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:Houston\, We Have No Cloud: Build Your AI for the Moon
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/houston-we-have-no-cloud-bu
+ ild-your-ai-for-the-moon-931a9198-ed5b-4a8b-bb6a-533f57e6b804\n\nCalendar 
+ label at snapshot: Unspecified. This label is not an admission guarantee.\
+ n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only wh
+ en the repository is updated.\n\nEnd time is unknown in this guide. No end
+  or duration is supplied\; calendar apps may display this as a point event
+  or apply their own visual default.\n\nGeneral area from official calendar
+ : Downtown. Area labels can differ from organizer pages\; confirm the venu
+ e.
+URL:https://www.tech-week.com/calendar/sf/events/houston-we-have-no-cloud-b
+ uild-your-ai-for-the-moon-931a9198-ed5b-4a8b-bb6a-533f57e6b804
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:4c5014a6-ff3b-4939-a704-6c5bbb9ec49c
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T010000Z
+LOCATION:Other (general area\; confirm venue)
+SUMMARY:Data Center Tour
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/data-center-tour-4c5014a6-f
+ f3b-4939-a704-6c5bbb9ec49c\n\nCalendar label at snapshot: Unspecified. Thi
+ s label is not an admission guarantee.\n\nSource snapshot: 2026-09-24T03:2
+ 4:10.256338Z. This feed updates only when the repository is updated.\n\nEn
+ d time is unknown in this guide. No end or duration is supplied\; calendar
+  apps may display this as a point event or apply their own visual default.
+ \n\nGeneral area from official calendar: Other. Area labels can differ fro
+ m organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/data-center-tour-4c5014a6-
+ ff3b-4939-a704-6c5bbb9ec49c
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:dd1ad3b0-a419-4619-a8d1-8fec7c117a56
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T010000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:compute happy hour
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/compute-happy-hour-dd1ad3b0
+ -a419-4619-a8d1-8fec7c117a56\n\nCalendar label at snapshot: Unspecified. T
+ his label is not an admission guarantee.\n\nSource snapshot: 2026-09-24T03
+ :24:10.256338Z. This feed updates only when the repository is updated.\n\n
+ End time is unknown in this guide. No end or duration is supplied\; calend
+ ar apps may display this as a point event or apply their own visual defaul
+ t.\n\nGeneral area from official calendar: SOMA. Area labels can differ fr
+ om organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/compute-happy-hour-dd1ad3b
+ 0-a419-4619-a8d1-8fec7c117a56
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:cbb92bb5-5db8-489c-9851-2d93f830442b
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T013000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Frontier Models\, High-Speed Inference\, and Agents at Scale
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/frontier-models-high-speed-
+ inference-and-agents-at-scale-cbb92bb5-5db8-489c-9851-2d93f830442b\n\nCale
+ ndar label at snapshot: Unspecified. This label is not an admission guaran
+ tee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates on
+ ly when the repository is updated.\n\nEnd time is unknown in this guide. N
+ o end or duration is supplied\; calendar apps may display this as a point 
+ event or apply their own visual default.\n\nGeneral area from official cal
+ endar: SOMA. Area labels can differ from organizer pages\; confirm the ven
+ ue.
+URL:https://www.tech-week.com/calendar/sf/events/frontier-models-high-speed
+ -inference-and-agents-at-scale-cbb92bb5-5db8-489c-9851-2d93f830442b
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:e275cfe1-8146-49fd-9435-5730ffdbff55
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T013000Z
+LOCATION:Mission (general area\; confirm venue)
+SUMMARY:Visual AI Inference: Talks & Happy Hour
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/visual-ai-inference-talks-a
+ nd-happy-hour-e275cfe1-8146-49fd-9435-5730ffdbff55\n\nCalendar label at sn
+ apshot: Unspecified. This label is not an admission guarantee.\n\nSource s
+ napshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the repo
+ sitory is updated.\n\nEnd time is unknown in this guide. No end or duratio
+ n is supplied\; calendar apps may display this as a point event or apply t
+ heir own visual default.\n\nGeneral area from official calendar: Mission. 
+ Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/visual-ai-inference-talks-
+ and-happy-hour-e275cfe1-8146-49fd-9435-5730ffdbff55
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:eedf0c80-605f-4c91-9eb7-bc36d3a44a3b
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T013000Z
+LOCATION:Mission (general area\; confirm venue)
+SUMMARY:Compute & Cocktails
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/compute-and-cocktails-eedf0
+ c80-605f-4c91-9eb7-bc36d3a44a3b\n\nCalendar label at snapshot: Unspecified
+ . This label is not an admission guarantee.\n\nSource snapshot: 2026-09-24
+ T03:24:10.256338Z. This feed updates only when the repository is updated.\
+ n\nEnd time is unknown in this guide. No end or duration is supplied\; cal
+ endar apps may display this as a point event or apply their own visual def
+ ault.\n\nGeneral area from official calendar: Mission. Area labels can dif
+ fer from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/compute-and-cocktails-eedf
+ 0c80-605f-4c91-9eb7-bc36d3a44a3b
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:ab94a1f2-6fb7-4c10-b3d6-f002cffa9165
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T163000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Google for Startups & NVIDIA: From Compute to Competitive Moats: Bu
+ ilding Defensibly.
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/google-for-startups-and-nvi
+ dia-from-compute-to-competitive-moats-building-defens-ab94a1f2-6fb7-4c10-b
+ 3d6-f002cffa9165\n\nCalendar label at snapshot: Unspecified. This label is
+  not an admission guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.25633
+ 8Z. This feed updates only when the repository is updated.\n\nEnd time is 
+ unknown in this guide. No end or duration is supplied\; calendar apps may 
+ display this as a point event or apply their own visual default.\n\nGenera
+ l area from official calendar: SOMA. Area labels can differ from organizer
+  pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/google-for-startups-and-nv
+ idia-from-compute-to-competitive-moats-building-defens-ab94a1f2-6fb7-4c10-
+ b3d6-f002cffa9165
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:380172a3-d196-472e-83f4-1605cfb63e45
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T170000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:AWS Expert Booth - #Startups@AWS
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/aws-expert-booth-startups-a
+ ws-380172a3-d196-472e-83f4-1605cfb63e45\n\nCalendar label at snapshot: Uns
+ pecified. This label is not an admission guarantee.\n\nSource snapshot: 20
+ 26-09-24T03:24:10.256338Z. This feed updates only when the repository is u
+ pdated.\n\nEnd time is unknown in this guide. No end or duration is suppli
+ ed\; calendar apps may display this as a point event or apply their own vi
+ sual default.\n\nGeneral area from official calendar: Downtown. Area label
+ s can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/aws-expert-booth-startups-
+ aws-380172a3-d196-472e-83f4-1605cfb63e45
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:30cdae84-8dc4-46e9-903f-0fbf877d6871
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T193000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Google for Startups & NVIDIA: Scaling Velocity\, Open Infrastructur
+ e\, and Frontier AI
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/google-for-startups-and-nvi
+ dia-scaling-velocity-open-infrastructure-and-frontier-30cdae84-8dc4-46e9-9
+ 03f-0fbf877d6871\n\nCalendar label at snapshot: Unspecified. This label is
+  not an admission guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.25633
+ 8Z. This feed updates only when the repository is updated.\n\nEnd time is 
+ unknown in this guide. No end or duration is supplied\; calendar apps may 
+ display this as a point event or apply their own visual default.\n\nGenera
+ l area from official calendar: SOMA. Area labels can differ from organizer
+  pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/google-for-startups-and-nv
+ idia-scaling-velocity-open-infrastructure-and-frontier-30cdae84-8dc4-46e9-
+ 903f-0fbf877d6871
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d0c5ef11-ac14-43a5-baaf-f481f812a9f7
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T210000Z
+LOCATION:Mission (general area\; confirm venue)
+SUMMARY:Every Token Has a Price
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/every-token-has-a-price-d0c
+ 5ef11-ac14-43a5-baaf-f481f812a9f7\n\nCalendar label at snapshot: Unspecifi
+ ed. This label is not an admission guarantee.\n\nSource snapshot: 2026-09-
+ 24T03:24:10.256338Z. This feed updates only when the repository is updated
+ .\n\nEnd time is unknown in this guide. No end or duration is supplied\; c
+ alendar apps may display this as a point event or apply their own visual d
+ efault.\n\nGeneral area from official calendar: Mission. Area labels can d
+ iffer from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/every-token-has-a-price-d0
+ c5ef11-ac14-43a5-baaf-f481f812a9f7
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5d7c8abc-18de-432f-9874-2ed8d1d2e5e3
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T230000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Building AI Data Centers: Owners × Contractors
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/building-ai-data-centers-ow
+ ners-contractors-5d7c8abc-18de-432f-9874-2ed8d1d2e5e3\n\nCalendar label at
+  snapshot: Unspecified. This label is not an admission guarantee.\n\nSourc
+ e snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the r
+ epository is updated.\n\nEnd time is unknown in this guide. No end or dura
+ tion is supplied\; calendar apps may display this as a point event or appl
+ y their own visual default.\n\nGeneral area from official calendar: FiDi. 
+ Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/building-ai-data-centers-o
+ wners-contractors-5d7c8abc-18de-432f-9874-2ed8d1d2e5e3
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:f115e482-0500-4f60-9ef4-560e4d642bb5
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T230000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:Compute\, Cocktails & Connections with Oracle Cloud
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/compute-cocktails-and-conne
+ ctions-with-oracle-cloud-f115e482-0500-4f60-9ef4-560e4d642bb5\n\nCalendar 
+ label at snapshot: Unspecified. This label is not an admission guarantee.\
+ n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only wh
+ en the repository is updated.\n\nEnd time is unknown in this guide. No end
+  or duration is supplied\; calendar apps may display this as a point event
+  or apply their own visual default.\n\nGeneral area from official calendar
+ : Downtown. Area labels can differ from organizer pages\; confirm the venu
+ e.
+URL:https://www.tech-week.com/calendar/sf/events/compute-cocktails-and-conn
+ ections-with-oracle-cloud-f115e482-0500-4f60-9ef4-560e4d642bb5
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:71bce0fe-f239-4803-9092-55ace31e71df
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T000000Z
+LOCATION:Mission (general area\; confirm venue)
+SUMMARY:AI Beyond the Cloud: Developer Happy Hour with femtoAI
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/ai-beyond-the-cloud-develop
+ er-happy-hour-with-femtoai-71bce0fe-f239-4803-9092-55ace31e71df\n\nCalenda
+ r label at snapshot: Unspecified. This label is not an admission guarantee
+ .\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only 
+ when the repository is updated.\n\nEnd time is unknown in this guide. No e
+ nd or duration is supplied\; calendar apps may display this as a point eve
+ nt or apply their own visual default.\n\nGeneral area from official calend
+ ar: Mission. Area labels can differ from organizer pages\; confirm the ven
+ ue.
+URL:https://www.tech-week.com/calendar/sf/events/ai-beyond-the-cloud-develo
+ per-happy-hour-with-femtoai-71bce0fe-f239-4803-9092-55ace31e71df
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:99abb67a-868a-4068-8d55-2c9cc6e8566a
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T003000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Open Source AI Stack: Models\, Inference\, and Agent Harness
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/open-source-ai-stack-models
+ -inference-and-agent-harness-99abb67a-868a-4068-8d55-2c9cc6e8566a\n\nCalen
+ dar label at snapshot: Unspecified. This label is not an admission guarant
+ ee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates onl
+ y when the repository is updated.\n\nEnd time is unknown in this guide. No
+  end or duration is supplied\; calendar apps may display this as a point e
+ vent or apply their own visual default.\n\nGeneral area from official cale
+ ndar: FiDi. Area labels can differ from organizer pages\; confirm the venu
+ e.
+URL:https://www.tech-week.com/calendar/sf/events/open-source-ai-stack-model
+ s-inference-and-agent-harness-99abb67a-868a-4068-8d55-2c9cc6e8566a
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c7c19a06-c9e1-4851-9c3d-572b26234e60
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T003000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Infra for Intelligence
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/infra-for-intelligence-c7c1
+ 9a06-c9e1-4851-9c3d-572b26234e60\n\nCalendar label at snapshot: Unspecifie
+ d. This label is not an admission guarantee.\n\nSource snapshot: 2026-09-2
+ 4T03:24:10.256338Z. This feed updates only when the repository is updated.
+ \n\nEnd time is unknown in this guide. No end or duration is supplied\; ca
+ lendar apps may display this as a point event or apply their own visual de
+ fault.\n\nGeneral area from official calendar: SOMA. Area labels can diffe
+ r from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/infra-for-intelligence-c7c
+ 19a06-c9e1-4851-9c3d-572b26234e60
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:dba3ab3b-05fb-4e36-848e-5df81f4e7d02
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T010000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:Your AI bill is a context problem: token economics for AI-assisted 
+ engineering
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/your-ai-bill-is-a-context-p
+ roblem-token-economics-for-ai-assisted-engineering-dba3ab3b-05fb-4e36-848e
+ -5df81f4e7d02\n\nCalendar label at snapshot: Unspecified. This label is no
+ t an admission guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z.
+  This feed updates only when the repository is updated.\n\nEnd time is unk
+ nown in this guide. No end or duration is supplied\; calendar apps may dis
+ play this as a point event or apply their own visual default.\n\nGeneral a
+ rea from official calendar: Downtown. Area labels can differ from organize
+ r pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/your-ai-bill-is-a-context-
+ problem-token-economics-for-ai-assisted-engineering-dba3ab3b-05fb-4e36-848
+ e-5df81f4e7d02
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:29acc141-e671-46ee-a58b-05e7a1058a53
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T160000Z
+LOCATION:Dogpatch (general area\; confirm venue)
+SUMMARY:The Cortex Cafe by Snowflake & Google Cloud
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/the-cortex-cafe-by-snowflak
+ e-and-google-cloud-29acc141-e671-46ee-a58b-05e7a1058a53\n\nCalendar label 
+ at snapshot: Unspecified. This label is not an admission guarantee.\n\nSou
+ rce snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the
+  repository is updated.\n\nEnd time is unknown in this guide. No end or du
+ ration is supplied\; calendar apps may display this as a point event or ap
+ ply their own visual default.\n\nGeneral area from official calendar: Dogp
+ atch. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/the-cortex-cafe-by-snowfla
+ ke-and-google-cloud-29acc141-e671-46ee-a58b-05e7a1058a53
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a064f11a-abc8-4017-ba52-897ee468ed53
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T170000Z
+LOCATION:Mission (general area\; confirm venue)
+SUMMARY:AMD x RedHat AI-Infra Workshop: High performance inference\, at sca
+ le
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/amd-x-redhat-ai-infra-works
+ hop-high-performance-inference-at-scale-a064f11a-abc8-4017-ba52-897ee468ed
+ 53\n\nCalendar label at snapshot: Unspecified. This label is not an admiss
+ ion guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed 
+ updates only when the repository is updated.\n\nEnd time is unknown in thi
+ s guide. No end or duration is supplied\; calendar apps may display this a
+ s a point event or apply their own visual default.\n\nGeneral area from of
+ ficial calendar: Mission. Area labels can differ from organizer pages\; co
+ nfirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/amd-x-redhat-ai-infra-work
+ shop-high-performance-inference-at-scale-a064f11a-abc8-4017-ba52-897ee468e
+ d53
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:86544ec6-baad-4782-8534-45cceef87a52
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T230000Z
+LOCATION:East Bay (general area\; confirm venue)
+SUMMARY:Modular AI Infrastructure Tour + Happy Hour
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/modular-ai-infrastructure-t
+ our-happy-hour-86544ec6-baad-4782-8534-45cceef87a52\n\nCalendar label at s
+ napshot: Unspecified. This label is not an admission guarantee.\n\nSource 
+ snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the rep
+ ository is updated.\n\nEnd time is unknown in this guide. No end or durati
+ on is supplied\; calendar apps may display this as a point event or apply 
+ their own visual default.\n\nGeneral area from official calendar: East Bay
+ . Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/modular-ai-infrastructure-
+ tour-happy-hour-86544ec6-baad-4782-8534-45cceef87a52
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:ffce7e5c-49a8-417f-bfdc-7a7ad06da8fd
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T003000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:SkyPilot AI Infra Meetup with H Company
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/skypilot-ai-infra-meetup-wi
+ th-h-company-ffce7e5c-49a8-417f-bfdc-7a7ad06da8fd\n\nCalendar label at sna
+ pshot: Unspecified. This label is not an admission guarantee.\n\nSource sn
+ apshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the repos
+ itory is updated.\n\nEnd time is unknown in this guide. No end or duration
+  is supplied\; calendar apps may display this as a point event or apply th
+ eir own visual default.\n\nGeneral area from official calendar: SOMA. Area
+  labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/skypilot-ai-infra-meetup-w
+ ith-h-company-ffce7e5c-49a8-417f-bfdc-7a7ad06da8fd
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:78cee80d-0533-44c1-a7d8-2202f36e29f0
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T010000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:Boba & Build Night: Infra\, ML\, and App Dev in the Observability A
+ ge
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/boba-and-build-night-infra-
+ ml-and-app-dev-in-the-observability-age-78cee80d-0533-44c1-a7d8-2202f36e29
+ f0\n\nCalendar label at snapshot: Unspecified. This label is not an admiss
+ ion guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed 
+ updates only when the repository is updated.\n\nEnd time is unknown in thi
+ s guide. No end or duration is supplied\; calendar apps may display this a
+ s a point event or apply their own visual default.\n\nGeneral area from of
+ ficial calendar: Downtown. Area labels can differ from organizer pages\; c
+ onfirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/boba-and-build-night-infra
+ -ml-and-app-dev-in-the-observability-age-78cee80d-0533-44c1-a7d8-2202f36e2
+ 9f0
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b52854dd-4c77-4c41-85d6-c1908fe199d7
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T010000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:AI Tokenomics: The Production AI Economics Roundtable
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/ai-tokenomics-the-productio
+ n-ai-economics-roundtable-b52854dd-4c77-4c41-85d6-c1908fe199d7\n\nCalendar
+  label at snapshot: Unspecified. This label is not an admission guarantee.
+ \n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only w
+ hen the repository is updated.\n\nEnd time is unknown in this guide. No en
+ d or duration is supplied\; calendar apps may display this as a point even
+ t or apply their own visual default.\n\nGeneral area from official calenda
+ r: Downtown. Area labels can differ from organizer pages\; confirm the ven
+ ue.
+URL:https://www.tech-week.com/calendar/sf/events/ai-tokenomics-the-producti
+ on-ai-economics-roundtable-b52854dd-4c77-4c41-85d6-c1908fe199d7
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:fc094227-d2c1-4534-9aa2-1c685b63be7b
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T013000Z
+LOCATION:Jackson Square (general area\; confirm venue)
+SUMMARY:Inside the AI factory: one tenant\, three layers
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/inside-the-ai-factory-one-t
+ enant-three-layers-fc094227-d2c1-4534-9aa2-1c685b63be7b\n\nCalendar label 
+ at snapshot: Unspecified. This label is not an admission guarantee.\n\nSou
+ rce snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the
+  repository is updated.\n\nEnd time is unknown in this guide. No end or du
+ ration is supplied\; calendar apps may display this as a point event or ap
+ ply their own visual default.\n\nGeneral area from official calendar: Jack
+ son Square. Area labels can differ from organizer pages\; confirm the venu
+ e.
+URL:https://www.tech-week.com/calendar/sf/events/inside-the-ai-factory-one-
+ tenant-three-layers-fc094227-d2c1-4534-9aa2-1c685b63be7b
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:8945ddb9-466b-4279-9e5d-7263667cf97c
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T153000Z
+LOCATION:Civic Center (general area\; confirm venue)
+SUMMARY:World Models & GPUs Coffee
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/world-models-and-gpus-coffe
+ e-8945ddb9-466b-4279-9e5d-7263667cf97c\n\nCalendar label at snapshot: Unsp
+ ecified. This label is not an admission guarantee.\n\nSource snapshot: 202
+ 6-09-24T03:24:10.256338Z. This feed updates only when the repository is up
+ dated.\n\nEnd time is unknown in this guide. No end or duration is supplie
+ d\; calendar apps may display this as a point event or apply their own vis
+ ual default.\n\nGeneral area from official calendar: Civic Center. Area la
+ bels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/world-models-and-gpus-coff
+ ee-8945ddb9-466b-4279-9e5d-7263667cf97c
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d2e74a41-bf90-4c62-8b0f-f74da40512de
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T160000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:SF AI Summit — The Infrastructure Era
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/sf-ai-summit-the-infrastruc
+ ture-era-d2e74a41-bf90-4c62-8b0f-f74da40512de\n\nCalendar label at snapsho
+ t: Unspecified. This label is not an admission guarantee.\n\nSource snapsh
+ ot: 2026-09-24T03:24:10.256338Z. This feed updates only when the repositor
+ y is updated.\n\nEnd time is unknown in this guide. No end or duration is 
+ supplied\; calendar apps may display this as a point event or apply their 
+ own visual default.\n\nGeneral area from official calendar: Downtown. Area
+  labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/sf-ai-summit-the-infrastru
+ cture-era-d2e74a41-bf90-4c62-8b0f-f74da40512de
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:9dd8f3d0-4034-4722-8fbc-8f29559978f8
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261010T000000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Production cloud on autopilot + food/drinks
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/production-cloud-on-autopil
+ ot-food-drinks-9dd8f3d0-4034-4722-8fbc-8f29559978f8\n\nCalendar label at s
+ napshot: Unspecified. This label is not an admission guarantee.\n\nSource 
+ snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the rep
+ ository is updated.\n\nEnd time is unknown in this guide. No end or durati
+ on is supplied\; calendar apps may display this as a point event or apply 
+ their own visual default.\n\nGeneral area from official calendar: SOMA. Ar
+ ea labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/production-cloud-on-autopi
+ lot-food-drinks-9dd8f3d0-4034-4722-8fbc-8f29559978f8
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:f9dad556-7d86-48c0-ad37-125f72014492
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261010T190000Z
+LOCATION:Other (general area\; confirm venue)
+SUMMARY:AI Infra & Frontier Builders BBQ | Powered by Flatkey & Realset
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/ai-infra-and-frontier-build
+ ers-bbq-powered-by-flatkey-and-realset-f9dad556-7d86-48c0-ad37-125f7201449
+ 2\n\nCalendar label at snapshot: Unspecified. This label is not an admissi
+ on guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed u
+ pdates only when the repository is updated.\n\nEnd time is unknown in this
+  guide. No end or duration is supplied\; calendar apps may display this as
+  a point event or apply their own visual default.\n\nGeneral area from off
+ icial calendar: Other. Area labels can differ from organizer pages\; confi
+ rm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/ai-infra-and-frontier-buil
+ ders-bbq-powered-by-flatkey-and-realset-f9dad556-7d86-48c0-ad37-125f720144
+ 92
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

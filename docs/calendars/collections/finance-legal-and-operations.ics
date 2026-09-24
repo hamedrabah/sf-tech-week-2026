@@ -1,0 +1,1010 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SF Tech Week Community Guide//2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SF Tech Week 2026 — Finance\, legal & business operations
+X-WR-CALDESC:CFO practice\, accounting\, tax\, legal operations\, startup e
+ quity and operating systems.
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:urn:uuid:7bce0d2c-2422-48a7-9557-c45f3878e5db
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261005T160000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Law in the Age of AI
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/law-in-the-age-of-ai-7bce0d
+ 2c-2422-48a7-9557-c45f3878e5db\n\nCalendar label at snapshot: Unspecified.
+  This label is not an admission guarantee.\n\nSource snapshot: 2026-09-24T
+ 03:24:10.256338Z. This feed updates only when the repository is updated.\n
+ \nEnd time is unknown in this guide. No end or duration is supplied\; cale
+ ndar apps may display this as a point event or apply their own visual defa
+ ult.\n\nGeneral area from official calendar: FiDi. Area labels can differ 
+ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/law-in-the-age-of-ai-7bce0
+ d2c-2422-48a7-9557-c45f3878e5db
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:eb4f7aea-e110-4150-9dd3-018b96e4ee80
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261005T170000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:From Term Sheet To Cap Table - Workshop for Early Stage Founders
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/from-term-sheet-to-cap-tabl
+ e-workshop-for-early-stage-founders-eb4f7aea-e110-4150-9dd3-018b96e4ee80\n
+ \nCalendar label at snapshot: Unspecified. This label is not an admission 
+ guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed upda
+ tes only when the repository is updated.\n\nEnd time is unknown in this gu
+ ide. No end or duration is supplied\; calendar apps may display this as a 
+ point event or apply their own visual default.\n\nGeneral area from offici
+ al calendar: Downtown. Area labels can differ from organizer pages\; confi
+ rm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/from-term-sheet-to-cap-tab
+ le-workshop-for-early-stage-founders-eb4f7aea-e110-4150-9dd3-018b96e4ee80
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c91c2f81-fae6-4e04-921e-e6292d1b4894
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261005T210000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:The AI-Native Finance Workshop (with The FP&A Guy Paul Barnhurst)
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/the-ai-native-finance-works
+ hop-with-the-fp-and-a-guy-paul-barnhurst-c91c2f81-fae6-4e04-921e-e6292d1b4
+ 894\n\nCalendar label at snapshot: Unspecified. This label is not an admis
+ sion guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed
+  updates only when the repository is updated.\n\nEnd time is unknown in th
+ is guide. No end or duration is supplied\; calendar apps may display this 
+ as a point event or apply their own visual default.\n\nGeneral area from o
+ fficial calendar: SOMA. Area labels can differ from organizer pages\; conf
+ irm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/the-ai-native-finance-work
+ shop-with-the-fp-and-a-guy-paul-barnhurst-c91c2f81-fae6-4e04-921e-e6292d1b
+ 4894
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:6c515f8b-3549-4477-97f5-febb46ebf9cf
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261005T214500Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:The Diligence Room: Founders & Funders DD Forum
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/the-diligence-room-founders
+ -and-funders-dd-forum-6c515f8b-3549-4477-97f5-febb46ebf9cf\n\nCalendar lab
+ el at snapshot: Full. This label is not an admission guarantee.\n\nSource 
+ snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the rep
+ ository is updated.\n\nEnd time is unknown in this guide. No end or durati
+ on is supplied\; calendar apps may display this as a point event or apply 
+ their own visual default.\n\nGeneral area from official calendar: Downtown
+ . Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/the-diligence-room-founder
+ s-and-funders-dd-forum-6c515f8b-3549-4477-97f5-febb46ebf9cf
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b0955d83-9929-4684-a5db-72221f26c2a4
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261005T220000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:The Zero Marginal Cost Tax Department
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/the-zero-marginal-cost-tax-
+ department-b0955d83-9929-4684-a5db-72221f26c2a4\n\nCalendar label at snaps
+ hot: Unspecified. This label is not an admission guarantee.\n\nSource snap
+ shot: 2026-09-24T03:24:10.256338Z. This feed updates only when the reposit
+ ory is updated.\n\nEnd time is unknown in this guide. No end or duration i
+ s supplied\; calendar apps may display this as a point event or apply thei
+ r own visual default.\n\nGeneral area from official calendar: Downtown. Ar
+ ea labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/the-zero-marginal-cost-tax
+ -department-b0955d83-9929-4684-a5db-72221f26c2a4
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:2a140f1b-c415-429d-988e-6fa695c93e11
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T000000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:AI Startup Accounting & Tax: The Essentials
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/ai-startup-accounting-and-t
+ ax-the-essentials-2a140f1b-c415-429d-988e-6fa695c93e11\n\nCalendar label a
+ t snapshot: Unspecified. This label is not an admission guarantee.\n\nSour
+ ce snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the 
+ repository is updated.\n\nEnd time is unknown in this guide. No end or dur
+ ation is supplied\; calendar apps may display this as a point event or app
+ ly their own visual default.\n\nGeneral area from official calendar: Downt
+ own. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/ai-startup-accounting-and-
+ tax-the-essentials-2a140f1b-c415-429d-988e-6fa695c93e11
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:0b0ee004-6b32-4699-8c72-aba2b9aafcb6
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T003000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:LegalTech Beyond Drafting: AI\, Automation & Billable Hours
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/legaltech-beyond-drafting-a
+ i-automation-and-billable-hours-0b0ee004-6b32-4699-8c72-aba2b9aafcb6\n\nCa
+ lendar label at snapshot: Unspecified. This label is not an admission guar
+ antee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates 
+ only when the repository is updated.\n\nEnd time is unknown in this guide.
+  No end or duration is supplied\; calendar apps may display this as a poin
+ t event or apply their own visual default.\n\nGeneral area from official c
+ alendar: SOMA. Area labels can differ from organizer pages\; confirm the v
+ enue.
+URL:https://www.tech-week.com/calendar/sf/events/legaltech-beyond-drafting-
+ ai-automation-and-billable-hours-0b0ee004-6b32-4699-8c72-aba2b9aafcb6
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:73a0c330-cbd9-4895-93fd-aa55007b3269
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T003000Z
+LOCATION:Hayes Valley (general area\; confirm venue)
+SUMMARY:Trust in the Age of AI: Cross-Industry Perspectives on Risk and Reg
+ ulation
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/trust-in-the-age-of-ai-cros
+ s-industry-perspectives-on-risk-and-regulation-73a0c330-cbd9-4895-93fd-aa5
+ 5007b3269\n\nCalendar label at snapshot: Unspecified. This label is not an
+  admission guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. Thi
+ s feed updates only when the repository is updated.\n\nEnd time is unknown
+  in this guide. No end or duration is supplied\; calendar apps may display
+  this as a point event or apply their own visual default.\n\nGeneral area 
+ from official calendar: Hayes Valley. Area labels can differ from organize
+ r pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/trust-in-the-age-of-ai-cro
+ ss-industry-perspectives-on-risk-and-regulation-73a0c330-cbd9-4895-93fd-aa
+ 55007b3269
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5c9801a4-49aa-44ad-9b48-703dd04be400
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T010000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Salesforce Revenue Management Executive Dinner
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/salesforce-revenue-manageme
+ nt-executive-dinner-5c9801a4-49aa-44ad-9b48-703dd04be400\n\nCalendar label
+  at snapshot: Unspecified. This label is not an admission guarantee.\n\nSo
+ urce snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when th
+ e repository is updated.\n\nEnd time is unknown in this guide. No end or d
+ uration is supplied\; calendar apps may display this as a point event or a
+ pply their own visual default.\n\nGeneral area from official calendar: SOM
+ A. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/salesforce-revenue-managem
+ ent-executive-dinner-5c9801a4-49aa-44ad-9b48-703dd04be400
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:47f98fbf-42aa-40b7-85cc-f994976a6b91
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T170000Z
+LOCATION:Golden Gate Park (general area\; confirm venue)
+SUMMARY:California AI Laws & Regulations
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/california-ai-laws-and-regu
+ lations-47f98fbf-42aa-40b7-85cc-f994976a6b91\n\nCalendar label at snapshot
+ : Waitlist. This label is not an admission guarantee.\n\nSource snapshot: 
+ 2026-09-24T03:24:10.256338Z. This feed updates only when the repository is
+  updated.\n\nEnd time is unknown in this guide. No end or duration is supp
+ lied\; calendar apps may display this as a point event or apply their own 
+ visual default.\n\nGeneral area from official calendar: Golden Gate Park. 
+ Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/california-ai-laws-and-reg
+ ulations-47f98fbf-42aa-40b7-85cc-f994976a6b91
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a7ca9a1e-651a-4545-a345-ff24ca599bfe
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T180000Z
+LOCATION:Rincon Hill (general area\; confirm venue)
+SUMMARY:Bizora Brews Live: Inside the AI Native Back Office
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/bizora-brews-live-inside-th
+ e-ai-native-back-office-a7ca9a1e-651a-4545-a345-ff24ca599bfe\n\nCalendar l
+ abel at snapshot: Unspecified. This label is not an admission guarantee.\n
+ \nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only whe
+ n the repository is updated.\n\nEnd time is unknown in this guide. No end 
+ or duration is supplied\; calendar apps may display this as a point event 
+ or apply their own visual default.\n\nGeneral area from official calendar:
+  Rincon Hill. Area labels can differ from organizer pages\; confirm the ve
+ nue.
+URL:https://www.tech-week.com/calendar/sf/events/bizora-brews-live-inside-t
+ he-ai-native-back-office-a7ca9a1e-651a-4545-a345-ff24ca599bfe
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:91ec045f-342a-4c4a-8987-d03d021ecb34
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T190000Z
+LOCATION:Virtual (general area\; confirm venue)
+SUMMARY:Exit Planning - Trust & Estate Planning\, Tax Loss Harvesting\, & M
+ ore
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/exit-planning-trust-and-est
+ ate-planning-tax-loss-harvesting-and-more-91ec045f-342a-4c4a-8987-d03d021e
+ cb34\n\nCalendar label at snapshot: Unspecified. This label is not an admi
+ ssion guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This fee
+ d updates only when the repository is updated.\n\nEnd time is unknown in t
+ his guide. No end or duration is supplied\; calendar apps may display this
+  as a point event or apply their own visual default.\n\nGeneral area from 
+ official calendar: Virtual. Area labels can differ from organizer pages\; 
+ confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/exit-planning-trust-and-es
+ tate-planning-tax-loss-harvesting-and-more-91ec045f-342a-4c4a-8987-d03d021
+ ecb34
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d7a08c18-9e5b-4533-8ef3-a0567dac7c8b
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T200000Z
+LOCATION:North Beach (general area\; confirm venue)
+SUMMARY:Building the Modern Finance Stack: Usage-based Pricing\, Automation
+ \, & What’s Next
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/building-the-modern-finance
+ -stack-usage-based-pricing-automation-and-what-s-next-d7a08c18-9e5b-4533-8
+ ef3-a0567dac7c8b\n\nCalendar label at snapshot: Unspecified. This label is
+  not an admission guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.25633
+ 8Z. This feed updates only when the repository is updated.\n\nEnd time is 
+ unknown in this guide. No end or duration is supplied\; calendar apps may 
+ display this as a point event or apply their own visual default.\n\nGenera
+ l area from official calendar: North Beach. Area labels can differ from or
+ ganizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/building-the-modern-financ
+ e-stack-usage-based-pricing-automation-and-what-s-next-d7a08c18-9e5b-4533-
+ 8ef3-a0567dac7c8b
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:f051c3dc-2730-427c-b677-38e78408529a
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T220000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:The Real Cost of Cost of Scaling AI & the Autonomous Close for B2B 
+ Founders & Finance Leaders
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/the-real-cost-of-cost-of-sc
+ aling-ai-and-the-autonomous-close-for-b2b-founders-an-f051c3dc-2730-427c-b
+ 677-38e78408529a\n\nCalendar label at snapshot: Unspecified. This label is
+  not an admission guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.25633
+ 8Z. This feed updates only when the repository is updated.\n\nEnd time is 
+ unknown in this guide. No end or duration is supplied\; calendar apps may 
+ display this as a point event or apply their own visual default.\n\nGenera
+ l area from official calendar: SOMA. Area labels can differ from organizer
+  pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/the-real-cost-of-cost-of-s
+ caling-ai-and-the-autonomous-close-for-b2b-founders-an-f051c3dc-2730-427c-
+ b677-38e78408529a
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5c463b61-9262-40a5-8cc2-539f01bb1ebe
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T230000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Tech CFO Panel + Happy Hour (with CFOs of Carta & Vercel)
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/tech-cfo-panel-happy-hour-w
+ ith-cfos-of-carta-and-vercel-5c463b61-9262-40a5-8cc2-539f01bb1ebe\n\nCalen
+ dar label at snapshot: Unspecified. This label is not an admission guarant
+ ee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates onl
+ y when the repository is updated.\n\nEnd time is unknown in this guide. No
+  end or duration is supplied\; calendar apps may display this as a point e
+ vent or apply their own visual default.\n\nGeneral area from official cale
+ ndar: SOMA. Area labels can differ from organizer pages\; confirm the venu
+ e.
+URL:https://www.tech-week.com/calendar/sf/events/tech-cfo-panel-happy-hour-
+ with-cfos-of-carta-and-vercel-5c463b61-9262-40a5-8cc2-539f01bb1ebe
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:9172420f-687f-4d40-acf6-a63eedca8140
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T230000Z
+LOCATION:Fisherman's Wharf (general area\; confirm venue)
+SUMMARY:Making Waves: AI x Finance on the Bay
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/making-waves-ai-x-finance-o
+ n-the-bay-9172420f-687f-4d40-acf6-a63eedca8140\n\nCalendar label at snapsh
+ ot: Unspecified. This label is not an admission guarantee.\n\nSource snaps
+ hot: 2026-09-24T03:24:10.256338Z. This feed updates only when the reposito
+ ry is updated.\n\nEnd time is unknown in this guide. No end or duration is
+  supplied\; calendar apps may display this as a point event or apply their
+  own visual default.\n\nGeneral area from official calendar: Fisherman's W
+ harf. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/making-waves-ai-x-finance-
+ on-the-bay-9172420f-687f-4d40-acf6-a63eedca8140
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:f3d7c105-a779-4f42-9ce1-03725948d51d
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T150000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:AI Agents for Legal Teams: A Hands-On Workshop
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/ai-agents-for-legal-teams-a
+ -hands-on-workshop-f3d7c105-a779-4f42-9ce1-03725948d51d\n\nCalendar label 
+ at snapshot: Unspecified. This label is not an admission guarantee.\n\nSou
+ rce snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the
+  repository is updated.\n\nEnd time is unknown in this guide. No end or du
+ ration is supplied\; calendar apps may display this as a point event or ap
+ ply their own visual default.\n\nGeneral area from official calendar: Down
+ town. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/ai-agents-for-legal-teams-
+ a-hands-on-workshop-f3d7c105-a779-4f42-9ce1-03725948d51d
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:7d7939cd-9731-4a45-86a7-9fa9b07936da
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T153000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Structuring Investor Agreements: What Founders Need to Know
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/structuring-investor-agreem
+ ents-what-founders-need-to-know-7d7939cd-9731-4a45-86a7-9fa9b07936da\n\nCa
+ lendar label at snapshot: Unspecified. This label is not an admission guar
+ antee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates 
+ only when the repository is updated.\n\nEnd time is unknown in this guide.
+  No end or duration is supplied\; calendar apps may display this as a poin
+ t event or apply their own visual default.\n\nGeneral area from official c
+ alendar: FiDi. Area labels can differ from organizer pages\; confirm the v
+ enue.
+URL:https://www.tech-week.com/calendar/sf/events/structuring-investor-agree
+ ments-what-founders-need-to-know-7d7939cd-9731-4a45-86a7-9fa9b07936da
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a4e3a106-cce4-4f11-a179-e1fbf916d0a3
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T160000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Fireside Chat with Charly Kevers\, CFO of Carta
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/fireside-chat-with-charly-k
+ evers-cfo-of-carta-a4e3a106-cce4-4f11-a179-e1fbf916d0a3\n\nCalendar label 
+ at snapshot: Unspecified. This label is not an admission guarantee.\n\nSou
+ rce snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the
+  repository is updated.\n\nEnd time is unknown in this guide. No end or du
+ ration is supplied\; calendar apps may display this as a point event or ap
+ ply their own visual default.\n\nGeneral area from official calendar: SOMA
+ . Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/fireside-chat-with-charly-
+ kevers-cfo-of-carta-a4e3a106-cce4-4f11-a179-e1fbf916d0a3
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:49997d86-aecc-4fa7-9a02-7c4c299761fd
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T190000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:a16z Perennial - Founders Financial Future Collective
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/a16z-perennial-founders-fin
+ ancial-future-collective-49997d86-aecc-4fa7-9a02-7c4c299761fd\n\nCalendar 
+ label at snapshot: Unspecified. This label is not an admission guarantee.\
+ n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only wh
+ en the repository is updated.\n\nEnd time is unknown in this guide. No end
+  or duration is supplied\; calendar apps may display this as a point event
+  or apply their own visual default.\n\nGeneral area from official calendar
+ : Downtown. Area labels can differ from organizer pages\; confirm the venu
+ e.
+URL:https://www.tech-week.com/calendar/sf/events/a16z-perennial-founders-fi
+ nancial-future-collective-49997d86-aecc-4fa7-9a02-7c4c299761fd
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:48871de7-976f-4e2d-acc7-d989c2eee2af
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T210000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Income & Spending Clinic: Afford San Francisco
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/income-and-spending-clinic-
+ afford-san-francisco-48871de7-976f-4e2d-acc7-d989c2eee2af\n\nCalendar labe
+ l at snapshot: Unspecified. This label is not an admission guarantee.\n\nS
+ ource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when t
+ he repository is updated.\n\nEnd time is unknown in this guide. No end or 
+ duration is supplied\; calendar apps may display this as a point event or 
+ apply their own visual default.\n\nGeneral area from official calendar: Fi
+ Di. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/income-and-spending-clinic
+ -afford-san-francisco-48871de7-976f-4e2d-acc7-d989c2eee2af
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:107b708b-9b7e-4b05-b281-6ed6401f97eb
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T220000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:The New Finance: AI. Data. Talent. Governance. Scale.
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/the-new-finance-ai-data-tal
+ ent-governance-scale-107b708b-9b7e-4b05-b281-6ed6401f97eb\n\nCalendar labe
+ l at snapshot: Unspecified. This label is not an admission guarantee.\n\nS
+ ource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when t
+ he repository is updated.\n\nEnd time is unknown in this guide. No end or 
+ duration is supplied\; calendar apps may display this as a point event or 
+ apply their own visual default.\n\nGeneral area from official calendar: SO
+ MA. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/the-new-finance-ai-data-ta
+ lent-governance-scale-107b708b-9b7e-4b05-b281-6ed6401f97eb
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:237fcdd2-ee56-45fd-94b8-21d59699fcc8
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T220000Z
+LOCATION:Embarcadero (general area\; confirm venue)
+SUMMARY:How Legal Teams Can Maximize their ROI -Unplugged!
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/how-legal-teams-can-maximiz
+ e-their-roi-unplugged-237fcdd2-ee56-45fd-94b8-21d59699fcc8\n\nCalendar lab
+ el at snapshot: Unspecified. This label is not an admission guarantee.\n\n
+ Source snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when 
+ the repository is updated.\n\nEnd time is unknown in this guide. No end or
+  duration is supplied\; calendar apps may display this as a point event or
+  apply their own visual default.\n\nGeneral area from official calendar: E
+ mbarcadero. Area labels can differ from organizer pages\; confirm the venu
+ e.
+URL:https://www.tech-week.com/calendar/sf/events/how-legal-teams-can-maximi
+ ze-their-roi-unplugged-237fcdd2-ee56-45fd-94b8-21d59699fcc8
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:6d7e15d5-5eaa-40ce-8590-d6a89a8fe23e
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T223000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Chief LegalX Executive Panel + Fun Fall Mixer! - #SF TechWeek
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/chief-legalx-executive-pane
+ l-fun-fall-mixer-sf-techweek-6d7e15d5-5eaa-40ce-8590-d6a89a8fe23e\n\nCalen
+ dar label at snapshot: Unspecified. This label is not an admission guarant
+ ee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates onl
+ y when the repository is updated.\n\nEnd time is unknown in this guide. No
+  end or duration is supplied\; calendar apps may display this as a point e
+ vent or apply their own visual default.\n\nGeneral area from official cale
+ ndar: FiDi. Area labels can differ from organizer pages\; confirm the venu
+ e.
+URL:https://www.tech-week.com/calendar/sf/events/chief-legalx-executive-pan
+ el-fun-fall-mixer-sf-techweek-6d7e15d5-5eaa-40ce-8590-d6a89a8fe23e
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:9a995609-c8be-4773-a0b0-c5fbd14b9ad6
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T003000Z
+LOCATION:North Beach (general area\; confirm venue)
+SUMMARY:Decant the Decision on Your AI-Native Finance Tech Stack: Build vs.
+  Buy with Tabs & Campfire
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/decant-the-decision-on-your
+ -ai-native-finance-tech-stack-build-vs-buy-with-tabs-9a995609-c8be-4773-a0
+ b0-c5fbd14b9ad6\n\nCalendar label at snapshot: Unspecified. This label is 
+ not an admission guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338
+ Z. This feed updates only when the repository is updated.\n\nEnd time is u
+ nknown in this guide. No end or duration is supplied\; calendar apps may d
+ isplay this as a point event or apply their own visual default.\n\nGeneral
+  area from official calendar: North Beach. Area labels can differ from org
+ anizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/decant-the-decision-on-you
+ r-ai-native-finance-tech-stack-build-vs-buy-with-tabs-9a995609-c8be-4773-a
+ 0b0-c5fbd14b9ad6
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:0a61997a-2ba7-4cdf-887c-acd5b245f59e
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T010000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:AI Law\, Compliance\, & GovTech
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/ai-law-compliance-and-govte
+ ch-0a61997a-2ba7-4cdf-887c-acd5b245f59e\n\nCalendar label at snapshot: Uns
+ pecified. This label is not an admission guarantee.\n\nSource snapshot: 20
+ 26-09-24T03:24:10.256338Z. This feed updates only when the repository is u
+ pdated.\n\nEnd time is unknown in this guide. No end or duration is suppli
+ ed\; calendar apps may display this as a point event or apply their own vi
+ sual default.\n\nGeneral area from official calendar: FiDi. Area labels ca
+ n differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/ai-law-compliance-and-govt
+ ech-0a61997a-2ba7-4cdf-887c-acd5b245f59e
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c0d45639-4f90-451c-ad5a-1cce4d3db80b
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T010000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:Financial Model Makeover
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/financial-model-makeover-c0
+ d45639-4f90-451c-ad5a-1cce4d3db80b\n\nCalendar label at snapshot: Unspecif
+ ied. This label is not an admission guarantee.\n\nSource snapshot: 2026-09
+ -24T03:24:10.256338Z. This feed updates only when the repository is update
+ d.\n\nEnd time is unknown in this guide. No end or duration is supplied\; 
+ calendar apps may display this as a point event or apply their own visual 
+ default.\n\nGeneral area from official calendar: Downtown. Area labels can
+  differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/financial-model-makeover-c
+ 0d45639-4f90-451c-ad5a-1cce4d3db80b
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:dae77fbd-b715-4645-9fc3-ec65c5b2faf6
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T020000Z
+LOCATION:Embarcadero (general area\; confirm venue)
+SUMMARY:Can AI File Your Patent? What Founders Should Know
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/can-ai-file-your-patent-wha
+ t-founders-should-know-dae77fbd-b715-4645-9fc3-ec65c5b2faf6\n\nCalendar la
+ bel at snapshot: Unspecified. This label is not an admission guarantee.\n\
+ nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when
+  the repository is updated.\n\nEnd time is unknown in this guide. No end o
+ r duration is supplied\; calendar apps may display this as a point event o
+ r apply their own visual default.\n\nGeneral area from official calendar: 
+ Embarcadero. Area labels can differ from organizer pages\; confirm the ven
+ ue.
+URL:https://www.tech-week.com/calendar/sf/events/can-ai-file-your-patent-wh
+ at-founders-should-know-dae77fbd-b715-4645-9fc3-ec65c5b2faf6
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:440c44f9-beed-495f-88f7-efa9497ac720
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T170000Z
+LOCATION:Virtual (general area\; confirm venue)
+SUMMARY:One operating system for your firm and every company you own.
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/one-operating-system-for-yo
+ ur-firm-and-every-company-you-own-440c44f9-beed-495f-88f7-efa9497ac720\n\n
+ Calendar label at snapshot: Unspecified. This label is not an admission gu
+ arantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed update
+ s only when the repository is updated.\n\nEnd time is unknown in this guid
+ e. No end or duration is supplied\; calendar apps may display this as a po
+ int event or apply their own visual default.\n\nGeneral area from official
+  calendar: Virtual. Area labels can differ from organizer pages\; confirm 
+ the venue.
+URL:https://www.tech-week.com/calendar/sf/events/one-operating-system-for-y
+ our-firm-and-every-company-you-own-440c44f9-beed-495f-88f7-efa9497ac720
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:2bd10698-76a1-4d81-a429-a23c90370362
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T183000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Build the AI-Native Office of the CFO Stack
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/build-the-ai-native-office-
+ of-the-cfo-stack-2bd10698-76a1-4d81-a429-a23c90370362\n\nCalendar label at
+  snapshot: Unspecified. This label is not an admission guarantee.\n\nSourc
+ e snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the r
+ epository is updated.\n\nEnd time is unknown in this guide. No end or dura
+ tion is supplied\; calendar apps may display this as a point event or appl
+ y their own visual default.\n\nGeneral area from official calendar: FiDi. 
+ Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/build-the-ai-native-office
+ -of-the-cfo-stack-2bd10698-76a1-4d81-a429-a23c90370362
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:22e96063-41ee-4482-b8d3-bf95464b057f
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T193000Z
+LOCATION:Virtual (general area\; confirm venue)
+SUMMARY:Everyone Is Talking About AI Voice. Nobody Is Talking About Complia
+ nce.
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/everyone-is-talking-about-a
+ i-voice-nobody-is-talking-about-compliance-22e96063-41ee-4482-b8d3-bf95464
+ b057f\n\nCalendar label at snapshot: Unspecified. This label is not an adm
+ ission guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This fe
+ ed updates only when the repository is updated.\n\nEnd time is unknown in 
+ this guide. No end or duration is supplied\; calendar apps may display thi
+ s as a point event or apply their own visual default.\n\nGeneral area from
+  official calendar: Virtual. Area labels can differ from organizer pages\;
+  confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/everyone-is-talking-about-
+ ai-voice-nobody-is-talking-about-compliance-22e96063-41ee-4482-b8d3-bf9546
+ 4b057f
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:0b702401-1398-4b07-8d31-fcdc256278c5
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T220000Z
+LOCATION:Embarcadero (general area\; confirm venue)
+SUMMARY:AI x Procurement: The Intelligent Supply Chain
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/ai-x-procurement-the-intell
+ igent-supply-chain-0b702401-1398-4b07-8d31-fcdc256278c5\n\nCalendar label 
+ at snapshot: Unspecified. This label is not an admission guarantee.\n\nSou
+ rce snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the
+  repository is updated.\n\nEnd time is unknown in this guide. No end or du
+ ration is supplied\; calendar apps may display this as a point event or ap
+ ply their own visual default.\n\nGeneral area from official calendar: Emba
+ rcadero. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/ai-x-procurement-the-intel
+ ligent-supply-chain-0b702401-1398-4b07-8d31-fcdc256278c5
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:14c55a80-7035-4c1b-864e-afeeadc5ebb9
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T230000Z
+LOCATION:Marina (general area\; confirm venue)
+SUMMARY:AI in Strategic Finance
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/ai-in-strategic-finance-14c
+ 55a80-7035-4c1b-864e-afeeadc5ebb9\n\nCalendar label at snapshot: Unspecifi
+ ed. This label is not an admission guarantee.\n\nSource snapshot: 2026-09-
+ 24T03:24:10.256338Z. This feed updates only when the repository is updated
+ .\n\nEnd time is unknown in this guide. No end or duration is supplied\; c
+ alendar apps may display this as a point event or apply their own visual d
+ efault.\n\nGeneral area from official calendar: Marina. Area labels can di
+ ffer from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/ai-in-strategic-finance-14
+ c55a80-7035-4c1b-864e-afeeadc5ebb9
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:65285e58-85bd-45af-b021-d567c8f05fd4
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T010000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Finance Leaders Dinner w/ Vayu\, Taxwire\, and Veroa
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/finance-leaders-dinner-w-va
+ yu-taxwire-and-veroa-65285e58-85bd-45af-b021-d567c8f05fd4\n\nCalendar labe
+ l at snapshot: Unspecified. This label is not an admission guarantee.\n\nS
+ ource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when t
+ he repository is updated.\n\nEnd time is unknown in this guide. No end or 
+ duration is supplied\; calendar apps may display this as a point event or 
+ apply their own visual default.\n\nGeneral area from official calendar: Fi
+ Di. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/finance-leaders-dinner-w-v
+ ayu-taxwire-and-veroa-65285e58-85bd-45af-b021-d567c8f05fd4
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:87608b47-c794-42c5-819c-b98750ce3ba2
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T010000Z
+LOCATION:Castro (general area\; confirm venue)
+SUMMARY:Poker Night for Founders & Finance Leaders
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/poker-night-for-founders-an
+ d-finance-leaders-87608b47-c794-42c5-819c-b98750ce3ba2\n\nCalendar label a
+ t snapshot: Unspecified. This label is not an admission guarantee.\n\nSour
+ ce snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the 
+ repository is updated.\n\nEnd time is unknown in this guide. No end or dur
+ ation is supplied\; calendar apps may display this as a point event or app
+ ly their own visual default.\n\nGeneral area from official calendar: Castr
+ o. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/poker-night-for-founders-a
+ nd-finance-leaders-87608b47-c794-42c5-819c-b98750ce3ba2
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:8f796c14-8cf2-43c8-9014-089f990acb6e
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T010000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Term Sheets & Eats
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/term-sheets-and-eats-8f796c
+ 14-8cf2-43c8-9014-089f990acb6e\n\nCalendar label at snapshot: Unspecified.
+  This label is not an admission guarantee.\n\nSource snapshot: 2026-09-24T
+ 03:24:10.256338Z. This feed updates only when the repository is updated.\n
+ \nEnd time is unknown in this guide. No end or duration is supplied\; cale
+ ndar apps may display this as a point event or apply their own visual defa
+ ult.\n\nGeneral area from official calendar: FiDi. Area labels can differ 
+ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/term-sheets-and-eats-8f796
+ c14-8cf2-43c8-9014-089f990acb6e
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:bcc7a520-cbf0-49c3-8d34-20b7d233ee93
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T010000Z
+LOCATION:Stanford (general area\; confirm venue)
+SUMMARY:The Next Agenda for Innovation\, Capital & Regulation
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/the-next-agenda-for-innovat
+ ion-capital-and-regulation-bcc7a520-cbf0-49c3-8d34-20b7d233ee93\n\nCalenda
+ r label at snapshot: Unspecified. This label is not an admission guarantee
+ .\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only 
+ when the repository is updated.\n\nEnd time is unknown in this guide. No e
+ nd or duration is supplied\; calendar apps may display this as a point eve
+ nt or apply their own visual default.\n\nGeneral area from official calend
+ ar: Stanford. Area labels can differ from organizer pages\; confirm the ve
+ nue.
+URL:https://www.tech-week.com/calendar/sf/events/the-next-agenda-for-innova
+ tion-capital-and-regulation-bcc7a520-cbf0-49c3-8d34-20b7d233ee93
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:078ad53d-090d-4b83-bd1f-3c1b9bf3e9b9
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T013000Z
+LOCATION:Mission (general area\; confirm venue)
+SUMMARY:Inside the startup hiring process: Equity\, Comp\, and Red Flags
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/inside-the-startup-hiring-p
+ rocess-equity-comp-and-red-flags-078ad53d-090d-4b83-bd1f-3c1b9bf3e9b9\n\nC
+ alendar label at snapshot: Unspecified. This label is not an admission gua
+ rantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates
+  only when the repository is updated.\n\nEnd time is unknown in this guide
+ . No end or duration is supplied\; calendar apps may display this as a poi
+ nt event or apply their own visual default.\n\nGeneral area from official 
+ calendar: Mission. Area labels can differ from organizer pages\; confirm t
+ he venue.
+URL:https://www.tech-week.com/calendar/sf/events/inside-the-startup-hiring-
+ process-equity-comp-and-red-flags-078ad53d-090d-4b83-bd1f-3c1b9bf3e9b9
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:26e6e46b-ed47-4ed1-bf2a-15badb783afb
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T013000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:[Invite Only] AI Finance Leaders Happy Hour
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/invite-only-ai-finance-lead
+ ers-happy-hour-26e6e46b-ed47-4ed1-bf2a-15badb783afb\n\nCalendar label at s
+ napshot: Unspecified. This label is not an admission guarantee.\n\nSource 
+ snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the rep
+ ository is updated.\n\nEnd time is unknown in this guide. No end or durati
+ on is supplied\; calendar apps may display this as a point event or apply 
+ their own visual default.\n\nGeneral area from official calendar: Downtown
+ . Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/invite-only-ai-finance-lea
+ ders-happy-hour-26e6e46b-ed47-4ed1-bf2a-15badb783afb
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:35a429fe-5052-4f28-ad85-1b8df708452d
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T160000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Private Fund CFO Breakfast — The AI-Enabled Fund: Reporting\, Com
+ pliance & Tax Strategy (1 CPE)
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/private-fund-cfo-breakfast-
+ the-ai-enabled-fund-reporting-compliance-and-tax-stra-35a429fe-5052-4f28-a
+ d85-1b8df708452d\n\nCalendar label at snapshot: Unspecified. This label is
+  not an admission guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.25633
+ 8Z. This feed updates only when the repository is updated.\n\nEnd time is 
+ unknown in this guide. No end or duration is supplied\; calendar apps may 
+ display this as a point event or apply their own visual default.\n\nGenera
+ l area from official calendar: SOMA. Area labels can differ from organizer
+  pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/private-fund-cfo-breakfast
+ -the-ai-enabled-fund-reporting-compliance-and-tax-stra-35a429fe-5052-4f28-
+ ad85-1b8df708452d
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:db0ae95b-01d5-464e-ae83-00ec2df5bb47
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T213000Z
+LOCATION:Pacific Heights (general area\; confirm venue)
+SUMMARY:Financial Model Teardown
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/financial-model-teardown-db
+ 0ae95b-01d5-464e-ae83-00ec2df5bb47\n\nCalendar label at snapshot: Unspecif
+ ied. This label is not an admission guarantee.\n\nSource snapshot: 2026-09
+ -24T03:24:10.256338Z. This feed updates only when the repository is update
+ d.\n\nEnd time is unknown in this guide. No end or duration is supplied\; 
+ calendar apps may display this as a point event or apply their own visual 
+ default.\n\nGeneral area from official calendar: Pacific Heights. Area lab
+ els can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/financial-model-teardown-d
+ b0ae95b-01d5-464e-ae83-00ec2df5bb47
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:8fa982b6-233b-4147-8031-eac11e56a1fd
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T220000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:AI for Finance Summit 2026 SF
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/ai-for-finance-summit-2026-
+ sf-8fa982b6-233b-4147-8031-eac11e56a1fd\n\nCalendar label at snapshot: Uns
+ pecified. This label is not an admission guarantee.\n\nSource snapshot: 20
+ 26-09-24T03:24:10.256338Z. This feed updates only when the repository is u
+ pdated.\n\nEnd time is unknown in this guide. No end or duration is suppli
+ ed\; calendar apps may display this as a point event or apply their own vi
+ sual default.\n\nGeneral area from official calendar: FiDi. Area labels ca
+ n differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/ai-for-finance-summit-2026
+ -sf-8fa982b6-233b-4147-8031-eac11e56a1fd
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

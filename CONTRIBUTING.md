@@ -12,7 +12,14 @@ For a pull request:
 3. Keep the source event ID when correcting an existing listing. Check both
    its registration URL and its title/date before adding a possible duplicate.
 4. Run `python3 scripts/build.py` and `python3 scripts/validate.py`.
-5. Include the regenerated CSV, day lists, topic lists, and README in the PR.
+5. Include the regenerated CSV, day lists, collections, calendars, visuals, and README in the PR.
+
+Primary collections come from `scripts/categorize.py`. Improve its semantic
+rules or reviewed overrides instead of assigning unrelated events to meet a
+count target. Calendar UIDs must stay stable when correcting an event. Logo
+changes need a first-party source, updated checksum, and visual inspection.
+Run calendar tests with `python3 -m pip install -r requirements-dev.txt` and
+`python3 -m unittest discover -s tests` when changing calendar generation.
 
 The JSON is the source of truth for generated files. Editorial picks live in
 `data/picks.json`. Clearly label a community suggestion that is not on the

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="450" viewBox="0 0 760 450" role="img" aria-labelledby="title desc">
+<title id="title">07. Camp AI: Production-Ready Agents</title>
+<desc id="desc">TUE · OCT 06, 5:30 PM – 8:30 PM Pacific. The practical work behind agents in production. Application required.</desc>
+<rect width="760" height="450" rx="4" fill="#f5f1e8"/>
+<rect x="0" width="6" height="450" fill="#ba945c"/>
+<circle cx="64" cy="66" r="27" fill="#172a29"/>
+<text x="64" y="73" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#f5f1e8" text-anchor="middle">07</text>
+<text x="109" y="60" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#68726c" letter-spacing="2">THE SHORTLIST</text>
+<text x="109" y="82" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ba945c" letter-spacing="1.2">BUILD &amp; DEPLOY</text>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="188" height="50" viewBox="0 0 32 32" fill="none" x="506" y="41" preserveAspectRatio="xMaxYMid meet">
+<ns0:rect width="32" height="32" rx="6" fill="#191919" />
+<ns0:path d="M7.75834 14.4843C11.5228 13.863 14.4739 10.7466 15.0921 6.97597L15.2995 5.1637C15.3509 4.87571 15.1558 4.47458 14.7923 4.50338C11.9479 4.72554 9.2637 5.66562 7.77066 6.27657C7.02928 6.58102 6.54666 7.30099 6.54666 8.10324V14.0152C6.54666 14.3649 6.86088 14.6324 7.2059 14.5768L7.75834 14.4863V14.4843Z" fill="white" />
+<ns0:path d="M16.9079 6.9761C17.5281 10.7467 20.4792 13.8632 24.2416 14.4844L24.7941 14.5749C25.1391 14.6325 25.4533 14.3651 25.4533 14.0133V8.10132C25.4533 7.29906 24.9707 6.57909 24.2293 6.27464C22.7342 5.66164 20.0521 4.72362 17.2077 4.50145C16.8421 4.47266 16.6553 4.8779 16.6984 5.16177L16.9058 6.97405L16.9079 6.9761Z" fill="white" />
+<ns0:path d="M24.2387 16.1404C19.0942 17.1566 16.7058 20.5816 16.7058 27.0655C16.7058 27.3905 17.0282 27.6168 17.2993 27.4358C19.6652 25.8374 24.8713 21.6657 25.4073 16.4469C25.4278 15.7907 24.6084 16.0993 24.2387 16.1404Z" fill="white" />
+<ns0:path d="M7.76024 16.1404C12.9047 17.1566 15.2932 20.5816 15.2932 27.0655C15.2932 27.3905 14.9708 27.6168 14.6997 27.4358C12.3338 25.8374 7.1277 21.6657 6.59169 16.4469C6.57115 15.7907 7.39057 16.0993 7.76024 16.1404Z" fill="white" />
+</ns0:svg>
+<path d="M38 112H720" stroke="#d9d3c7"/>
+<text x="39" y="184" font-family="Georgia, 'Times New Roman', serif" font-size="53" fill="#172a29" >Production-ready</text>
+<text x="39" y="241" font-family="Georgia, 'Times New Roman', serif" font-size="53" fill="#172a29" >agents</text>
+<text x="41" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#6b756d" letter-spacing="1.4">AUTH0</text>
+<text x="41" y="318" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#4b6056" >The practical work behind agents in production.</text>
+<path d="M38 347H720" stroke="#d9d3c7"/>
+<text x="40" y="380" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#172a29" font-weight="700">TUE · OCT 06</text>
+<text x="40" y="410" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#526258" >5:30 PM – 8:30 PM PT</text>
+<rect x="548" y="368" width="169" height="33" rx="16" fill="#172a29"/>
+<text x="632" y="389" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#f5f1e8" text-anchor="middle" letter-spacing="1.8">APPLICATION</text>
+</svg>

@@ -1,0 +1,925 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SF Tech Week Community Guide//2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SF Tech Week 2026 — Women & underrepresented communities
+X-WR-CALDESC:Gatherings explicitly focused on women\, queer builders and ot
+ her underrepresented communities.
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+UID:urn:uuid:39e2de15-42e7-4ac9-9662-4e21308e6c29
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T000000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Funded Female Founders VII
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/funded-female-founders-vii-
+ 39e2de15-42e7-4ac9-9662-4e21308e6c29\n\nCalendar label at snapshot: Unspec
+ ified. This label is not an admission guarantee.\n\nSource snapshot: 2026-
+ 09-24T03:24:10.256338Z. This feed updates only when the repository is upda
+ ted.\n\nEnd time is unknown in this guide. No end or duration is supplied\
+ ; calendar apps may display this as a point event or apply their own visua
+ l default.\n\nGeneral area from official calendar: SOMA. Area labels can d
+ iffer from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/funded-female-founders-vii
+ -39e2de15-42e7-4ac9-9662-4e21308e6c29
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:2191cf74-01da-41b2-869a-6e87864c42e4
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T010000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:SheFundraises Pitch & Party
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/shefundraises-pitch-and-par
+ ty-2191cf74-01da-41b2-869a-6e87864c42e4\n\nCalendar label at snapshot: Uns
+ pecified. This label is not an admission guarantee.\n\nSource snapshot: 20
+ 26-09-24T03:24:10.256338Z. This feed updates only when the repository is u
+ pdated.\n\nEnd time is unknown in this guide. No end or duration is suppli
+ ed\; calendar apps may display this as a point event or apply their own vi
+ sual default.\n\nGeneral area from official calendar: FiDi. Area labels ca
+ n differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/shefundraises-pitch-and-pa
+ rty-2191cf74-01da-41b2-869a-6e87864c42e4
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:cb12342b-28c7-45ee-9fb1-1849a9360410
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T170000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:Built on Her Terms: Lovable + Wispr Flow brunch discussion
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/built-on-her-terms-lovable-
+ wispr-flow-brunch-discussion-cb12342b-28c7-45ee-9fb1-1849a9360410\n\nCalen
+ dar label at snapshot: Unspecified. This label is not an admission guarant
+ ee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates onl
+ y when the repository is updated.\n\nEnd time is unknown in this guide. No
+  end or duration is supplied\; calendar apps may display this as a point e
+ vent or apply their own visual default.\n\nGeneral area from official cale
+ ndar: Downtown. Area labels can differ from organizer pages\; confirm the 
+ venue.
+URL:https://www.tech-week.com/calendar/sf/events/built-on-her-terms-lovable
+ -wispr-flow-brunch-discussion-cb12342b-28c7-45ee-9fb1-1849a9360410
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:adb6d32b-27a1-4492-bd83-7240e7e03950
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T180000Z
+LOCATION:Castro (general area\; confirm venue)
+SUMMARY:Queer Founders and Investors - History of the Castro and Coffee
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/queer-founders-and-investor
+ s-history-of-the-castro-and-coffee-adb6d32b-27a1-4492-bd83-7240e7e03950\n\
+ nCalendar label at snapshot: Unspecified. This label is not an admission g
+ uarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updat
+ es only when the repository is updated.\n\nEnd time is unknown in this gui
+ de. No end or duration is supplied\; calendar apps may display this as a p
+ oint event or apply their own visual default.\n\nGeneral area from officia
+ l calendar: Castro. Area labels can differ from organizer pages\; confirm 
+ the venue.
+URL:https://www.tech-week.com/calendar/sf/events/queer-founders-and-investo
+ rs-history-of-the-castro-and-coffee-adb6d32b-27a1-4492-bd83-7240e7e03950
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:1ee0a2e5-80d3-4d58-b78d-8662c18e560c
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T210000Z
+LOCATION:Mission (general area\; confirm venue)
+SUMMARY:Women-Led Startups Pitch & Network
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/women-led-startups-pitch-an
+ d-network-1ee0a2e5-80d3-4d58-b78d-8662c18e560c\n\nCalendar label at snapsh
+ ot: Unspecified. This label is not an admission guarantee.\n\nSource snaps
+ hot: 2026-09-24T03:24:10.256338Z. This feed updates only when the reposito
+ ry is updated.\n\nEnd time is unknown in this guide. No end or duration is
+  supplied\; calendar apps may display this as a point event or apply their
+  own visual default.\n\nGeneral area from official calendar: Mission. Area
+  labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/women-led-startups-pitch-a
+ nd-network-1ee0a2e5-80d3-4d58-b78d-8662c18e560c
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5b9373e4-e426-42f8-8733-26334b697ea9
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T220000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Retail Rewired: Women Building What's Next
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/retail-rewired-women-buildi
+ ng-what-s-next-5b9373e4-e426-42f8-8733-26334b697ea9\n\nCalendar label at s
+ napshot: Waitlist. This label is not an admission guarantee.\n\nSource sna
+ pshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the reposi
+ tory is updated.\n\nEnd time is unknown in this guide. No end or duration 
+ is supplied\; calendar apps may display this as a point event or apply the
+ ir own visual default.\n\nGeneral area from official calendar: FiDi. Area 
+ labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/retail-rewired-women-build
+ ing-what-s-next-5b9373e4-e426-42f8-8733-26334b697ea9
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:be78f6b8-61e8-479e-aca5-8df1ed6134a8
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261006T230000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:The Women in AI Consumer Tech Showcase
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/the-women-in-ai-consumer-te
+ ch-showcase-be78f6b8-61e8-479e-aca5-8df1ed6134a8\n\nCalendar label at snap
+ shot: Unspecified. This label is not an admission guarantee.\n\nSource sna
+ pshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the reposi
+ tory is updated.\n\nEnd time is unknown in this guide. No end or duration 
+ is supplied\; calendar apps may display this as a point event or apply the
+ ir own visual default.\n\nGeneral area from official calendar: SOMA. Area 
+ labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/the-women-in-ai-consumer-t
+ ech-showcase-be78f6b8-61e8-479e-aca5-8df1ed6134a8
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5bb29243-2047-4041-93b6-5c23f9c782d8
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T000000Z
+LOCATION:Embarcadero (general area\; confirm venue)
+SUMMARY:Autodesk X GLITCHED - Women in Game Dev Meetup
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/autodesk-x-glitched-women-i
+ n-game-dev-meetup-5bb29243-2047-4041-93b6-5c23f9c782d8\n\nCalendar label a
+ t snapshot: Unspecified. This label is not an admission guarantee.\n\nSour
+ ce snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the 
+ repository is updated.\n\nEnd time is unknown in this guide. No end or dur
+ ation is supplied\; calendar apps may display this as a point event or app
+ ly their own visual default.\n\nGeneral area from official calendar: Embar
+ cadero. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/autodesk-x-glitched-women-
+ in-game-dev-meetup-5bb29243-2047-4041-93b6-5c23f9c782d8
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:6c36ede0-b5c3-4693-af19-b5808cecc0fb
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T000000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Female Founders Happy Hour with Emmeline Ventures and Manatt
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/female-founders-happy-hour-
+ with-emmeline-ventures-and-manatt-6c36ede0-b5c3-4693-af19-b5808cecc0fb\n\n
+ Calendar label at snapshot: Unspecified. This label is not an admission gu
+ arantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed update
+ s only when the repository is updated.\n\nEnd time is unknown in this guid
+ e. No end or duration is supplied\; calendar apps may display this as a po
+ int event or apply their own visual default.\n\nGeneral area from official
+  calendar: FiDi. Area labels can differ from organizer pages\; confirm the
+  venue.
+URL:https://www.tech-week.com/calendar/sf/events/female-founders-happy-hour
+ -with-emmeline-ventures-and-manatt-6c36ede0-b5c3-4693-af19-b5808cecc0fb
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:87f2a2ae-41ff-46a3-8448-a34631dad8b2
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T000000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Uncork & Connect: Women in AI
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/uncork-and-connect-women-in
+ -ai-87f2a2ae-41ff-46a3-8448-a34631dad8b2\n\nCalendar label at snapshot: Un
+ specified. This label is not an admission guarantee.\n\nSource snapshot: 2
+ 026-09-24T03:24:10.256338Z. This feed updates only when the repository is 
+ updated.\n\nEnd time is unknown in this guide. No end or duration is suppl
+ ied\; calendar apps may display this as a point event or apply their own v
+ isual default.\n\nGeneral area from official calendar: FiDi. Area labels c
+ an differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/uncork-and-connect-women-i
+ n-ai-87f2a2ae-41ff-46a3-8448-a34631dad8b2
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5fb91107-8886-41c0-b7f6-9ff769de17c2
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T003000Z
+LOCATION:Hayes Valley (general area\; confirm venue)
+SUMMARY:Female Founders Panel
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/female-founders-panel-5fb91
+ 107-8886-41c0-b7f6-9ff769de17c2\n\nCalendar label at snapshot: Unspecified
+ . This label is not an admission guarantee.\n\nSource snapshot: 2026-09-24
+ T03:24:10.256338Z. This feed updates only when the repository is updated.\
+ n\nEnd time is unknown in this guide. No end or duration is supplied\; cal
+ endar apps may display this as a point event or apply their own visual def
+ ault.\n\nGeneral area from official calendar: Hayes Valley. Area labels ca
+ n differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/female-founders-panel-5fb9
+ 1107-8886-41c0-b7f6-9ff769de17c2
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c391e6ce-3e69-4141-ab67-5c9af85527ba
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T010000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:The AI Founders Table ✦ Boardy × Women in AI
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/the-ai-founders-table-board
+ y-women-in-ai-c391e6ce-3e69-4141-ab67-5c9af85527ba\n\nCalendar label at sn
+ apshot: Unspecified. This label is not an admission guarantee.\n\nSource s
+ napshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the repo
+ sitory is updated.\n\nEnd time is unknown in this guide. No end or duratio
+ n is supplied\; calendar apps may display this as a point event or apply t
+ heir own visual default.\n\nGeneral area from official calendar: Downtown.
+  Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/the-ai-founders-table-boar
+ dy-women-in-ai-c391e6ce-3e69-4141-ab67-5c9af85527ba
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:07b3d4e3-00c4-4488-9498-5de1c5b076c4
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T013000Z
+LOCATION:Pacific Heights (general area\; confirm venue)
+SUMMARY:Mothers in Tech: Juggling Career and Motherhood in the Age of AI
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/mothers-in-tech-juggling-ca
+ reer-and-motherhood-in-the-age-of-ai-07b3d4e3-00c4-4488-9498-5de1c5b076c4\
+ n\nCalendar label at snapshot: Unspecified. This label is not an admission
+  guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed upd
+ ates only when the repository is updated.\n\nEnd time is unknown in this g
+ uide. No end or duration is supplied\; calendar apps may display this as a
+  point event or apply their own visual default.\n\nGeneral area from offic
+ ial calendar: Pacific Heights. Area labels can differ from organizer pages
+ \; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/mothers-in-tech-juggling-c
+ areer-and-motherhood-in-the-age-of-ai-07b3d4e3-00c4-4488-9498-5de1c5b076c4
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:188597a1-3bec-4d6a-b207-f1c2b79fe477
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T020000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:Ugly Talk: Women Founder Open Mic and Mixer
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/ugly-talk-women-founder-ope
+ n-mic-and-mixer-188597a1-3bec-4d6a-b207-f1c2b79fe477\n\nCalendar label at 
+ snapshot: Unspecified. This label is not an admission guarantee.\n\nSource
+  snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the re
+ pository is updated.\n\nEnd time is unknown in this guide. No end or durat
+ ion is supplied\; calendar apps may display this as a point event or apply
+  their own visual default.\n\nGeneral area from official calendar: Downtow
+ n. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/ugly-talk-women-founder-op
+ en-mic-and-mixer-188597a1-3bec-4d6a-b207-f1c2b79fe477
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:32958dd2-8274-4885-b27b-63c9991b3db6
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T153000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:WOMEN IN AI/ML — HOSTED BY LILA
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/women-in-ai-ml-hosted-by-li
+ la-32958dd2-8274-4885-b27b-63c9991b3db6\n\nCalendar label at snapshot: Uns
+ pecified. This label is not an admission guarantee.\n\nSource snapshot: 20
+ 26-09-24T03:24:10.256338Z. This feed updates only when the repository is u
+ pdated.\n\nEnd time is unknown in this guide. No end or duration is suppli
+ ed\; calendar apps may display this as a point event or apply their own vi
+ sual default.\n\nGeneral area from official calendar: SOMA. Area labels ca
+ n differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/women-in-ai-ml-hosted-by-l
+ ila-32958dd2-8274-4885-b27b-63c9991b3db6
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:53130a27-3a75-474e-a32e-9ea0684865a5
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T163000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:Women backing Women
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/women-backing-women-53130a2
+ 7-3a75-474e-a32e-9ea0684865a5\n\nCalendar label at snapshot: Unspecified. 
+ This label is not an admission guarantee.\n\nSource snapshot: 2026-09-24T0
+ 3:24:10.256338Z. This feed updates only when the repository is updated.\n\
+ nEnd time is unknown in this guide. No end or duration is supplied\; calen
+ dar apps may display this as a point event or apply their own visual defau
+ lt.\n\nGeneral area from official calendar: Downtown. Area labels can diff
+ er from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/women-backing-women-53130a
+ 27-3a75-474e-a32e-9ea0684865a5
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:ead16828-30dc-4661-aa61-58c9c434e9af
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T180000Z
+LOCATION:Russian Hill (general area\; confirm venue)
+SUMMARY:How Women Invest Presents: Craft Matcha and Connections
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/how-women-invest-presents-c
+ raft-matcha-and-connections-ead16828-30dc-4661-aa61-58c9c434e9af\n\nCalend
+ ar label at snapshot: Unspecified. This label is not an admission guarante
+ e.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only
+  when the repository is updated.\n\nEnd time is unknown in this guide. No 
+ end or duration is supplied\; calendar apps may display this as a point ev
+ ent or apply their own visual default.\n\nGeneral area from official calen
+ dar: Russian Hill. Area labels can differ from organizer pages\; confirm t
+ he venue.
+URL:https://www.tech-week.com/calendar/sf/events/how-women-invest-presents-
+ craft-matcha-and-connections-ead16828-30dc-4661-aa61-58c9c434e9af
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:298e4880-7a9c-414f-bb18-3d2c018f97c0
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T183000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Women Who Build San Francisco
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/women-who-build-san-francis
+ co-298e4880-7a9c-414f-bb18-3d2c018f97c0\n\nCalendar label at snapshot: Uns
+ pecified. This label is not an admission guarantee.\n\nSource snapshot: 20
+ 26-09-24T03:24:10.256338Z. This feed updates only when the repository is u
+ pdated.\n\nEnd time is unknown in this guide. No end or duration is suppli
+ ed\; calendar apps may display this as a point event or apply their own vi
+ sual default.\n\nGeneral area from official calendar: FiDi. Area labels ca
+ n differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/women-who-build-san-franci
+ sco-298e4880-7a9c-414f-bb18-3d2c018f97c0
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:64e7a451-d7a4-41c6-89d7-cf31802d3a88
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T210000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Women Building\, Women Backing
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/women-building-women-backin
+ g-64e7a451-d7a4-41c6-89d7-cf31802d3a88\n\nCalendar label at snapshot: Unsp
+ ecified. This label is not an admission guarantee.\n\nSource snapshot: 202
+ 6-09-24T03:24:10.256338Z. This feed updates only when the repository is up
+ dated.\n\nEnd time is unknown in this guide. No end or duration is supplie
+ d\; calendar apps may display this as a point event or apply their own vis
+ ual default.\n\nGeneral area from official calendar: SOMA. Area labels can
+  differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/women-building-women-backi
+ ng-64e7a451-d7a4-41c6-89d7-cf31802d3a88
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:67db0de1-cfd1-4975-ab39-f0cb019f872b
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T210000Z
+LOCATION:Hayes Valley (general area\; confirm venue)
+SUMMARY:Women Leaders in FP&A: The Art of Transformation with Figma\, Chime
+ \, & Once Upon a Farm
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/women-leaders-in-fp-and-a-t
+ he-art-of-transformation-with-figma-chime-and-once-up-67db0de1-cfd1-4975-a
+ b39-f0cb019f872b\n\nCalendar label at snapshot: Unspecified. This label is
+  not an admission guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.25633
+ 8Z. This feed updates only when the repository is updated.\n\nEnd time is 
+ unknown in this guide. No end or duration is supplied\; calendar apps may 
+ display this as a point event or apply their own visual default.\n\nGenera
+ l area from official calendar: Hayes Valley. Area labels can differ from o
+ rganizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/women-leaders-in-fp-and-a-
+ the-art-of-transformation-with-figma-chime-and-once-up-67db0de1-cfd1-4975-
+ ab39-f0cb019f872b
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:94d55f32-ab2b-431b-841c-882e7300e268
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261007T233000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Lowenstein Sandler’s Sip and Social with Women in VC
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/lowenstein-sandler-s-sip-an
+ d-social-with-women-in-vc-94d55f32-ab2b-431b-841c-882e7300e268\n\nCalendar
+  label at snapshot: Unspecified. This label is not an admission guarantee.
+ \n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only w
+ hen the repository is updated.\n\nEnd time is unknown in this guide. No en
+ d or duration is supplied\; calendar apps may display this as a point even
+ t or apply their own visual default.\n\nGeneral area from official calenda
+ r: FiDi. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/lowenstein-sandler-s-sip-a
+ nd-social-with-women-in-vc-94d55f32-ab2b-431b-841c-882e7300e268
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a12be37f-c5fa-4c72-ae5f-e32716eaec20
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T000000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Women Shaping the Future of Finance
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/women-shaping-the-future-of
+ -finance-a12be37f-c5fa-4c72-ae5f-e32716eaec20\n\nCalendar label at snapsho
+ t: Unspecified. This label is not an admission guarantee.\n\nSource snapsh
+ ot: 2026-09-24T03:24:10.256338Z. This feed updates only when the repositor
+ y is updated.\n\nEnd time is unknown in this guide. No end or duration is 
+ supplied\; calendar apps may display this as a point event or apply their 
+ own visual default.\n\nGeneral area from official calendar: SOMA. Area lab
+ els can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/women-shaping-the-future-o
+ f-finance-a12be37f-c5fa-4c72-ae5f-e32716eaec20
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:150a3957-0be3-42d6-bac3-81bb8437f404
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T003000Z
+LOCATION:Embarcadero (general area\; confirm venue)
+SUMMARY:Women + AI: Making Waves\, a Dinner Cruise on the Bay 🛥️
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/women-ai-making-waves-a-din
+ ner-cruise-on-the-bay-150a3957-0be3-42d6-bac3-81bb8437f404\n\nCalendar lab
+ el at snapshot: Unspecified. This label is not an admission guarantee.\n\n
+ Source snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when 
+ the repository is updated.\n\nEnd time is unknown in this guide. No end or
+  duration is supplied\; calendar apps may display this as a point event or
+  apply their own visual default.\n\nGeneral area from official calendar: E
+ mbarcadero. Area labels can differ from organizer pages\; confirm the venu
+ e.
+URL:https://www.tech-week.com/calendar/sf/events/women-ai-making-waves-a-di
+ nner-cruise-on-the-bay-150a3957-0be3-42d6-bac3-81bb8437f404
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:354d608a-f4ba-4aa0-8ec3-c21d23624203
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T010000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:Built to Endure ✦ The VC Table by Boardy x Women in AI
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/built-to-endure-the-vc-tabl
+ e-by-boardy-x-women-in-ai-354d608a-f4ba-4aa0-8ec3-c21d23624203\n\nCalendar
+  label at snapshot: Unspecified. This label is not an admission guarantee.
+ \n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only w
+ hen the repository is updated.\n\nEnd time is unknown in this guide. No en
+ d or duration is supplied\; calendar apps may display this as a point even
+ t or apply their own visual default.\n\nGeneral area from official calenda
+ r: Downtown. Area labels can differ from organizer pages\; confirm the ven
+ ue.
+URL:https://www.tech-week.com/calendar/sf/events/built-to-endure-the-vc-tab
+ le-by-boardy-x-women-in-ai-354d608a-f4ba-4aa0-8ec3-c21d23624203
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d27c2bb9-16ab-4811-9d80-2a35394572fd
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T010000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:100 Women in AI Report + Podcast Launch
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/100-women-in-ai-report-podc
+ ast-launch-d27c2bb9-16ab-4811-9d80-2a35394572fd\n\nCalendar label at snaps
+ hot: Unspecified. This label is not an admission guarantee.\n\nSource snap
+ shot: 2026-09-24T03:24:10.256338Z. This feed updates only when the reposit
+ ory is updated.\n\nEnd time is unknown in this guide. No end or duration i
+ s supplied\; calendar apps may display this as a point event or apply thei
+ r own visual default.\n\nGeneral area from official calendar: SOMA. Area l
+ abels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/100-women-in-ai-report-pod
+ cast-launch-d27c2bb9-16ab-4811-9d80-2a35394572fd
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:70a5aa9b-5ce6-4d17-a83e-91539de23043
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T020000Z
+LOCATION:Mission (general area\; confirm venue)
+SUMMARY:Women in STEM Comedy x Signal Showcase
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/women-in-stem-comedy-x-sign
+ al-showcase-70a5aa9b-5ce6-4d17-a83e-91539de23043\n\nCalendar label at snap
+ shot: Unspecified. This label is not an admission guarantee.\n\nSource sna
+ pshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the reposi
+ tory is updated.\n\nEnd time is unknown in this guide. No end or duration 
+ is supplied\; calendar apps may display this as a point event or apply the
+ ir own visual default.\n\nGeneral area from official calendar: Mission. Ar
+ ea labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/women-in-stem-comedy-x-sig
+ nal-showcase-70a5aa9b-5ce6-4d17-a83e-91539de23043
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:7392a199-557d-4290-9ef3-2764e0e1784e
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T170000Z
+LOCATION:SOMA (general area\; confirm venue)
+SUMMARY:Women in Tech Leadership: From General Counsel to Board w/ Deel\, A
+ WS & Sunshine Lake
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/women-in-tech-leadership-fr
+ om-general-counsel-to-board-w-deel-aws-and-sunshine-l-7392a199-557d-4290-9
+ ef3-2764e0e1784e\n\nCalendar label at snapshot: Unspecified. This label is
+  not an admission guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.25633
+ 8Z. This feed updates only when the repository is updated.\n\nEnd time is 
+ unknown in this guide. No end or duration is supplied\; calendar apps may 
+ display this as a point event or apply their own visual default.\n\nGenera
+ l area from official calendar: SOMA. Area labels can differ from organizer
+  pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/women-in-tech-leadership-f
+ rom-general-counsel-to-board-w-deel-aws-and-sunshine-l-7392a199-557d-4290-
+ 9ef3-2764e0e1784e
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:9a197f00-bcaf-4d8e-97fb-d76c1b13a552
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T193000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Free Game for Women Founders
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/free-game-for-women-founder
+ s-9a197f00-bcaf-4d8e-97fb-d76c1b13a552\n\nCalendar label at snapshot: Unsp
+ ecified. This label is not an admission guarantee.\n\nSource snapshot: 202
+ 6-09-24T03:24:10.256338Z. This feed updates only when the repository is up
+ dated.\n\nEnd time is unknown in this guide. No end or duration is supplie
+ d\; calendar apps may display this as a point event or apply their own vis
+ ual default.\n\nGeneral area from official calendar: FiDi. Area labels can
+  differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/free-game-for-women-founde
+ rs-9a197f00-bcaf-4d8e-97fb-d76c1b13a552
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:60a85fe7-bc78-4541-a1eb-b2993c291e6a
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T230000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:Brown Girls on the Rise - #SF Tech Week
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/brown-girls-on-the-rise-sf-
+ tech-week-60a85fe7-bc78-4541-a1eb-b2993c291e6a\n\nCalendar label at snapsh
+ ot: Unspecified. This label is not an admission guarantee.\n\nSource snaps
+ hot: 2026-09-24T03:24:10.256338Z. This feed updates only when the reposito
+ ry is updated.\n\nEnd time is unknown in this guide. No end or duration is
+  supplied\; calendar apps may display this as a point event or apply their
+  own visual default.\n\nGeneral area from official calendar: Downtown. Are
+ a labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/brown-girls-on-the-rise-sf
+ -tech-week-60a85fe7-bc78-4541-a1eb-b2993c291e6a
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:af6ed098-716c-419a-8d03-5d2dee1ed118
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261008T231500Z
+LOCATION:East Bay (general area\; confirm venue)
+SUMMARY:Vibe Code Lab by Female Founder Collective x Vibe Code Mama
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/vibe-code-lab-by-female-fou
+ nder-collective-x-vibe-code-mama-af6ed098-716c-419a-8d03-5d2dee1ed118\n\nC
+ alendar label at snapshot: Unspecified. This label is not an admission gua
+ rantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates
+  only when the repository is updated.\n\nEnd time is unknown in this guide
+ . No end or duration is supplied\; calendar apps may display this as a poi
+ nt event or apply their own visual default.\n\nGeneral area from official 
+ calendar: East Bay. Area labels can differ from organizer pages\; confirm 
+ the venue.
+URL:https://www.tech-week.com/calendar/sf/events/vibe-code-lab-by-female-fo
+ under-collective-x-vibe-code-mama-af6ed098-716c-419a-8d03-5d2dee1ed118
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:ee66856a-364c-42eb-a0eb-2437226ca576
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T020000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Female Founder-Investor Dinner (Invite Only)
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/female-founder-investor-din
+ ner-invite-only-ee66856a-364c-42eb-a0eb-2437226ca576\n\nCalendar label at 
+ snapshot: Unspecified. This label is not an admission guarantee.\n\nSource
+  snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when the re
+ pository is updated.\n\nEnd time is unknown in this guide. No end or durat
+ ion is supplied\; calendar apps may display this as a point event or apply
+  their own visual default.\n\nGeneral area from official calendar: FiDi. A
+ rea labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/female-founder-investor-di
+ nner-invite-only-ee66856a-364c-42eb-a0eb-2437226ca576
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:caa82197-005d-4147-8805-0d1191155d29
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T160000Z
+LOCATION:Mission Bay (general area\; confirm venue)
+SUMMARY:Women in AI Coffee\, Breakfast\, & Fireside Chat
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/women-in-ai-coffee-breakfas
+ t-and-fireside-chat-caa82197-005d-4147-8805-0d1191155d29\n\nCalendar label
+  at snapshot: Unspecified. This label is not an admission guarantee.\n\nSo
+ urce snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when th
+ e repository is updated.\n\nEnd time is unknown in this guide. No end or d
+ uration is supplied\; calendar apps may display this as a point event or a
+ pply their own visual default.\n\nGeneral area from official calendar: Mis
+ sion Bay. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/women-in-ai-coffee-breakfa
+ st-and-fireside-chat-caa82197-005d-4147-8805-0d1191155d29
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b2edb06d-15f6-4c7a-8d14-e5838cbeebdd
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T190000Z
+LOCATION:Jackson Square (general area\; confirm venue)
+SUMMARY:Female Founders & Capital Allocators Lunch\, hosted by Renegade & 3
+ i Members
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/female-founders-and-capital
+ -allocators-lunch-hosted-by-renegade-and-3i-members-b2edb06d-15f6-4c7a-8d1
+ 4-e5838cbeebdd\n\nCalendar label at snapshot: Unspecified. This label is n
+ ot an admission guarantee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z
+ . This feed updates only when the repository is updated.\n\nEnd time is un
+ known in this guide. No end or duration is supplied\; calendar apps may di
+ splay this as a point event or apply their own visual default.\n\nGeneral 
+ area from official calendar: Jackson Square. Area labels can differ from o
+ rganizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/female-founders-and-capita
+ l-allocators-lunch-hosted-by-renegade-and-3i-members-b2edb06d-15f6-4c7a-8d
+ 14-e5838cbeebdd
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:dde3d0b8-c4f8-43b7-850e-978f063e920c
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T220000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:From Employee to Entrepreneur: Women’s Panel & Mastermind
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/from-employee-to-entreprene
+ ur-women-s-panel-and-mastermind-dde3d0b8-c4f8-43b7-850e-978f063e920c\n\nCa
+ lendar label at snapshot: Unspecified. This label is not an admission guar
+ antee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates 
+ only when the repository is updated.\n\nEnd time is unknown in this guide.
+  No end or duration is supplied\; calendar apps may display this as a poin
+ t event or apply their own visual default.\n\nGeneral area from official c
+ alendar: Downtown. Area labels can differ from organizer pages\; confirm t
+ he venue.
+URL:https://www.tech-week.com/calendar/sf/events/from-employee-to-entrepren
+ eur-women-s-panel-and-mastermind-dde3d0b8-c4f8-43b7-850e-978f063e920c
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:28be55f1-b5c6-431d-a2f5-1ff7892112f8
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261009T223000Z
+LOCATION:FiDi (general area\; confirm venue)
+SUMMARY:Veterans × Tech: Building What’s Next - #SF TechWeek
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/veterans-tech-building-what
+ -s-next-sf-techweek-28be55f1-b5c6-431d-a2f5-1ff7892112f8\n\nCalendar label
+  at snapshot: Unspecified. This label is not an admission guarantee.\n\nSo
+ urce snapshot: 2026-09-24T03:24:10.256338Z. This feed updates only when th
+ e repository is updated.\n\nEnd time is unknown in this guide. No end or d
+ uration is supplied\; calendar apps may display this as a point event or a
+ pply their own visual default.\n\nGeneral area from official calendar: FiD
+ i. Area labels can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/veterans-tech-building-wha
+ t-s-next-sf-techweek-28be55f1-b5c6-431d-a2f5-1ff7892112f8
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:53e5f138-40e2-4fe4-bd6b-408cefe76db7
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261010T003000Z
+LOCATION:Hayes Valley (general area\; confirm venue)
+SUMMARY:Female-Led Startups
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/female-led-startups-53e5f13
+ 8-40e2-4fe4-bd6b-408cefe76db7\n\nCalendar label at snapshot: Unspecified. 
+ This label is not an admission guarantee.\n\nSource snapshot: 2026-09-24T0
+ 3:24:10.256338Z. This feed updates only when the repository is updated.\n\
+ nEnd time is unknown in this guide. No end or duration is supplied\; calen
+ dar apps may display this as a point event or apply their own visual defau
+ lt.\n\nGeneral area from official calendar: Hayes Valley. Area labels can 
+ differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/female-led-startups-53e5f1
+ 38-40e2-4fe4-bd6b-408cefe76db7
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:0e2a2278-d557-4652-9e44-0639f3cc9db5
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261010T160000Z
+LOCATION:Other (general area\; confirm venue)
+SUMMARY:Build For Her
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/build-for-her-0e2a2278-d557
+ -4652-9e44-0639f3cc9db5\n\nCalendar label at snapshot: Unspecified. This l
+ abel is not an admission guarantee.\n\nSource snapshot: 2026-09-24T03:24:1
+ 0.256338Z. This feed updates only when the repository is updated.\n\nEnd t
+ ime is unknown in this guide. No end or duration is supplied\; calendar ap
+ ps may display this as a point event or apply their own visual default.\n\
+ nGeneral area from official calendar: Other. Area labels can differ from o
+ rganizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/build-for-her-0e2a2278-d55
+ 7-4652-9e44-0639f3cc9db5
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a1fbe39e-86d1-479a-af8e-f55b0515be2a
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261010T220000Z
+LOCATION:Other (general area\; confirm venue)
+SUMMARY:Tech Gals Chat over Chai: Leher
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/tech-gals-chat-over-chai-le
+ her-a1fbe39e-86d1-479a-af8e-f55b0515be2a\n\nCalendar label at snapshot: Un
+ specified. This label is not an admission guarantee.\n\nSource snapshot: 2
+ 026-09-24T03:24:10.256338Z. This feed updates only when the repository is 
+ updated.\n\nEnd time is unknown in this guide. No end or duration is suppl
+ ied\; calendar apps may display this as a point event or apply their own v
+ isual default.\n\nGeneral area from official calendar: Other. Area labels 
+ can differ from organizer pages\; confirm the venue.
+URL:https://www.tech-week.com/calendar/sf/events/tech-gals-chat-over-chai-l
+ eher-a1fbe39e-86d1-479a-af8e-f55b0515be2a
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:f753d6d6-54b6-48b3-88a5-34a017d84e72
+DTSTAMP:20260924T032410Z
+LAST-MODIFIED:20260924T032410Z
+DTSTART:20261010T220000Z
+LOCATION:Downtown (general area\; confirm venue)
+SUMMARY:Women X Foundation: Where Capital Meets the Next Wave of AI
+DESCRIPTION:Discovery listing. Apply separately with the organizer\; admiss
+ ion is not confirmed.\n\nThis calendar entry is not a ticket or invitation
+ . Confirm the current time and venue before attending.\n\nOfficial details
+ : https://www.tech-week.com/calendar/sf/events/women-x-foundation-where-ca
+ pital-meets-the-next-wave-of-ai-f753d6d6-54b6-48b3-88a5-34a017d84e72\n\nCa
+ lendar label at snapshot: Unspecified. This label is not an admission guar
+ antee.\n\nSource snapshot: 2026-09-24T03:24:10.256338Z. This feed updates 
+ only when the repository is updated.\n\nEnd time is unknown in this guide.
+  No end or duration is supplied\; calendar apps may display this as a poin
+ t event or apply their own visual default.\n\nGeneral area from official c
+ alendar: Downtown. Area labels can differ from organizer pages\; confirm t
+ he venue.
+URL:https://www.tech-week.com/calendar/sf/events/women-x-foundation-where-c
+ apital-meets-the-next-wave-of-ai-f753d6d6-54b6-48b3-88a5-34a017d84e72
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

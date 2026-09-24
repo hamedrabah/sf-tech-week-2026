@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="450" viewBox="0 0 760 450" role="img" aria-labelledby="title desc">
+<title id="title">05. Deep Tech Investor Breakfast</title>
+<desc id="desc">WED · OCT 07, 9 AM · END TBA Pacific. An investor-focused morning, off the record. Application required.</desc>
+<rect width="760" height="450" rx="4" fill="#f5f1e8"/>
+<rect x="0" width="6" height="450" fill="#ba945c"/>
+<circle cx="64" cy="66" r="27" fill="#172a29"/>
+<text x="64" y="73" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#f5f1e8" text-anchor="middle">05</text>
+<text x="109" y="60" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#68726c" letter-spacing="2">THE SHORTLIST</text>
+<text x="109" y="82" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ba945c" letter-spacing="1.2">INVESTOR CIRCLE</text>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="188" height="50" viewBox="0 0 52 52" fill="none" x="506" y="41" preserveAspectRatio="xMaxYMid meet">
+  <ns0:g clip-path="url(#renegade-partners-clip0_446_2596)">
+    <ns0:path d="M39.4268 38.4388C40.3898 38.4388 41.1021 38.2884 41.5596 37.9897C42.0171 37.691 42.2469 37.2189 42.2469 36.5713C42.2469 35.9237 42.0296 35.4621 41.5972 35.1801C41.1648 34.9001 40.4525 34.7581 39.4644 34.7581H36.0427V38.4367H39.4289L39.4268 38.4388ZM42.7211 45.5767L39.8655 40.6886H36.0406V45.5767H33.2227V32.5083H39.6461C43.2934 32.5083 45.1192 33.8682 45.1192 36.5901C45.1192 37.4695 44.9145 38.2007 44.505 38.7877C44.0956 39.3726 43.471 39.83 42.6292 40.1601L45.9234 45.5788H42.7211V45.5767Z" fill="#FA2217" />
+    <ns0:path d="M2.61535 2.61535H49.3846V49.3846H2.61535V2.61535ZM0 52H52V0H0V52Z" fill="#FA2217" />
+  </ns0:g>
+  <ns0:defs>
+    <ns0:clipPath id="renegade-partners-clip0_446_2596">
+      <ns0:rect width="52" height="52" fill="white" />
+    </ns0:clipPath>
+  </ns0:defs>
+</ns0:svg>
+<path d="M38 112H720" stroke="#d9d3c7"/>
+<text x="39" y="184" font-family="Georgia, 'Times New Roman', serif" font-size="47" fill="#172a29" >Deep tech</text>
+<text x="39" y="241" font-family="Georgia, 'Times New Roman', serif" font-size="47" fill="#172a29" >investor breakfast</text>
+<text x="41" y="280" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#6b756d" letter-spacing="1.4">RENEGADE × SPEEDRUN</text>
+<text x="41" y="318" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#4b6056" >An investor-focused morning, off the record.</text>
+<path d="M38 347H720" stroke="#d9d3c7"/>
+<text x="40" y="380" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#172a29" font-weight="700">WED · OCT 07</text>
+<text x="40" y="410" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#526258" >9 AM · END TBA PT</text>
+<rect x="548" y="368" width="169" height="33" rx="16" fill="#172a29"/>
+<text x="632" y="389" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#f5f1e8" text-anchor="middle" letter-spacing="1.8">INVITE-ONLY</text>
+</svg>

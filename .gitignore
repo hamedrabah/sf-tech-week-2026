@@ -6,5 +6,5 @@ __pycache__/
 work/
 raw/
 *.html
+!docs/index.html
 *.har
-

@@ -3,6 +3,8 @@
 import csv
 import json
 import re
+import hashlib
+import xml.etree.ElementTree as ET
 from collections import Counter
 from datetime import date, datetime
 from pathlib import Path
@@ -32,6 +34,8 @@ meta = json.loads((ROOT / "data/metadata.json").read_text())
 picks = json.loads((ROOT / "data/picks.json").read_text())
 more = json.loads((ROOT / "data/more-picks.json").read_text())
 tracks = json.loads((ROOT / "data/tracks.json").read_text())
+collections = json.loads((ROOT / "data/collections.json").read_text())
+brands = json.loads((ROOT / "data/brands.json").read_text())
 allowed = {"id", "title", "date", "start_time", "timezone", "neighborhood", "status_as_listed", "source_url", "checked_at"}
 seen_ids, seen_urls = set(), set()
 for index, event in enumerate(events):
@@ -82,6 +86,28 @@ for pick in more:
 for track in tracks:
     require(set(track) <= {'name', 'url', 'note', 'related_url'}, f"Unexpected track fields: {track.get('name')}")
 
+require(set(collections) == {'method', 'collections'}, 'Unexpected collection bundle fields')
+members = []
+slugs = set()
+for collection in collections['collections']:
+    require(set(collection) == {'id', 'name', 'description', 'event_ids'}, f"Unexpected collection fields: {collection.get('id')}")
+    require(bool(re.fullmatch(r'[a-z0-9-]+', collection['id'])), 'Invalid collection slug')
+    require(collection['id'] not in slugs, 'Duplicate collection slug')
+    require(bool(collection['event_ids']), f"Empty collection: {collection['id']}")
+    slugs.add(collection['id'])
+    members.extend(collection['event_ids'])
+require(len(members) == len(set(members)) == len(events), 'Collections must contain every event exactly once')
+require(set(members) == seen_ids, 'Collection IDs differ from catalog')
+brand_fields = {'pick_id', 'name', 'asset', 'source_url', 'source_asset_url', 'license_note', 'checked_at', 'asset_kind', 'preparation', 'sha256', 'alternate_asset', 'alternate_source_asset_url', 'alternate_usage', 'fallback_reason'}
+require({b['pick_id'] for b in brands} == {p['id'] for p in picks}, 'Brand mapping does not cover the ten')
+for brand in brands:
+    require(set(brand) <= brand_fields, f"Unexpected brand fields: {brand.get('name')}")
+    if brand['asset']:
+        asset = ROOT / brand['asset']
+        require(asset.is_file(), f"Missing logo: {brand['asset']}")
+        if asset.is_file():
+            require(hashlib.sha256(asset.read_bytes()).hexdigest() == brand['sha256'], f"Logo changed without a source update: {brand['asset']}")
+
 
 def walk_json(value, where):
     if isinstance(value, dict):
@@ -111,15 +137,36 @@ for path in ROOT.rglob('*'):
     if not path.is_file() or '.git' in path.parts or '__pycache__' in path.parts or path.suffix == '.pyc':
         continue
     rel = str(path.relative_to(ROOT))
-    require(path.suffix.lower() not in {'.html', '.har', '.eml', '.mbox'}, f"Raw export must not be published: {rel}")
-    if path.suffix in {'.json', '.csv', '.md', '.yml'} or path.name == 'LICENSE':
+    require(path.suffix.lower() not in {'.html', '.har', '.eml', '.mbox'} or rel == 'docs/index.html', f"Raw export must not be published: {rel}")
+    if path.suffix in {'.json', '.csv', '.md', '.yml', '.svg', '.html', '.ics'} or path.name == 'LICENSE':
         content = path.read_text()
         for pattern, reason in private_patterns:
-            require(not re.search(pattern, content, re.I), f"Possible {reason} in {rel}")
+            scan_content = content
+            if path.suffix == '.svg' and reason == 'phone-shaped value':
+                try:
+                    # Decimal vector coordinates can resemble telephone numbers.
+                    scan_content = ' '.join(ET.fromstring(content).itertext())
+                except ET.ParseError:
+                    pass
+            require(not re.search(pattern, scan_content, re.I), f"Possible {reason} in {rel}")
         if path.suffix == '.md':
             for target in re.findall(r'\]\(([^)]+)\)', content):
                 if not urlsplit(target).scheme and not target.startswith('#'):
                     require((path.parent / target.split('#')[0]).exists(), f"Broken local link in {rel}: {target}")
+            for target in re.findall(r'(?:src|href)="([^"]+)"', content):
+                if not urlsplit(target).scheme and not target.startswith('#'):
+                    require((path.parent / target.split('#')[0]).exists(), f"Broken HTML link in {rel}: {target}")
+        if path.suffix == '.svg':
+            try:
+                xml = ET.fromstring(content)
+                for el in xml.iter():
+                    require(el.tag.split('}')[-1] not in {'script', 'foreignObject'}, f"Unsafe SVG element in {rel}")
+                    require(not any(k.lower().startswith('on') for k in el.attrib), f"Inline SVG handler in {rel}")
+                    for key, value in el.attrib.items():
+                        if key.split('}')[-1] == 'href':
+                            require(value.startswith(('#', 'data:image/png;base64,', 'data:image/jpeg;base64,')), f"External SVG asset in {rel}")
+            except ET.ParseError:
+                errors.append(f'Invalid SVG: {rel}')
 
 csv_path = ROOT / 'data/events.csv'
 if csv_path.exists():
