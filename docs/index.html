@@ -193,6 +193,6 @@ const buttons=[...document.querySelectorAll('[data-filter]')], cards=[...documen
 function filter(){let count=0;for(const card of cards){const show=(active==='all'||card.dataset.kind===active)&&card.dataset.name.includes(search.value.trim().toLowerCase());card.hidden=!show;if(show)count++;}status.textContent=count+' calendar feed'+(count===1?'':'s');}
 for(const button of buttons)button.addEventListener('click',()=>{active=button.dataset.filter;for(const b of buttons)b.setAttribute('aria-pressed',String(b===button));filter();});search.addEventListener('input',filter);
 for(const button of document.querySelectorAll('[data-copy]'))button.addEventListener('click',async()=>{try{await navigator.clipboard.writeText(button.dataset.copy);button.textContent='Copied';status.textContent='Subscription URL copied. Paste it into your calendar app.';setTimeout(()=>button.textContent='Copy URL',2500);}catch{status.textContent='Copy this URL: '+button.dataset.copy;}});
-function followHash(){const kind={collections:'Collection',days:'Day','top-10':'The edit'}[location.hash.slice(1)];if(kind){active=kind;search.value='';for(const b of buttons)b.setAttribute('aria-pressed',String(b.dataset.filter===kind));}filter();}
+function followHash(){const kind={collections:'Collection',days:'Day','top-10':'The edit','all-events':'all'}[location.hash.slice(1)];if(kind){active=kind;search.value='';for(const b of buttons)b.setAttribute('aria-pressed',String(b.dataset.filter===kind));}filter();}
 window.addEventListener('hashchange',followHash);followHash();
 </script></body></html>

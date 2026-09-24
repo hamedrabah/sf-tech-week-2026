@@ -117,13 +117,13 @@
   },
   {
     "pick_id": "who-will-own-future",
-    "name": "ARK Invest",
+    "name": "Who Will Own the Future?",
     "asset": null,
-    "source_url": "https://www.ark-invest.com/",
+    "source_url": "https://partiful.com/e/xoXjF4aybCw6UY4XxY80",
     "source_asset_url": null,
     "license_note": "Third-party trademark and artwork. Included for editorial identification; not covered by the repository license. No affiliation or endorsement implied.",
     "checked_at": "2026-09-23",
     "asset_kind": "text fallback",
-    "fallback_reason": "No clean, accessible logo file was verified during this pass. Use the organization name as ordinary text."
+    "fallback_reason": "No institutional host is attributed in the verified record. Use the event title and an editorial topic label without implying organizational sponsorship."
   }
 ]

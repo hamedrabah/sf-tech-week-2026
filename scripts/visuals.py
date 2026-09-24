@@ -46,7 +46,7 @@ EDITS = {'claude-founder-house': (['Claude', 'Founder House'],
                 'INDUSTRIAL AI',
                 'AI meets the operations of heavy industry.'),
  'who-will-own-future': (['Who will own', 'the future?'],
-                         'ARK INVEST',
+                         'TECHNOLOGY & INVESTING',
                          'THE INVESTMENT VIEW',
                          'A Thursday evening with the investment world.')}
 
